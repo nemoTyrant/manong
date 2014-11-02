@@ -79,7 +79,7 @@ $('#content').on('click','.add',function(e){
 	_this.text('添加中...');
 	$.getJSON('index.php?a=add',data,function(rs){
 		if(rs.res){
-			_this.closest('.item').hide(1000);
+			_this.closest('.item').hide(200);
 			updateCategory(rs.cate);
 		}else{
 			alert(rs.msg);
@@ -95,7 +95,7 @@ $('#content').on('click','.del',function(e){
 	_this.text('删除中...');
 	$.getJSON('index.php?a=del',{id:id},function(rs){
 		if(rs.res){
-			_this.closest('.item').hide(1000);
+			_this.closest('.item').hide(200);
 			updateCategory(rs.cate);
 		}else{
 			alert('删除失败');

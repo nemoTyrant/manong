@@ -154,8 +154,9 @@ function render(){
 	$current=$data[count($data)-1]['number'];
 	$content="码农周刊分类整理
 ======
-码农周刊的类别分的比较大，不易于后期查阅，所以我把每期的内容按语言或技术进行了分类整理。  
-码农周刊官方网址 [http://weekly.manong.io/](http://weekly.manong.io/)  
+码农周刊的类别分的比较大，不易于后期查阅，所以我把每期的内容按语言或技术进行了分类整理。
+码农周刊官方网址 [http://weekly.manong.io/](http://weekly.manong.io/)
+一些不熟悉的领域分类可能不准确，请见谅
 现在已整理到第{$current}期。
 ";
 
