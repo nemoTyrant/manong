@@ -81,7 +81,7 @@ function crawl(){
 			$html .= '<form>';
 			$html .= "标题：<input type='text' name='title' value='{$val['title']}'><br>";
 			$html .= "描述：<input type='text' name='desc' value='{$val['desc']}'><br>";
-			$html .= "地址：<input type='text' name='href' value='{$val['href']}'><br>";
+			$html .= "地址：<input type='text' name='href' value='{$val['href']}'><button class='openurl'>打开</button><br>";
 			$html .= "<input type='hidden' name='id' value='{$val['id']}'>";
 			$html .= "<input type='hidden' name='number' value='{$val['number']}'>";
 			$html .= "<input type='text' class='newcate' name='newcate''>";
@@ -234,7 +234,7 @@ class manongdb{
 			mylog('crawl finished.start parsing');
 			$data=array();
 			foreach ($matches[1] as $key => $val) {
-				if(false !== strpos($matches[3][$key], 'job')){
+				if(false !== strpos($matches[1][$key], 'job')){
 					continue;
 				}
 				$item=[
@@ -247,7 +247,7 @@ class manongdb{
 				//加入数据库
 				$id=$this->add_cache($item);
 				$item['id']=$id;
-				mylog('item added to cache');
+				mylog("item {$id} added to cache");
 				// 加入数组
 				$data[]=$item;
 			}

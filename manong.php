@@ -84,6 +84,7 @@ $('#content').on('click','.add',function(e){
 		}else{
 			alert(rs.msg);
 		}
+		_this.text('添加');
 	});
 	e.preventDefault();
 });
@@ -96,12 +97,18 @@ $('#content').on('click','.del',function(e){
 	$.getJSON('index.php?a=del',{id:id},function(rs){
 		if(rs.res){
 			_this.closest('.item').hide(200);
-			updateCategory(rs.cate);
 		}else{
 			alert('删除失败');
 		}
 	});
 	e.preventDefault();
+});
+
+// 打开
+$('#content').on('click','.openurl',function(){
+	var url=$(this).prev().val();
+	window.open(url,'_blank');
+	return false;
 });
 </script>
 </html>
