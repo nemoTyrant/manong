@@ -150,8 +150,9 @@ function del(){
  * render data to markdown text
  */
 function render(){
-	$data=get_db()->get_all();
-	$current=$data[count($data)-1]['number'];
+	$mdb=get_db();
+	$data=$mdb->get_all();
+	$current=$mdb->current_number();
 	$content="码农周刊分类整理
 ======
 码农周刊的类别分的比较大，不易于后期查阅，所以我把每期的内容按语言或技术进行了分类整理。  
@@ -327,6 +328,11 @@ class manongdb{
 	 */
 	function get_all(){
 		return $this->pdo->query('select * from issue order by category,addtime')->fetchAll(PDO::FETCH_ASSOC);
+	}
+
+	function current_number(){
+		$rs=$this->pdo->query('select max(number) as max from issue')->fetch(PDO::FETCH_ASSOC);
+		return $rs['max'];
 	}
 }
 ?>
