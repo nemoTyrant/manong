@@ -65,17 +65,26 @@ function ajax_return($arr){
  */
 function crawl(){
 	$number=$_POST['number'];
-
+	
 	$mdb=get_db();
+
 	$data=$mdb->get_issue($number);
 	$html='';
 	if(empty($data)){
 		$html .= 'no data';
 	}else{
-		// echo "<pre>";
-		// print_r($data);
-		// echo "</pre>";
+		$cates=$mdb->get_cate();
 		foreach ($data as $val) {
+			// basic classification
+			$cate='';
+			foreach ($cates as $v) {
+				if(strlen($v) < 2){	// in case R or D matched
+					continue;
+				}
+				if(false !== strpos(strtoupper($val['title']), $v)){
+					$cate=$v;
+				}
+			}
 			$html .= '<div class="item">';
 			$html .= '<hr>';
 			$html .= '<form>';
@@ -84,7 +93,7 @@ function crawl(){
 			$html .= "地址：<input type='text' name='href' value='{$val['href']}'><button class='openurl'>打开</button><br>";
 			$html .= "<input type='hidden' name='id' value='{$val['id']}'>";
 			$html .= "<input type='hidden' name='number' value='{$val['number']}'>";
-			$html .= "<input type='text' class='newcate' name='newcate''>";
+			$html .= "<input type='text' class='newcate' name='newcate' value='{$cate}'>";
 			$html .= "<button class='add'>添加</button>";
 			$html .= "<button class='del''>删除</button>";
 			$html .= "</form>";
@@ -235,7 +244,7 @@ class manongdb{
 			mylog('crawl finished.start parsing');
 			$data=array();
 			foreach ($matches[1] as $key => $val) {
-				if(false !== strpos($matches[1][$key], 'job')){
+				if(false !== strpos($matches[1][$key], 'job') || false !== strpos($matches[1][$key], 'amazon')){	// get rid of job and book recommendations
 					continue;
 				}
 				$item=[
