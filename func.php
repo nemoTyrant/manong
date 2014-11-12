@@ -171,10 +171,24 @@ function render(){
 现在已整理到第{$current}期。  
 ";
 
+	// category index
+	// ##大纲
+	// [ANDROID](#ANDROID)
+	// [ANGULAR](#ANGULAR)
+	$categories=$mdb->get_cate();
+	if($categories){
+		$content.="\n";
+		$content.="##索引\n";
+		foreach ($categories as $val) {
+			$content.="[{$val}](#{$val})\n";
+		}
+	}
+
 	$current_cate='';
 	foreach ($data as $val) {
 		if($val['category'] != $current_cate){
 			$content.="\n";
+			$content.="<a name=\"{$val['category']}\"></a>";
 			$content.="##{$val['category']}\n";
 			$current_cate=$val['category'];
 		}
