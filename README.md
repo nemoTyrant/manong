@@ -720,7 +720,6 @@
 [腾讯程序员一年写多少代码？（@腾讯大讲堂）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fdjt.qq.com%2Farticle%2Fview%2F1090&aid=788&nid=24)  
 [[音频] 和中国著名 Common Lisp 程序员冰河聊聊 Lisp（@teahourfm）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fteahour.fm%2F2014%2F03%2F17%2Finterview-with-binghe.html&aid=789&nid=24)  
 [在硅谷面试：如何证明你是最优秀的？（@尹汝杰）](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftech.sina.com.cn%2Fzl%2Fpost%2Fdetail%2Fi%2F2014-03-20%2Fpid_8445015.htm&aid=790&nid=24)  
-[《恰如其分的软件架构：风险驱动的设计方法》</a>  <a target="_blank" href="http://www.georgefairbanks.com/"><small>George Fairbanks</small></a></h4>        <p>本书描述了一种恰如其分的架构设计方法。作者建议根据项目面临的风险来调整架构设计的成本，并从多个视角阐述了软件架构的建模过程和方法，包括用例模型、概念模型、域模型、设计模型和代码模型等。感谢译者张逸、倪健、高翌翔。 </p>        ](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.amazon.cn%2Fgp%2Fproduct%2FB00EP6TGAU%2Fref%3Das_li_tf_tl%3Fie%3DUTF8%26camp%3D536%26creative%3D3200%26creativeASIN%3DB00EP6TGAU%26linkCode%3Das2%26tag%3Dmanongio-23&aid=756&nid=24)  
 [豆瓣的研发管理（@段念_Dennis）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.infoq.com%2Fcn%2Farticles%2Fdouban-dev-management&aid=845&nid=25)  
 [老程序员的下场（@外刊IT评论）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.vaikan.com%2Fwhat-happens-to-older-developers%2F&aid=853&nid=25)  
 [面试官为什么不能接受一个真实的跳槽原因？（@知乎）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.zhihu.com%2Fquestion%2F23084189&aid=855&nid=25)  
