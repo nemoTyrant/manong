@@ -188,7 +188,7 @@ function render(){
 	foreach ($data as $val) {
 		if($val['category'] != $current_cate){
 			$content.="\n";
-			$content.="<a name=\"{$val['category']}\"></a>";
+			$content.="<a name=\"{$val['category']}\"></a>\n";
 			$content.="##{$val['category']}\n";
 			$current_cate=$val['category'];
 		}
