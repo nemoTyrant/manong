@@ -248,7 +248,7 @@ class manongdb{
 					continue;
 				}
 				$item=[
-					'title'=>$matches[2][$key],
+					'title'=>strip_tags($matches[2][$key]),
 					'desc'=>$matches[3][$key],
 					'href'=>$val,
 					'number'=>$number,
