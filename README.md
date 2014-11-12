@@ -645,7 +645,7 @@
 [Flappy Bird（Swift 版）](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Ffullstackio%2FFlappySwift&aid=1126&nid=33)  
 [2048（Swift 版）](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Faustinzheng%2Fswift-2048&aid=1127&nid=33)  
 [GitHub 上的开源 Swift 项目](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fsearch%3Fl%3DSwift%26q%3Dswift%26ref%3Dcmdform%26type%3DRepositories&aid=1128&nid=33)  
-[Swift 绘图程序</a>  <a target="_blank" href="http://blog.sina.com.cn/virtualgs"><small>林泰前</small></a></h4>        <p>一个简单的 Swift 绘图程序库，展示了如何使用 Swift 绘图。（<a href="http://weibo.com/swiftlanguage" target="_blank">@SwiftLanguage</a> 投稿）</p>        <h4>](http://weekly.manong.io/bounce?url=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fg73r6q5gv408wsm%2FGSwift.zip&aid=1137&nid=33)  
+[Swift 绘图程序](http://weekly.manong.io/bounce?url=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fg73r6q5gv408wsm%2FGSwift.zip&aid=1137&nid=33)  
 [LearnSwift.tips](http://weekly.manong.io/bounce?url=http%3A%2F%2Flearnswift.tips%2F&aid=1129&nid=33)  
 [Learn Swift](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.learnswift.io%2F&aid=1130&nid=33)  
 [So So Swift](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.sososwift.com%2F&aid=1131&nid=33)  
