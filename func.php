@@ -180,7 +180,7 @@ function render(){
 		$content.="\n";
 		$content.="##索引\n";
 		foreach ($categories as $val) {
-			$content.="[{$val}](#{$val})\n";
+			$content.="[{$val}](#{$val})  \n";
 		}
 	}
 
