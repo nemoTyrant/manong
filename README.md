@@ -246,7 +246,6 @@
 [[译] 115 个 Java 面试题和答案 (miracle1919)](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.importnew.com%2F10980.html&aid=975&nid=29)  
 [国外优秀技术网站推荐（-之诸暇）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fifeve.com%2Ftech-related-sites%2F&aid=986&nid=29)  
 [[译] Java 8 那些被冷落的新特性（@Java译站）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fit.deepinmind.com%2Fjava%2F2014%2F05%2F03%2F10-features-in-java-8-you-havent-heard-of.html&aid=1008&nid=30)  
-[《大型网站系统与 Java 中间件实践》</a>  <a target="_blank" href="http://weibo.com/vanadies10"><small>曾宪杰</small></a></h4>        <p>本书出自淘宝技术部总监之手，经验直接来自淘宝服务框架、消息中间件及数据访问层。</p>        <h3>编程之外</h3>        <h4><a target="_blank" href="http://weekly.manong.io/bounce?url=h](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.amazon.cn%2Fgp%2Fproduct%2FB00JU5C2N4%2Fref%3Das_li_tf_tl%3Fie%3DUTF8%26camp%3D536%26creative%3D3200%26creativeASIN%3DB00JU5C2N4%26linkCode%3Das2%26tag%3Dmanongio-23&aid=1004&nid=30)  
 
 ##JAVASCRIPT
 [JavaScript 与有限状态机](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.ruanyifeng.com%2Fblog%2F2013%2F09%2Ffinite-state_machine_for_javascript.html&aid=5&nid=1)  
