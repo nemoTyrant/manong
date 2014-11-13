@@ -600,7 +600,6 @@
 
 <a name="NGINX"></a>
 ##NGINX
-[Nginx 配置优化指南（Zachary Orr）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.zachorr.com%2Fnginx-setup%2F&aid=191&nid=10)  
 [ngxtop - Nginx 日志实时分析工具](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Flebinh%2Fngxtop&aid=849&nid=25)  
 [Nginx 和 Nginx Plus 管理指南](http://weekly.manong.io/bounce?url=http%3A%2F%2Fnginx.com%2Fresources%2Fadmin-guide%2F&aid=921&nid=27)  
 [NGINX 性能调优指南 （Rick Nelson）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fnginx.com%2Fblog%2Ftuning-nginx%2F&aid=1500&nid=47)  
