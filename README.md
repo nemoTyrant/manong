@@ -4,6 +4,7 @@
 码农周刊官方网址 [http://weekly.manong.io/](http://weekly.manong.io/)  
 一些不熟悉的领域分类可能不准确，请见谅  
 15期为图书推荐，请直接浏览[原地址](http://weekly.manong.io/issues/15)  
+56期为14年最受欢迎列表，请直接浏览[原地址](http://weekly.manong.io/issues/56)  
 现在已整理到第57期。  
 
 ##索引
