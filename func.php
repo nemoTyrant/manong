@@ -190,7 +190,7 @@ function render(){
 		if($val['category'] != $current_cate){
 			$content.="\n";
 			$content.="<a name=\"{$val['category']}\"></a>\n";
-			$content.="##".str_replace('#', '\#', $val['category'])."\n";
+			$content.="##".str_replace('#', '\# ', $val['category'])."\n";
 			$current_cate=$val['category'];
 		}
 		$content.="[{$val['title']}]({$val['href']})  \n";

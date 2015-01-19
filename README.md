@@ -167,7 +167,7 @@
 [基于 Material Design 的 Bootstrap 3 主题 (Fez Vrasta)](http://weekly.manong.io/bounce?url=http%3A%2F%2Ffezvrasta.github.io%2Fbootstrap-material-design%2F&aid=1490&nid=46)  
 
 <a name="C#"></a>
-##C\#
+##C\# 
 [C# 程序设计（上）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmooc.study.163.com%2Fcourse%2FPKU-1000003003%23%2F&aid=1732&nid=55)  
 
 <a name="C/C++"></a>
