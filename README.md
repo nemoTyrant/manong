@@ -1115,6 +1115,7 @@
 [前端代码异常监控 (@raphealguo)](http://weekly.manong.io/bounce?url=http%3A%2F%2Frapheal.sinaapp.com%2F2014%2F11%2F06%2Fjavascript-error-monitor%2F&aid=1601&nid=50)  
 [[译] 前端代码规范及最佳实践 (@老码农的自留地)](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcoderlmn.github.io%2Fcode-standards%2F&aid=1603&nid=50)  
 [CSS 动画入门 (Rachel Cope)](http://weekly.manong.io/bounce?url=http%3A%2F%2Frobots.thoughtbot.com%2Fcss-animation-for-beginners&aid=1780&nid=57)  
+[2014 年 CSS 报告 (Alex McPherson)](http://weekly.manong.io/bounce?url=http%3A%2F%2Freports.quickleft.com%2Fcss&aid=1809&nid=58)  
 [2014 年 Web 高手都在做什么 (李亚飞)](http://weekly.manong.io/bounce?url=http%3A%2F%2Fyafeilee.me%2Fblogs%2F54995f3a6c69342f6d100000&aid=1811&nid=58)  
 
 <a name="WEB安全"></a>
@@ -1131,7 +1132,6 @@
 [Cookie 窃取和 Session 劫持（@Shawn在路上）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fshaoshuai.me%2Ftech%2F2014%2F08%2F16%2Fcookie-theft-and-session-hijacking.html&aid=1376&nid=42)  
 [系列文章：深入浅出 DDoS 攻击防御（@阿里云安全）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fsecurity.aliyun.com%2Fdoc%2Fview%2F13675730.html&aid=1410&nid=43)  
 [[译] 破解 GitHub 的发展密码 (boxi)](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.36kr.com%2Fp%2F215000.html&aid=1414&nid=43)  
-[2014 年 CSS 报告 (Alex McPherson)](http://weekly.manong.io/bounce?url=http%3A%2F%2Freports.quickleft.com%2Fcss&aid=1809&nid=58)  
 
 <a name="WOLFRAM"></a>
 ##WOLFRAM
