@@ -1227,6 +1227,7 @@
 [gRPC - 一个基于 HTTP/2 的高性能 RPC 框架](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fgrpc%2Fgrpc&aid=1924&nid=61)  
 [Lets Chat - 一个开源的小团队通讯应用 (SD Elements)](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fsdelements%2Flets-chat&aid=1925&nid=61)  
 [Espresso - 一个来自 LinkedIn 的分布式 NoSQL 数据库 (李小兵)](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.infoq.com%2Fcn%2Fnews%2F2015%2F02%2Fespresso-linkin-nosql&aid=1926&nid=61)  
+[微博推荐静态数据存储方案：lushan (@wbrecom)](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.wbrecom.com%2F%3Fp%3D453&aid=1896&nid=61)  
 
 <a name="技术科普"></a>
 ##技术科普
