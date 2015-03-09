@@ -170,6 +170,9 @@ function render(){
 15期为图书推荐，请直接浏览[原地址](http://weekly.manong.io/issues/15)  
 56期为14年最受欢迎列表，请直接浏览[原地址](http://weekly.manong.io/issues/56)  
 现在已整理到第{$current}期。  
+
+征室友：本人目前在四惠东附近工作，想征一个在附近合租两居室的室友。有空房间的朋友或者有意向一起找房子的朋友快快联系我哦！  
+
 ";
 
 	// category index
