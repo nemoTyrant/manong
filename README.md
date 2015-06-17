@@ -7,6 +7,7 @@
 56期为14年最受欢迎列表，请直接浏览[原地址](http://weekly.manong.io/issues/56)  
 现在已整理到第75期。  
  
+号外：[@lcepy](https://github.com/lcepy)  同学基于本项目制作了ios端的阅读app《猿已阅》，并已开源，大家可以移步[这里](https://github.com/lcepy/manong-reading)参观一下。
 
 
 ##索引
