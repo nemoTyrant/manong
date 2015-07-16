@@ -455,7 +455,6 @@
 [Hubot：GitHub 开源的可用于自动化部署的聊天机器人（CoffeeScript）](http://weekly.manong.io/bounce?url=https%3A%2F%2Fhubot.github.com%2F&aid=2394&nid=72)  
 [Git 入门指南使用资料汇总及文章推荐（2014） (ixirong)](http://weekly.manong.io/bounce?url=http%3A%2F%2Fixirong.com%2F2014%2F11%2F19%2Fthe-way-to-learn-git%2F&aid=2453&nid=73)  
 [Git 常用命令 (刘劲Coolzilj)](http://weekly.manong.io/bounce?url=http%3A%2F%2Fliujin.me%2Fblog%2F2015%2F05%2F25%2FGit-%25E5%25B8%25B8%25E7%2594%25A8%25E5%2591%25BD%25E4%25BB%25A4%2F&aid=2454&nid=73)  
-[GitHub 上值得关注的前端项目 (@trigkit4)](http://weekly.manong.io/bounce?url=http%3A%2F%2Fsegmentfault.com%2Fa%2F1190000002804472&aid=2457&nid=73)  
 [Git 版本控制与工作流](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2F67afe711c731&aid=2504&nid=74)  
 [深入学习 Git 工作流 (ixirong)](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fxirong%2Fmy-git%2Fblob%2Fmaster%2Fgit-workflow-tutorial.md&aid=2568&nid=75)  
 [基于 GitHub Issues 的单页面静态博客 (wuhaoworld)](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fwuhaoworld%2Fgithub-issues-blog&aid=2579&nid=75)  
@@ -1685,6 +1684,7 @@
 
 <a name="UNITY3D"></a>
 ##UNITY3D
+[Unity 项目实践点滴 (@顾露-Gu_Lu)](http://weekly.manong.io/bounce?url=http%3A%2F%2Fgulu-dev.com%2Fpost%2F2015-06-28-u3d-practices-and-tips&aid=2701&nid=77)  
 [[译] Unity3D 中实现帧同步（二） (@不是流汗羊)](http://weekly.manong.io/bounce?url=http%3A%2F%2Fjjyy.guru%2Funity3d-lock-step-part-2%2F&aid=2812&nid=78)  
 [如何使用 Unity* 规划优化](http://weekly.manong.io/bounce?url=http%3A%2F%2Fsoftware.intel.com%2Fzh-cn%2Farticles%2Fhow-to-plan-optimizations-with-unity%2F%3Futm_source%3DManong%26utm_medium%3DText%2BLink%26utm_campaign%3DGameDev_PRC_Q2-15_Manong&aid=2870&nid=79)  
 [在 Unity 下实现场景资源的动态管理 (顾露-Gu_Lu)](http://weekly.manong.io/bounce?url=http%3A%2F%2Fgulu-dev.com%2Fpost%2F2015-07-11-uquadtree&aid=2875&nid=79)  
@@ -1777,6 +1777,7 @@
 [深入理解 CSS3 弹性盒布局模型（2014） (成富)](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.ibm.com%2Fdeveloperworks%2Fcn%2Fweb%2F1409_chengfu_css3flexbox%2F&aid=2381&nid=72)  
 [[译] 为网页设计而生的 15 个优质 Sketch 插件 (@陈子木)](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.uisdc.com%2F15-best-sketch-plugins-for-developers&aid=2415&nid=72)  
 [CSS Animation 初探 (@alexhilton)](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoughcoder.net%2Fblog%2F2015%2F05%2F04%2Fintroduction-to-css-animation%2F&aid=2452&nid=73)  
+[GitHub 上值得关注的前端项目 (@trigkit4)](http://weekly.manong.io/bounce?url=http%3A%2F%2Fsegmentfault.com%2Fa%2F1190000002804472&aid=2457&nid=73)  
 [前端架构介绍 (SaitoWu)](http://weekly.manong.io/bounce?url=http%3A%2F%2Fsaito.im%2Fnote%2FThe-Architecture-of-F2E%2F&aid=2503&nid=74)  
 [[译] 网页动画的十二原则 (@刘英滕)](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2F1858a8733ba3&aid=2510&nid=74)  
 [Canvas 处理头像上传 (lxjwlt)](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.lxjwlt.com%2Ffront-end%2F2015%2F05%2F22%2Fcanvas-deal-width-avatar.html&aid=2519&nid=74)  
@@ -2068,7 +2069,6 @@
 [理想的应用框架 (@侯振宇hzy)](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.cnblogs.com%2Fsskyy%2Fp%2F4592353.html&aid=2613&nid=76)  
 [[译] 稳定模式在 RESTful 架构中的应用 (乔永琪)](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.importnew.com%2F16027.html&aid=2614&nid=76)  
 [游戏行业的人工智能设计（第二部分）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fsoftware.intel.com%2Fzh-cn%2Farticles%2Fdesigning-artificial-intelligence-for-games-part-2%3Futm_source%3DMaNong%26utm_medium%3DNewsletter%26utm_campaign%3DRS_PRC_Q2-15_Manong&aid=2653&nid=76)  
-[Unity 项目实践点滴 (@顾露-Gu_Lu)](http://weekly.manong.io/bounce?url=http%3A%2F%2Fgulu-dev.com%2Fpost%2F2015-06-28-u3d-practices-and-tips&aid=2701&nid=77)  
 [四种框架实现百万 WebSocket 连接的服务器 (@colobu)](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcolobu.com%2F2015%2F05%2F22%2Fimplement-C1000K-servers-by-spray-netty-undertow-and-node-js%2F&aid=2756&nid=78)  
 [构建安全的 Mobile API (@SRK.Lyu)](http://weekly.manong.io/bounce?url=http%3A%2F%2Fstackbox.org%2F2015-06-build-safe-mobile-apis%2F&aid=2793&nid=78)  
 [[译] 构建微服务：使用 API Gateway (陈杰)](http://weekly.manong.io/bounce?url=http%3A%2F%2Fdockone.io%2Farticle%2F482&aid=2796&nid=78)  
