@@ -8,6 +8,7 @@
 现在已整理到第91期。  
 
 编程之外栏目里的文章和技术无直接关系，移到了talks.md文件里。
+readme.md现在过大，在项目首页无法显示完整，点击进入文件中即可。
 
 号外：[@lcepy](https://github.com/icepy)  同学基于本项目制作了ios端的阅读app《猿已阅》，并已开源，大家可以移步[这里](https://github.com/icepy/manong-reading)参观一下。
 
