@@ -10,8 +10,6 @@ function is_get(){
  * which action is requested
  */
 function action(){
-	// if(is_get())
-	// return 'index';
 	return isset($_GET['a']) ? $_GET['a']:'index';
 }
 
@@ -170,8 +168,10 @@ function render(){
 15期为图书推荐，请直接浏览[原地址](http://weekly.manong.io/issues/15)  
 56期为14年最受欢迎列表，请直接浏览[原地址](http://weekly.manong.io/issues/56)  
 现在已整理到第{$current}期。  
- 
-号外：[@lcepy](https://github.com/lcepy)  同学基于本项目制作了ios端的阅读app《猿已阅》，并已开源，大家可以移步[这里](https://github.com/lcepy/manong-reading)参观一下。
+
+编程之外栏目里的文章和技术无直接关系，移到了talks.md文件里。
+
+号外：[@lcepy](https://github.com/icepy)  同学基于本项目制作了ios端的阅读app《猿已阅》，并已开源，大家可以移步[这里](https://github.com/icepy/manong-reading)参观一下。
 
 ";
 
@@ -184,12 +184,21 @@ function render(){
 		$content.="\n";
 		$content.="##索引\n";
 		foreach ($categories as $val) {
-			$content.="[{$val}](#{$val})  \n";
+			if($val == '编程之外'){
+				$content.="[{$val}](talks.md)  \n";
+			}else{
+				$content.="[{$val}](#{$val})  \n";
+			}
 		}
 	}
 
 	$current_cate='';
+	$talks = '';
 	foreach ($data as $val) {
+		if($val['category'] == '编程之外'){
+			$talks .= "[{$val['title']}]({$val['href']})  \n";
+			continue;
+		}
 		if($val['category'] != $current_cate){
 			$content.="\n";
 			$content.="<a name=\"{$val['category']}\"></a>\n";
@@ -199,6 +208,7 @@ function render(){
 		$content.="[{$val['title']}]({$val['href']})  \n";
 	}
 	$rs=file_put_contents('./readme.md', $content);
+	file_put_contents('./talks.md', $talks);
 	if($rs){
 		ajax_return(['res'=>1]);
 	}else{
@@ -256,7 +266,11 @@ class manongdb{
 		$url=$this->issue_url.$number;
 		$content=file_get_contents($url);
 		$content=str_replace(["\r","\n"], '', $content);
-		$pattern='/<h4><a target="_blank" href="(.*?)">(.*?)<\/a>&nbsp;&nbsp;<\/h4>.*?<p>(.*?)<\/p>/';
+		if($number >= 91){
+			$pattern = '/<h4><a target="_blank" href="(.*?)">(.*?)<\/a>&nbsp;&nbsp;(?:<a target="_blank".*?<\/a>)?<\/h4>.*?<p>(.*?)<\/p>/';
+		}else{
+			$pattern='/<h4><a target="_blank" href="(.*?)">(.*?)<\/a>&nbsp;&nbsp;<\/h4>.*?<p>(.*?)<\/p>/';
+		}
 		$rs=preg_match_all($pattern, $content, $matches);
 		if($rs){
 			mylog('crawl finished.start parsing');
