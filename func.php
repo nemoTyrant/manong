@@ -131,11 +131,12 @@ function add(){
 		'desc'=>trim($_GET['desc']),
 		'href'=>trim($_GET['href']),
 		'number'=>trim($_GET['number']),
-		'category'=>strtoupper($cate),
+		'category'=>mb_strtoupper($cate, 'utf-8'),
 		'hash'=>md5(trim($_GET['href'])),
 		'addtime'=>time(),
 		'ctime'=>time(),
 	];
+	
 	if(get_db()->add($data)){
 		ajax_return(['res'=>1,'msg'=>'success','cate'=>$data['category']]);
 	}else{
@@ -353,7 +354,8 @@ class manongdb{
 	 * add an item to db or update it if exists
 	 */
 	function add($data){
-		$rs=$this->pdo->exec($this->arr2sql('issue',$data));
+		$sql = $this->arr2sql('issue',$data);
+		$rs=$this->pdo->exec($sql);
 		if($rs){
 			return $this->pdo->lastInsertId();
 		}

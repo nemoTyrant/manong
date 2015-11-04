@@ -62,9 +62,9 @@ $('#startform').submit(function(e){
 		$('#content').html(data);
 		// 读取分类
 		$.getJSON('index.php?a=cate',function(data){
-			$('.add').each(function(){
+			catelist=data.cate;
+			$('.add').each(function(i){
 				$(this).before(data.html);
-				catelist=data.cate;
 			});
 		});
 	});

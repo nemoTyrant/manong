@@ -299,3 +299,7 @@
 [远程工作面面观](http://weekly.manong.io/bounce?url=http%3A%2F%2Flikaiwen.cn%2Fpost%2Fworks%2F2015-10-14&aid=3900&nid=91)  
 [那几个月在找工作（百度、网易游戏）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.nowcoder.com%2Fdiscuss%2F3196&aid=3901&nid=91)  
 [一篇文章了解什么是增长黑客](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAwMjMxNzQ0MQ%3D%3D%26mid%3D400022716%26idx%3D1%26sn%3D949f7e1b0ba0ee5e06f1fa46762a3be2%26scene%3D0%23rd&aid=3902&nid=91)  
+[我前妻的故事（一个初中肄业生的奋斗）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5MjUwNzIyMA%3D%3D%26mid%3D400060668%26idx%3D1%26sn%3D9064cf2be8b99bdfb0fdf9eba157eaf6%26scene%3D2%26srcid%3D1022bBoRgudB3fdcUC1pRC0M%26from%3Dtimeline%26isappinstalled%3D0%23rd&aid=3976&nid=92)  
+[DigitalOcean 如何在红海市场做用户增长](http://weekly.manong.io/bounce?url=https%3A%2F%2Fstrace.co%2Fcn%2Fpost%2Fgrowth-hacking-digitalocean.html%3Fref%3Dgeek&aid=3977&nid=92)  
+[Facebook CEO 扎克伯格用中文讲了三个故事](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.cyzone.cn%2Fa%2F20151024%2F282339.html&aid=3978&nid=92)  
+[2016 年校招面经总结及感想](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.nowcoder.com%2Fdiscuss%2F3101%3Fsource%3Drss&aid=4025&nid=92)  
