@@ -304,3 +304,5 @@
 [Facebook CEO 扎克伯格用中文讲了三个故事](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.cyzone.cn%2Fa%2F20151024%2F282339.html&aid=3978&nid=92)  
 [2016 年校招面经总结及感想](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.nowcoder.com%2Fdiscuss%2F3101%3Fsource%3Drss&aid=4025&nid=92)  
 [[译] WhatsApp 联合创始人访谈](http://weekly.manong.io/bounce?url=http%3A%2F%2F36kr.com%2Fp%2F5038978.html&aid=4066&nid=93)  
+[在实际工作中评估你的工程师伙伴：写给非技术小伙伴的参考](http://weekly.manong.io/bounce?url=http%3A%2F%2Fgulu-dev.com%2Fpost%2F2015-11-05-tips-for-non-programmers&aid=4147&nid=94)  
+[[译] DHH：再想想，什么才算创业成功？](http://weekly.manong.io/bounce?url=http%3A%2F%2F36kr.com%2Fp%2F5039392.html&aid=4148&nid=94)  
