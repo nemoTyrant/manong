@@ -306,3 +306,8 @@
 [[译] WhatsApp 联合创始人访谈](http://weekly.manong.io/bounce?url=http%3A%2F%2F36kr.com%2Fp%2F5038978.html&aid=4066&nid=93)  
 [在实际工作中评估你的工程师伙伴：写给非技术小伙伴的参考](http://weekly.manong.io/bounce?url=http%3A%2F%2Fgulu-dev.com%2Fpost%2F2015-11-05-tips-for-non-programmers&aid=4147&nid=94)  
 [[译] DHH：再想想，什么才算创业成功？](http://weekly.manong.io/bounce?url=http%3A%2F%2F36kr.com%2Fp%2F5039392.html&aid=4148&nid=94)  
+[2016 校招小结](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5MTkyMTgwNA%3D%3D%26mid%3D400269078%26idx%3D1%26sn%3D5e58afbc98b8ef7c2e0bba6a042ccf6d%23rd&aid=4244&nid=95)  
+[程序员的逗比瞬间（最终番）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fdroidyue.com%2Fblog%2F2015%2F11%2F15%2Ffunny-programmer-finale%2F&aid=4245&nid=95)  
+[[译] 创业剧本](http://weekly.manong.io/bounce?url=http%3A%2F%2Fplaybook.coding.io%2F&aid=4246&nid=95)  
+[从零开始 Code Review](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.csdn.net%2Fuxyheaven%2Farticle%2Fdetails%2F49773619&aid=4301&nid=95)  
+[我所理解的大数据个性化推荐](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.blogchong.com%2Fpost%2F127.html&aid=4299&nid=95)  
