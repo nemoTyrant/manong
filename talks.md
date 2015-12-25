@@ -330,3 +330,7 @@
 [让我们来谈谈分工](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcoolshell.cn%2Farticles%2F17295.html&aid=4642&nid=99)  
 [[译] 一个歪果仁 CTO 在中关村科技园的创业历程](http://weekly.manong.io/bounce?url=http%3A%2F%2Fget.ftqq.com%2F8217.get+%08&aid=4643&nid=99)  
 [好雨云使用OKRs做绩效管理](http://weekly.manong.io/bounce?url=https%3A%2F%2Ft.goodrain.com%2Ft%2Fokrs%2F77&aid=4697&nid=99)  
+[ThoughtWorks 读书雷达（2016）](http://weekly.manong.io/bounce?url=http%3A%2F%2Finsights.thoughtworkers.org%2Freading-radar-2016%2F&aid=4740&nid=100)  
+[那些让我觉得自己一无是处的面试](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2F0c1d9d1d9c7b&aid=4741&nid=100)  
+[大龄程序员怎样渡过中年危机？](http://weekly.manong.io/bounce?url=http%3A%2F%2Fweibo.com%2Fp%2F1001603921437302886012&aid=4743&nid=100)  
+[混合云使用场景、关键技术和未来](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5MDgwMzc4MA%3D%3D%26mid%3D402573748%26idx%3D1%26sn%3Da94d38bbfbb2002d8df0bac60a06c190&aid=4789&nid=100)  
