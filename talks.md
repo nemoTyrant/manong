@@ -334,3 +334,7 @@
 [那些让我觉得自己一无是处的面试](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2F0c1d9d1d9c7b&aid=4741&nid=100)  
 [大龄程序员怎样渡过中年危机？](http://weekly.manong.io/bounce?url=http%3A%2F%2Fweibo.com%2Fp%2F1001603921437302886012&aid=4743&nid=100)  
 [混合云使用场景、关键技术和未来](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5MDgwMzc4MA%3D%3D%26mid%3D402573748%26idx%3D1%26sn%3Da94d38bbfbb2002d8df0bac60a06c190&aid=4789&nid=100)  
+[软件外包靠谱吗？](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2F78d79ffd6c19&aid=4826&nid=101)  
+[2015，我读过的那些书](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2F319e8ba38d20&aid=4827&nid=101)  
+[[译] 论 Google 和 Facebook 资深产品经理的自我修养（下）](http://weekly.manong.io/bounce?url=http%3A%2F%2F36kr.com%2Fp%2F5041380.html&aid=4828&nid=101)  
+[软件测试新趋势](http://weekly.manong.io/bounce?url=http%3A%2F%2Finsights.thoughtworkers.org%2Fsoftware-testing-trend%2F&aid=4872&nid=101)  
