@@ -338,3 +338,7 @@
 [2015，我读过的那些书](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2F319e8ba38d20&aid=4827&nid=101)  
 [[译] 论 Google 和 Facebook 资深产品经理的自我修养（下）](http://weekly.manong.io/bounce?url=http%3A%2F%2F36kr.com%2Fp%2F5041380.html&aid=4828&nid=101)  
 [软件测试新趋势](http://weekly.manong.io/bounce?url=http%3A%2F%2Finsights.thoughtworkers.org%2Fsoftware-testing-trend%2F&aid=4872&nid=101)  
+[2015 年程序猿们最爱和最怕的编程语言是什么](http://weekly.manong.io/bounce?url=http%3A%2F%2F36kr.com%2Fp%2F5041893.html&aid=4906&nid=102)  
+[揭开 Growth Hacking 的神秘面纱](http://weekly.manong.io/bounce?url=http%3A%2F%2Fzhuanlan.zhihu.com%2Fqinchao%2F20322079&aid=4907&nid=102)  
+[[译] 为什么 BAT 不会窃取你的点子？](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2F18b9981bf552&aid=4908&nid=102)  
+[[译] Facebook 设计团队是如何开设计评论会的](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.uisdc.com%2Fcritique-in-facebook-design-process&aid=4942&nid=102)  
