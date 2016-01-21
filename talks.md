@@ -342,3 +342,8 @@
 [揭开 Growth Hacking 的神秘面纱](http://weekly.manong.io/bounce?url=http%3A%2F%2Fzhuanlan.zhihu.com%2Fqinchao%2F20322079&aid=4907&nid=102)  
 [[译] 为什么 BAT 不会窃取你的点子？](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2F18b9981bf552&aid=4908&nid=102)  
 [[译] Facebook 设计团队是如何开设计评论会的](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.uisdc.com%2Fcritique-in-facebook-design-process&aid=4942&nid=102)  
+[[译] 作为一个软件工程师，在接下来的 5 - 10 年内应该掌握的技术](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwebres.wang%2Fthe-best-skill-set-to-have-for-the-next-5-10-years%2F&aid=5002&nid=103)  
+[程序员 “奇葩” 说](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAxMTEyOTQ5OQ%3D%3D%26mid%3D402105111%26idx%3D1%26sn%3Dd2901def95937f3a737f6171ec0b8b2a&aid=5003&nid=103)  
+[绩效 / 加薪 / 年终奖，虐你如初恋](http://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAxMzUzNzYyNA%3D%3D%26mid%3D401470348%26idx%3D1%26sn%3D74a3fcffb754cf176cffa841f175abb2&aid=5004&nid=103)  
+[[译] 致所有创业者：YC 史上最全面教科书](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5NTAyODE0MQ%3D%3D%26mid%3D402269095%26idx%3D1%26sn%3De6c3ed6f3e4a5fc7ec4246a733493784&aid=5005&nid=103)  
+[大多数人理解的移动无线 App 测试最多只能活两年](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftesterhome.com%2Ftopics%2F3977&aid=5049&nid=103)  
