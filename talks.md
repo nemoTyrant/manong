@@ -347,3 +347,6 @@
 [绩效 / 加薪 / 年终奖，虐你如初恋](http://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAxMzUzNzYyNA%3D%3D%26mid%3D401470348%26idx%3D1%26sn%3D74a3fcffb754cf176cffa841f175abb2&aid=5004&nid=103)  
 [[译] 致所有创业者：YC 史上最全面教科书](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5NTAyODE0MQ%3D%3D%26mid%3D402269095%26idx%3D1%26sn%3De6c3ed6f3e4a5fc7ec4246a733493784&aid=5005&nid=103)  
 [大多数人理解的移动无线 App 测试最多只能活两年](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftesterhome.com%2Ftopics%2F3977&aid=5049&nid=103)  
+[怎么做好互联网公司的技术团队负责人？](http://weekly.manong.io/bounce?url=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F39421456%2Fanswer%2F81233608&aid=5096&nid=104)  
+[增长的最重要指标：净推荐值 (NPS)](http://weekly.manong.io/bounce?url=https%3A%2F%2Fstrace.co%2Fcn%2Fpost%2Fnps%2F&aid=5097&nid=104)  
+[曾经的中国互联网](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI0MjA1Mjg2Ng%3D%3D%26mid%3D401363118%26idx%3D1%26sn%3D3e30a2514bebea77ea339ab0ab144308&aid=5098&nid=104)  
