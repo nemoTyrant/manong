@@ -350,3 +350,7 @@
 [怎么做好互联网公司的技术团队负责人？](http://weekly.manong.io/bounce?url=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F39421456%2Fanswer%2F81233608&aid=5096&nid=104)  
 [增长的最重要指标：净推荐值 (NPS)](http://weekly.manong.io/bounce?url=https%3A%2F%2Fstrace.co%2Fcn%2Fpost%2Fnps%2F&aid=5097&nid=104)  
 [曾经的中国互联网](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI0MjA1Mjg2Ng%3D%3D%26mid%3D401363118%26idx%3D1%26sn%3D3e30a2514bebea77ea339ab0ab144308&aid=5098&nid=104)  
+[程序员到底是一个什么职业？](http://weekly.manong.io/bounce?url=http%3A%2F%2Fweibo.com%2Fttarticle%2Fp%2Fshow%3Fid%3D2309403939907201539934&aid=5219&nid=105)  
+[写了个程序玩，抓了 400 亿条秀恩爱和吐槽](http://weekly.manong.io/bounce?url=http%3A%2F%2Fdaily.zhihu.com%2Fstory%2F7832686&aid=5220&nid=105)  
+[程序员年后跳槽的法则](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5NDkxMTgyNw%3D%3D%26mid%3D404752547%26idx%3D1%26sn%3D5a7e80b8a288fae44b933902e2099fe0&aid=5221&nid=105)  
+[[译] 对话算法大师 Pedro Domingos](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.almosthuman.cn%2F2016%2F02%2F11%2Fmbk76%2F&aid=5242&nid=105)  
