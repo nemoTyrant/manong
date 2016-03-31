@@ -5,7 +5,7 @@
 一些不熟悉的领域分类可能不准确，请见谅  
 15期为图书推荐，请直接浏览[原地址](http://weekly.manong.io/issues/15)  
 56期为14年最受欢迎列表，请直接浏览[原地址](http://weekly.manong.io/issues/56)  
-现在已整理到第109期。  
+现在已整理到第111期。  
 
 编程之外栏目里的文章和技术无直接关系，移到了talks.md文件里。 
 readme.md现在过大，在项目首页无法显示完整，点击进入文件中即可。
@@ -465,6 +465,23 @@ readme.md现在过大，在项目首页无法显示完整，点击进入文件�
 [Activity 启动过程源码分析](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwangxinghe.me%2Fblog%2F2016-03-12%2Factivity-launch-analysis%2F&aid=5502&nid=109)  
 [从源码角度剖析 Fragment 核心知识点](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2F180d2cc0feb5&aid=5515&nid=109)  
 [一种快速毛玻璃虚化效果实现](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwingjay.com%2F2016%2F03%2F12%2F%25E4%25B8%2580%25E7%25A7%258D%25E5%25BF%25AB%25E9%2580%259F%25E6%25AF%259B%25E7%258E%25BB%25E7%2592%2583%25E8%2599%259A%25E5%258C%2596%25E6%2595%2588%25E6%259E%259C%25E5%25AE%259E%25E7%258E%25B0%2F&aid=5535&nid=109)  
+[Android App 的设计架构：MVC, MVP, MVVM 与架构经验谈](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.tianmaying.com%2Ftutorial%2FAndroidMVC&aid=5569&nid=110)  
+[Android 内存泄漏案例和解析](http://weekly.manong.io/bounce?url=https%3A%2F%2Fdrakeet.me%2Fandroid-leaks&aid=5570&nid=110)  
+[android:process 的坑，你懂吗？](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.rogerblog.cn%2F2016%2F03%2F17%2Fandroid-proess%2F&aid=5571&nid=110)  
+[[译] Kotlin 语言高级 Android 开发入门](http://weekly.manong.io/bounce?url=https%3A%2F%2Frealm.io%2Fcn%2Fnews%2Foredev-jake-wharton-kotlin-advancing-android-dev%2F&aid=5572&nid=110)  
+[知乎日报的一种实现](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FUphie%2FZhiHuDaily&aid=5636&nid=110)  
+[一个 Android 弹幕控件](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Flinsea%2FOpenDanmaku&aid=5637&nid=110)  
+[基于 gank.io 开发的练手 App](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.qianlicao.cn%2Ftechnology%2F2016%2F03%2F19%2Fgank-development%2F&aid=5638&nid=110)  
+[我的 Android 开发实战经验总结](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2F4f152bc8f4f3&aid=5666&nid=111)  
+[你应该知道的那些 Android 小经验](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jayfeng.com%2F2016%2F03%2F18%2F%25E4%25BD%25A0%25E5%25BA%2594%25E8%25AF%25A5%25E7%259F%25A5%25E9%2581%2593%25E7%259A%2584%25E9%2582%25A3%25E4%25BA%259BAndroid%25E5%25B0%258F%25E7%25BB%258F%25E9%25AA%258C%2F&aid=5667&nid=111)  
+[Android MVP 模式](http://weekly.manong.io/bounce?url=http%3A%2F%2Fzhuanlan.zhihu.com%2Fkaede%2F20312610&aid=5668&nid=111)  
+[使用英特尔 INDE GPA 改进您的 Android* 游戏性能](http://weekly.manong.io/bounce?url=https%3A%2F%2Fsoftware.intel.com%2Fzh-cn%2Farticles%2Ftutorial-using-intel-inde-gpa-to-improve-the-performance-of-your-android-game%3Futm_source%3DManong%26utm_medium%3DNewsletter%26utm_campaign%3DGamedev_PRC_Q116&aid=5660&nid=111)  
+[APK 的加固](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftesterhome.com%2Ftopics%2F4480&aid=5710&nid=111)  
+[Android MVP 实例](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwuxiaolong.me%2F2015%2F09%2F23%2FAndroidMVPSample%2F&aid=5714&nid=111)  
+[Android 内存泄漏检测利器：LeakCanary](http://weekly.manong.io/bounce?url=http%3A%2F%2Fdroidyue.com%2Fblog%2F2016%2F03%2F28%2Fandroid-leakcanary%2F&aid=5728&nid=111)  
+[使用多操作系统引擎创建您的 Andorid* 应用和 Apple* Mac* OS X* 上的 iOS* 应用](http://weekly.manong.io/bounce?url=https%3A%2F%2Fsoftware.intel.com%2Fzh-cn%2Farticles%2Fbuilding-your-first-app-for-android-and-ios-on-apple-mac-os-x-using-multi-os-engine%3Futm_source%3DManong%26utm_medium%3DNewsletter%26utm_campaign%3DGamedev_PRC_Q116&aid=5659&nid=111)  
+[如何优雅地使用 NDK](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.majiajie.me%2F2016%2F03%2F27%2F%25E5%25A6%2582%25E4%25BD%2595%25E4%25BC%2598%25E9%259B%2585%25E5%259C%25B0%25E4%25BD%25BF%25E7%2594%25A8NDK%2F&aid=5695&nid=111)  
+[实践移动端的 Flux 架构](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.wangchenlong.org%2F2016%2F03%2F12%2F1602%2Fapply-flux-architecture%2F&aid=5725&nid=111)  
 
 <a name="ANGULAR"></a>
 ##ANGULAR
@@ -628,6 +645,8 @@ readme.md现在过大，在项目首页无法显示完整，点击进入文件�
 [高质量 C++/C 编程指南](http://weekly.manong.io/bounce?url=http%3A%2F%2Fman.chinaunix.net%2Fdevelop%2Fc%26c%2B%2B%2Fc%2Fc.htm&aid=5281&nid=106)  
 [C++ 虚函数表剖析](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.csdn.net%2Flihao21%2Farticle%2Fdetails%2F50688337&aid=5282&nid=106)  
 [[译] C 语言协程](http://weekly.manong.io/bounce?url=https%3A%2F%2Fyq.aliyun.com%2Farticles%2F6919&aid=5356&nid=107)  
+[基于 C 语言的内存池的设计与实现](http://weekly.manong.io/bounce?url=https%3A%2F%2Fyq.aliyun.com%2Farticles%2F6312&aid=5567&nid=110)  
+[一个 HTTP 服务器的 C 之路（上）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.wushxin.top%2F2016%2F03%2F23%2F%25E4%25B8%2580%25E4%25B8%25AAHTTP%25E6%259C%258D%25E5%258A%25A1%25E5%2599%25A8%25E7%259A%2584C%25E4%25B9%258B%25E8%25B7%25AF%28%25E4%25B8%258A%29.html&aid=5664&nid=111)  
 
 <a name="CASSANDRA"></a>
 ##CASSANDRA
@@ -697,6 +716,7 @@ readme.md现在过大，在项目首页无法显示完整，点击进入文件�
 [[译] 最棒的 60 个 DevOps 开源工具](http://weekly.manong.io/bounce?url=http%3A%2F%2Fopenskill.cn%2Farticle%2F106%3Fhmsr%3Dtoutiao.io%26utm_medium%3Dtoutiao.io%26utm_source%3Dtoutiao.io&aid=3662&nid=88)  
 [[译] DevOps 工具大全](http://weekly.manong.io/bounce?url=http%3A%2F%2Fopenskill.cn%2Farticle%2F159&aid=4002&nid=92)  
 [DevOps 实用资源整理](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwsgzao.github.io%2Fpost%2Fdevops%2F&aid=4774&nid=100)  
+[[PDF] 2015 DevOps 现状调查报告](http://weekly.manong.io/bounce?url=http%3A%2F%2Fpan.baidu.com%2Fs%2F1miQtlws&aid=5699&nid=111)  
 
 <a name="DIRECTX"></a>
 ##DIRECTX
@@ -785,6 +805,8 @@ readme.md现在过大，在项目首页无法显示完整，点击进入文件�
 [zerg：基于 Docker 的分布式爬虫服务](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fhuichen%2Fzerg&aid=5181&nid=104)  
 [@Container 容器技术大会 PPT 开放下载](http://weekly.manong.io/bounce?url=http%3A%2F%2Fdockone.io%2Farticle%2F983&aid=5107&nid=104)  
 [[译] 使用 Docker 中应避免的 10 件事](http://weekly.manong.io/bounce?url=https%3A%2F%2Fwww.goodmemory.cc%2F%25E4%25BD%25BF%25E7%2594%25A8docker%25E4%25B8%25AD%25E5%25BA%2594%25E9%2581%25BF%25E5%2585%258D%25E7%259A%258410%25E4%25BB%25B6%25E4%25BA%258B%2F&aid=5453&nid=108)  
+[[译] Cookpad 基于 Docker 的微服务经验总结](http://weekly.manong.io/bounce?url=http%3A%2F%2Fliubin.org%2Fblog%2F2016%2F03%2F16%2Fmicroservice-at-cookpad%2F&aid=5603&nid=110)  
+[用 ELK Stack 和 Docker 搭建日志平台](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.smoker.cc%2Fdocker%2F20160325.html&aid=5701&nid=111)  
 
 <a name="ELASTICSEARCH"></a>
 ##ELASTICSEARCH
@@ -921,6 +943,7 @@ readme.md现在过大，在项目首页无法显示完整，点击进入文件�
 [awesome-github：为了更好地使用 GitHub](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FAntBranch%2Fawesome-github&aid=5472&nid=108)  
 [[译] 开发指南之 Git 命令的最佳实践技巧](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.freebuf.com%2Ftools%2F98396.html&aid=5495&nid=109)  
 [让你的 GitHub Pages 用上 Lets Encrypt](http://weekly.manong.io/bounce?url=https%3A%2F%2Fholys.im%2F2016%2F03%2F12%2Flets-encrypt-github-pages-with-custom-domain%2F&aid=5506&nid=109)  
+[如果你用 GitHub，可以这样提高效率](http://weekly.manong.io/bounce?url=http%3A%2F%2Fhuang-jerryc.com%2F2016%2F01%2F15%2F%25E5%25A6%2582%25E6%259E%259C%25E4%25BD%25A0%25E7%2594%25A8GitHub%25EF%25BC%258C%25E5%258F%25AF%25E4%25BB%25A5%25E8%25BF%2599%25E6%25A0%25B7%25E6%258F%2590%25E9%25AB%2598%25E6%2595%2588%25E7%258E%2587%2F&aid=5596&nid=110)  
 
 <a name="GO"></a>
 ##GO
@@ -1133,6 +1156,10 @@ readme.md现在过大，在项目首页无法显示完整，点击进入文件�
 [BLog4go：高性能 Golang 日志库](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FYoungPioneers%2Fblog4go&aid=5465&nid=108)  
 [Golang 标准库 RPC 实践及改进](http://weekly.manong.io/bounce?url=http%3A%2F%2Fdaizuozhuo.github.io%2Fgolang-rpc-practice%2F&aid=5551&nid=109)  
 [Golang 版本的 ring buffer（变长，持久化）](http://weekly.manong.io/bounce?url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000004597581&aid=5537&nid=109)  
+[Golang 序列化框架对决](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcolobu.com%2F2016%2F03%2F16%2Fwhy-is-go-gencode-so-fast%2F&aid=5576&nid=110)  
+[[译] Go 的接口与 Go 面向对象编程](http://weekly.manong.io/bounce?url=https%3A%2F%2Fxiequan.info%2Fgo%25E7%259A%2584%25E6%258E%25A5%25E5%258F%25A3%25E4%25B8%258Ego%25E9%259D%25A2%25E5%2590%2591%25E5%25AF%25B9%25E8%25B1%25A1%25E7%25BC%2596%25E7%25A8%258B%2F&aid=5577&nid=110)  
+[超全的 Go Http 路由框架性能比较](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcolobu.com%2F2016%2F03%2F23%2FGo-HTTP-request-router-and-web-framework-benchmark%2F&aid=5684&nid=111)  
+[用 Hugo 实现 Hexo 经典主题 Pacman](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.coderzh.com%2F2016%2F03%2F27%2Fhugo-pacman-theme%2F&aid=5729&nid=111)  
 
 <a name="HADOOP"></a>
 ##HADOOP
@@ -1175,6 +1202,7 @@ readme.md现在过大，在项目首页无法显示完整，点击进入文件�
 [我自己比较满意的几个 JS/HTML5 Repo (@大城小胖)](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Ffinscn%2Ffinscn.github.com%2Fissues%2F3&aid=2980&nid=80)  
 [Phaser - 一个快速、免费、开源的 HTML5 游戏框架 (photonstorm)](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fphotonstorm%2Fphaser%2F&aid=3065&nid=81)  
 [HTML5 摇一摇（下）：如何实现签筒摇动动画](http://weekly.manong.io/bounce?url=http%3A%2F%2Fxunli.xyz%2F2016%2F01%2F13%2Fhtml5-device-shake-animation%2F&aid=5031&nid=103)  
+[Slicy：开源中文 HTML5 / CSS3 框架](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.slicy.cn%2F&aid=5732&nid=111)  
 
 <a name="IOS"></a>
 ##IOS
@@ -1569,6 +1597,16 @@ readme.md现在过大，在项目首页无法显示完整，点击进入文件�
 [Injection Plugin for Xcode：成吨的提高开发效率](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2F27be46d5e5d4&aid=5540&nid=109)  
 [蘑菇街 App 的组件化之路](http://weekly.manong.io/bounce?url=http%3A%2F%2Flimboy.me%2Fios%2F2016%2F03%2F10%2Fmgj-components.html&aid=5557&nid=109)  
 [仿蝉游记图文排版方法](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAwNjgwMTkyNA%3D%3D%26mid%3D402582957%26idx%3D1%26sn%3Dba63acf6edcfbe37e57c31b8ff50e941&aid=5514&nid=109)  
+[滴滴出行 iOS 客户端架构演进之路](http://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA3ODg4MDk0Ng%3D%3D%26mid%3D402854111%26idx%3D1%26sn%3D5876e615fabd6d921285d904e16670fb&aid=5563&nid=110)  
+[iOS 组件化方案探索](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.cnbang.net%2Ftech%2F3080%2F&aid=5573&nid=110)  
+[iOS 页面内消息通信机制](http://weekly.manong.io/bounce?url=http%3A%2F%2Fscorpiolin.github.io%2F2016%2F03%2F16%2FiOS-inner-messaging%2F&aid=5574&nid=110)  
+[iOS 异步图片加载优化与常用开源库分析](http://weekly.manong.io/bounce?url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000002776279&aid=5609&nid=110)  
+[[译] 在写一个 iOS 应用之前必须做的 7 件事](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.cocoachina.com%2Fios%2F20160316%2F15685.html&aid=5625&nid=110)  
+[一步步实现 iOS 微信自动抢红包](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2F189afbe3b429&aid=5669&nid=111)  
+[我的 iOS 开发入门自学路径](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2F4be17ec40cfc&aid=5670&nid=111)  
+[iOS 内存管理：从 MRC 到 ARC 实践](http://weekly.manong.io/bounce?url=http%3A%2F%2Fbugly.qq.com%2Fbbs%2Fforum.php%3Fmod%3Dviewthread%26tid%3D712&aid=5672&nid=111)  
+[JSPatch 开源经验分享](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA3ODg4MDk0Ng%3D%3D%26mid%3D403063229%26idx%3D1%26sn%3D34651b982e211ae64742913026d459b0&aid=5689&nid=111)  
+[读 Concurrency Programming Guide 笔记（二）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.devtalking.com%2Farticles%2Fread-concurrency-programming-guide-2%2F&aid=5671&nid=111)  
 
 <a name="JAVA"></a>
 ##JAVA
@@ -1763,6 +1801,13 @@ readme.md现在过大，在项目首页无法显示完整，点击进入文件�
 [理解 Java 中的 ThreadLocal](http://weekly.manong.io/bounce?url=http%3A%2F%2Fdroidyue.com%2Fblog%2F2016%2F03%2F13%2Flearning-threadlocal-in-java%2F&aid=5545&nid=109)  
 [Sky Walking：对 Java 分布式应用程序集群业务运行情况进行追踪、告警和分析的系统](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fwu-sheng%2Fsky-walking&aid=5541&nid=109)  
 [[译] 依赖注入框架性能对比](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.nimbledroid.com%2F2016%2F03%2F07%2Fperformance-of-dependency-injection-libraries-zh.html&aid=5512&nid=109)  
+[[译] Java 8 的新特性](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2F5b800057f2d8&aid=5568&nid=110)  
+[RxJava 与 Retrofit 结合的最佳实践](http://weekly.manong.io/bounce?url=http%3A%2F%2Fgank.io%2Fpost%2F56e80c2c677659311bed9841&aid=5581&nid=110)  
+[Java 单例真的写对了么？](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.race604.com%2Fjava-double-checked-singleton%2F&aid=5665&nid=111)  
+[RxJava 和 Retrofit 结合使用的几个最常见使用方式举例](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Frengwuxian%2FRxJavaSamples&aid=5693&nid=111)  
+[使用 Rx 同步并缓存网络数据](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.wangchenlong.org%2F2016%2F03%2F19%2F1602%2Frx-network-cache%2F&aid=5722&nid=111)  
+[你真的会写单例模式吗？](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.tekbroaden.com%2Fsingleton-java.html&aid=5703&nid=111)  
+[阿里实习 offer 五面经验与总结](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.nowcoder.com%2Fdiscuss%2F4056%3Fsource%3Drss&aid=5715&nid=111)  
 
 <a name="JAVASCRIPT"></a>
 ##JAVASCRIPT
@@ -2017,12 +2062,22 @@ readme.md现在过大，在项目首页无法显示完整，点击进入文件�
 [前端开发者不得不知的 ES6 十大特性](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.alloyteam.com%2F2016%2F03%2Fes6-front-end-developers-will-have-to-know-the-top-ten-properties%2F&aid=5499&nid=109)  
 [Redux 到底是个什么鬼](http://weekly.manong.io/bounce?url=http%3A%2F%2Fzhuanlan.zhihu.com%2Fhaochuan%2F20641377&aid=5503&nid=109)  
 [[译] 适用于 BootStrap 站点的 15 个免费 jQuery 轮播图插件](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwebres.wang%2F15-fantastic-free-jquery-sliders-for-bootstrap-sites%2F&aid=5522&nid=109)  
+[[译] 可伸缩的同构 JavaScript 代码](http://weekly.manong.io/bounce?url=http%3A%2F%2Fefe.baidu.com%2Fblog%2Fisomorphic%2F&aid=5575&nid=110)  
+[采用 JavaScript 混合使用英特尔实感摄像头与英特尔 Edison 开发板 (英特尔开发人员专区)](http://weekly.manong.io/bounce?url=https%3A%2F%2Fsoftware.intel.com%2Fzh-cn%2Farticles%2Fblend-the-intel-realsense-camera-and-the-intel-edison-board-with-javascript%3Futm_source%3DManong%26utm_medium%3DNewsletter%26utm_campaign%3DRealsense_PRC_Q415_Syndication&aid=5604&nid=110)  
+[抛弃 jQuery，拥抱原生 JS](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Foneuijs%2FYou-Dont-Need-jQuery%2Fblob%2Fmaster%2FREADME.zh-CN.md&aid=5630&nid=110)  
+[[译] 16 个 jQuery 模态弹出框 / 对话框](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwebres.wang%2F16-jquery-modal-dialog-boxes%2F&aid=5631&nid=110)  
+[13 款 JS 插件 & 前端资源](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.shejidaren.com%2F13-web-dev-resources.html&aid=5632&nid=110)  
+[抛开 React 学习 React（一）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fqianduan.guru%2F2016%2F03%2F27%2FLearning-React-Without-Using-React-Part1%2F&aid=5675&nid=111)  
+[一些值得思考的 JavaScript 面试小题目](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fcreeperyang%2Fblog%2Fissues%2F2&aid=5677&nid=111)  
+[vudio.js：简单的音频数据可视化模块](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fmargox%2Fvudio.js&aid=5735&nid=111)  
+[[译] Redux：一个启发自 Flux 的架构风格](http://weekly.manong.io/bounce?url=http%3A%2F%2Fsugarball.duapp.com%2Fyi-redux-yi-ge-qi-fa-zi-fluxde-jia-gou-feng-ge%2F&aid=5734&nid=111)  
 
 <a name="KAFKA"></a>
 ##KAFKA
 [Kafka 设计解析（四）：Kafka Consumer 解析 (郭俊)](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.infoq.com%2Fcn%2Farticles%2Fkafka-analysis-part-4&aid=3553&nid=87)  
 [Kafka 设计与原理详解](http://weekly.manong.io/bounce?url=http%3A%2F%2Fsegmentfault.com%2Fa%2F1190000003922549&aid=4112&nid=93)  
 [给 EFK 日志系统添加 Kafka 队列中遇到的 time 问题解决](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.elain.org%2F%3Fp%3D990&aid=4282&nid=95)  
+[Kafka 集群操作指南](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.lujinhong.com%2Fkafka%25E9%259B%2586%25E7%25BE%25A4%25E6%2593%258D%25E4%25BD%259C%25E6%258C%2587%25E5%258D%2597.html&aid=5721&nid=111)  
 
 <a name="LINUX"></a>
 ##LINUX
@@ -2113,6 +2168,10 @@ readme.md现在过大，在项目首页无法显示完整，点击进入文件�
 [Linux 命令之 sed 与 awk](http://weekly.manong.io/bounce?url=http%3A%2F%2Fsadwxqezc.github.io%2FHuangHuanBlog%2Flinux%2F2016%2F03%2F10%2FLinux%25E5%2591%25BD%25E4%25BB%25A4%25E5%25AD%25A6%25E4%25B9%25A0-Part-Eight.html&aid=5517&nid=109)  
 [多 SSH Key 管理技巧与 Git 多账户登录问题](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.barretlee.com%2Fblog%2F2016%2F03%2F09%2Fconfig-in-ssh-after-troubling-git-connection%2F&aid=5524&nid=109)  
 [SED 单行脚本快速参考](http://weekly.manong.io/bounce?url=http%3A%2F%2Fsed.sourceforge.net%2Fsed1line_zh-CN.html&aid=5531&nid=109)  
+[Linux I/O mulitplexing 和 epoll 编程](http://weekly.manong.io/bounce?url=http%3A%2F%2Fdaizuozhuo.github.io%2Flinux-io%2F&aid=5612&nid=110)  
+[懒程序员和他的 dotfiles](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.coderzh.com%2F2016%2F03%2F19%2Fdotfiles%2F&aid=5616&nid=110)  
+[28 个 Unix / Linux 的命令行神器（2012）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcoolshell.cn%2Farticles%2F7829.html&aid=5690&nid=111)  
+[Linux 入侵后续指南](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.heysec.org%2Farchives%2F111&aid=5713&nid=111)  
 
 <a name="LISP"></a>
 ##LISP
@@ -2262,6 +2321,9 @@ readme.md现在过大，在项目首页无法显示完整，点击进入文件�
 [MySQL 5.7 新增加的 JSON 特性对应的 json 方法](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.bytetown.net%2F2016%2F03%2F01%2F001-mysql-5_7_json_functions.html&aid=5461&nid=108)  
 [MySQL 分库分表方案](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.francissoung.com%2F2015%2F10%2F12%2FMysql%25E5%2588%2586%25E5%25BA%2593%25E5%2588%2586%25E8%25A1%25A8%25E6%2596%25B9%25E6%25A1%2588%2F&aid=5516&nid=109)  
 [一些前端的最佳实践](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fdyygtfx%2Ffront-end-best-practices&aid=5518&nid=109)  
+[不停止 MySQL 服务增加从库的两种方式](http://weekly.manong.io/bounce?url=http%3A%2F%2Flizhenliang.blog.51cto.com%2F7876557%2F1669829&aid=5617&nid=110)  
+[企业互联网 + 转型实战：如何进行 PB 级别数据的架构变迁 (云智慧)](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAwNzA0NTMzMQ%3D%3D%26mid%3D404416885%26idx%3D1%26sn%3D0e287749669d7dadae8f680849e1f526%26scene%3D1%26srcid%3D0321cvams9059swRXswXuGmj%23rd&aid=5565&nid=110)  
+[MySQL binlog 格式解析](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2Fc16686b35807&aid=5702&nid=111)  
 
 <a name="NGINX"></a>
 ##NGINX
@@ -2375,6 +2437,8 @@ readme.md现在过大，在项目首页无法显示完整，点击进入文件�
 [Node 编码规范](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fwindyrobin%2FiFrame%2Fblob%2Fmaster%2Fstyle.md&aid=5234&nid=105)  
 [Node.js 之 HTTP](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fswfbarhr%2Fblog%2Fblob%2Fmaster%2Fnode%2Fhttp.md&aid=5498&nid=109)  
 [从两个角度，一个小例子浅析 Node.js 架构](http://weekly.manong.io/bounce?url=https%3A%2F%2Fcnodejs.org%2Ftopic%2F5594ada26ba28efa30a604e2&aid=5504&nid=109)  
+[玩转 npm](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.alloyteam.com%2F2016%2F03%2Fmaster-npm%2F&aid=5620&nid=110)  
+[基于 Express + Gulp + BrowserSync 搭建高性能的前端开发环境](http://weekly.manong.io/bounce?url=https%3A%2F%2Fwww.kisnows.com%2F2015%2F11%2F02%2Fdev-environment-Express-Gulp-BrowserSync%2F&aid=5626&nid=110)  
 
 <a name="OPENGL"></a>
 ##OPENGL
@@ -2507,6 +2571,9 @@ readme.md现在过大，在项目首页无法显示完整，点击进入文件�
 [在 Docker 中运行 PHP 项目的探索之旅](http://weekly.manong.io/bounce?url=http%3A%2F%2Fdockone.io%2Farticle%2F1037&aid=5364&nid=107)  
 [DockerPHP：基于 Docker 容器化 PHP 开发环境解决方案](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FMarkThink%2FDockerPHP&aid=5475&nid=108)  
 [PHP 扩展开发入门](http://weekly.manong.io/bounce?url=https%3A%2F%2Fandot.gitbooks.io%2Fbped%2Fcontent%2F&aid=5550&nid=109)  
+[[译] Badoo 告诉你切换到 PHP 7 节省了 100 万美元](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.oschina.net%2Ftranslate%2Fhow-badoo-saved-one-million-dollars-switching-to-php7&aid=5582&nid=110)  
+[PHP 的 json_encode 分析](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.tingm.cc%2Fdoku.php%3Fid%3Dphp%3APHP%25E7%259A%2584json_encode%25E5%2588%2586%25E6%259E%2590&aid=5674&nid=111)  
+[PHP 并发 IO 编程之路](http://weekly.manong.io/bounce?url=http%3A%2F%2Frango.swoole.com%2Farchives%2F508&aid=5685&nid=111)  
 
 <a name="POSTGRESQL"></a>
 ##POSTGRESQL
@@ -2740,6 +2807,11 @@ readme.md现在过大，在项目首页无法显示完整，点击进入文件�
 [《Think Python 2ed》最新版中文翻译](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcodingpy.com%2Fbooks%2Fthinkpython2%2F&aid=5437&nid=108)  
 [The Flask Mega-Tutorial 中文版](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.pythondoc.com%2Fflask-mega-tutorial%2Findex.html&aid=5446&nid=108)  
 [[译] Python 爬虫技术：JavaScript 渲染动态页面抓取超级指南](http://weekly.manong.io/bounce?url=http%3A%2F%2Fdatartisan.com%2Farticle%2Fdetail%2F95.html&aid=5552&nid=109)  
+[如何用 Python 写一个贪吃蛇 AI（2013）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.hawstein.com%2Fposts%2Fsnake-ai.html&aid=5578&nid=110)  
+[用 Python 理解服务器模型（上）](http://weekly.manong.io/bounce?url=https%3A%2F%2Fwww.textarea.com%2Fzhicheng%2Fyong-python-lijie-fuwuqi-moxing-shang-566%2F&aid=5579&nid=110)  
+[Tornado 源码阅读](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fjiajunhuang%2Fblog%2Fblob%2Fmaster%2Ftornado.rst&aid=5629&nid=110)  
+[中文 Python 笔记](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Flijin-THU%2Fnotes-python&aid=5676&nid=111)  
+[Python 程序的执行原理（2013）](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftech.uc.cn%2F%3Fp%3D1932&aid=5680&nid=111)  
 
 <a name="R"></a>
 ##R
@@ -2803,6 +2875,7 @@ readme.md现在过大，在项目首页无法显示完整，点击进入文件�
 [React Native 开源项目：iOS 资讯头条 App](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.lcode.org%2Freact-native-source-zixunapp%2F&aid=5470&nid=108)  
 [三步将 React Native 项目运行在 Web 浏览器上面](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftaobaofed.org%2Fblog%2F2016%2F03%2F11%2Freact-web-intro%2F&aid=5505&nid=109)  
 [一简：使用 React Native 开发的微博客户端](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FSFantasy%2FWeiboReactNative&aid=5539&nid=109)  
+[探索 React Native 首屏渲染最佳实践](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.alloyteam.com%2F2016%2F03%2Fbest-practice-in-react-native%2F&aid=5678&nid=111)  
 
 <a name="REDIS"></a>
 ##REDIS
@@ -2858,6 +2931,8 @@ readme.md现在过大，在项目首页无法显示完整，点击进入文件�
 [redis-migration：独创的 Redis 在线数据迁移工具 ](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.bitstech.net%2F2016%2F03%2F03%2Fredis-migration%2F&aid=5468&nid=108)  
 [Redis 该选择哪种持久化配置](http://weekly.manong.io/bounce?url=http%3A%2F%2Fzheng-ji.info%2Fblog%2F2016%2F03%2F10%2Fgai-xuan-ze-na-chong-redischi-jiu-hua-pei-zhi%2F&aid=5511&nid=109)  
 [Redis 入门视频分享](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcarlosfu.iteye.com%2Fblog%2F2276606&aid=5526&nid=109)  
+[Redis 云平台 Cachecloud 开源](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcarlosfu.iteye.com%2Fblog%2F2284673&aid=5597&nid=110)  
+[CacheCloud：搜狐视频 Redis 私有云平台](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fsohutv%2Fcachecloud&aid=5643&nid=110)  
 
 <a name="REGEX"></a>
 ##REGEX
@@ -2931,6 +3006,7 @@ readme.md现在过大，在项目首页无法显示完整，点击进入文件�
 [Ruby 语言简明入门与提高](http://weekly.manong.io/bounce?url=http%3A%2F%2Fsegmentfault.com%2Fa%2F1190000004349506%3Ff%3Dtt&aid=5088&nid=104)  
 [wechat-starter：基于 Rails 的微信开发模板](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fgoofansu%2Fwechat-starter&aid=5261&nid=105)  
 [为什么 Ruby 程序员应该了解和掌握 Docker](http://weekly.manong.io/bounce?url=http%3A%2F%2Fdockone.io%2Farticle%2F1033&aid=5294&nid=106)  
+[Rails + ES6 + Angular2 前后端分离开发（一）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fzhuanlan.zhihu.com%2Fzuozuo%2F20650957&aid=5613&nid=110)  
 
 <a name="RUST"></a>
 ##RUST
@@ -2946,6 +3022,8 @@ readme.md现在过大，在项目首页无法显示完整，点击进入文件�
 [The Advanced Rust Programming Language](http://weekly.manong.io/bounce?url=https%3A%2F%2Fdoc.rust-lang.org%2Fnightly%2Fadv-book%2F&aid=3109&nid=82)  
 [Rust 开发技术学习路线](http://weekly.manong.io/bounce?url=http%3A%2F%2Fspecial.csdncms.csdn.net%2Frust%2Findex.shtml&aid=3206&nid=83)  
 [[PDF] Why Rust? (Jim Blandy)](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.oreilly.com%2Fprogramming%2Ffree%2Ffiles%2Fwhy-rust.pdf%3Fhmsr%3Dtoutiao.io%26utm_medium%3Dtoutiao.io%26utm_source%3Dtoutiao.io&aid=3675&nid=88)  
+[[译] 写给 Python 程序员看的 Rust 介绍](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.windrunner.info%2Frust%2Fpython-rust.html&aid=5681&nid=111)  
+[Rust 语言入门、关键技术与实战经验](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAwMDU1MTE1OQ%3D%3D%26mid%3D405037902%26idx%3D1%26sn%3D97d9af490eefc5d6158cb6b6a70f67e5&aid=5682&nid=111)  
 
 <a name="SCALA"></a>
 ##SCALA
@@ -2974,6 +3052,7 @@ readme.md现在过大，在项目首页无法显示完整，点击进入文件�
 [Scala 魔法函数](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcolobu.com%2F2016%2F01%2F04%2FScala-magic-functions%2F&aid=4839&nid=101)  
 [Scala 中的依赖注入（2012）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.yunglinho.com%2Fblog%2F2012%2F04%2F22%2Fdependency-injection-in-scala%2F&aid=4922&nid=102)  
 [Scala 入门笔记](http://weekly.manong.io/bounce?url=http%3A%2F%2Fandrewliu.in%2F2016%2F01%2F16%2FScala%25E5%2585%25A5%25E9%2597%25A8%25E7%25AC%2594%25E8%25AE%25B0%2F&aid=4997&nid=103)  
+[我为什么想并且要学习 Scala](http://weekly.manong.io/bounce?url=https%3A%2F%2Fcodingstyle.cn%2Ftopics%2F134&aid=5580&nid=110)  
 
 <a name="SHELL"></a>
 ##SHELL
@@ -2994,6 +3073,7 @@ readme.md现在过大，在项目首页无法显示完整，点击进入文件�
 [A quick guide to writing scripts using the bash shell](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.panix.com%2F%7Eelflord%2Funix%2Fbash-tute.html&aid=3580&nid=87)  
 [Shell 管理 Monkey 压力测试续：监控方案重构及 MCM 监控维护](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftesterhome.com%2Ftopics%2F3685&aid=4516&nid=97)  
 [一些值得收藏的 PowerShell 工具](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.freebuf.com%2Ftools%2F87647.html&aid=4607&nid=98)  
+[数据工程师，常用 Shell 命令](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2F1ea90c81b659&aid=5608&nid=110)  
 
 <a name="SPARK"></a>
 ##SPARK
@@ -3049,6 +3129,7 @@ readme.md现在过大，在项目首页无法显示完整，点击进入文件�
 [使用 Docker 快速部署 Storm 环境](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.tnidea.com%2Fdeploy-storm-by-docker.html&aid=4414&nid=96)  
 [基于 HBase 做 Storm 实时计算指标存储](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2F1f9153cfde67&aid=4518&nid=97)  
 [Storm 适配器（.Net）升级说明以及一些性能数据](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.tnidea.com%2Fdot-net-storm-adapter-upgrade.html&aid=4586&nid=98)  
+[使用 DRPC 构建分布式多语言编程架构](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.tnidea.com%2Fbuild-multi-language-framework-by-drpc.html&aid=5696&nid=111)  
 
 <a name="SWIFT"></a>
 ##SWIFT
@@ -3190,6 +3271,7 @@ readme.md现在过大，在项目首页无法显示完整，点击进入文件�
 [用 Swift 搭建数据驱动型 iOS 架构](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmrpeak.cn%2Fblog%2Fswift-dda%2F&aid=5361&nid=107)  
 [Swift 开源项目精选 v1.0](http://weekly.manong.io/bounce?url=http%3A%2F%2Fdev.swiftguide.cn%2Farchive%2Ffeatured-open-source-projects-in-swift_v1.0.html&aid=5433&nid=108)  
 [Swift 入门指引](http://weekly.manong.io/bounce?url=http%3A%2F%2Fdev.swiftguide.cn%2Farchive%2Fgetting-started-in-swift_v1.0.html&aid=5549&nid=109)  
+[Swift 2.2 的新特性](http://weekly.manong.io/bounce?url=http%3A%2F%2Fchengway.in%2Fswift-2-2-de-xin-te-xing%2F&aid=5673&nid=111)  
 
 <a name="THRIFT"></a>
 ##THRIFT
@@ -3234,6 +3316,7 @@ readme.md现在过大，在项目首页无法显示完整，点击进入文件�
 [Gulp 系列教程](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.w3cplus.com%2Fblog%2Ftags%2F528.html&aid=4939&nid=102)  
 [自己动手打造适合 Pythoner 的 Vim](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.zeython.com%2Fpython_vim.html&aid=5125&nid=104)  
 [简明 Vim 练级攻略（2011）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcoolshell.cn%2Farticles%2F5426.html&aid=5369&nid=107)  
+[Vim (gvim) 相关插件整理（2010）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.vimer.cn%2F2010%2F06%2F%25e6%259c%25ac%25e5%258d%259a%25e4%25bd%25bf%25e7%2594%25a8%25e7%259a%2584vimgvim%25e7%259b%25b8%25e5%2585%25b3%25e6%258f%2592%25e4%25bb%25b6%25e6%2595%25b4%25e7%2590%2586.html&aid=5619&nid=110)  
 
 <a name="WEB前端"></a>
 ##WEB前端
@@ -3446,6 +3529,12 @@ readme.md现在过大，在项目首页无法显示完整，点击进入文件�
 [前端重构之路](http://weekly.manong.io/bounce?url=https%3A%2F%2Fimochen.com%2F2015%2F12%2F23%2Fthe-path-of-the-front-end-refactoring-technology-selection%2F&aid=5521&nid=109)  
 [《Web Component 实战》译者序](http://weekly.manong.io/bounce?url=http%3A%2F%2Fqianduan.guru%2F2016%2F03%2F10%2FWeb-Component-In-Action-Preface%2F&aid=5513&nid=109)  
 [Web-Fontmin：在线提取你需要的字体](http://weekly.manong.io/bounce?url=http%3A%2F%2Fforsigner.com%2F2016%2F03%2F13%2Fweb-fontmin%2F&aid=5538&nid=109)  
+[2016 年 Web 前端面试题目汇总](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.cnblogs.com%2FbigboyLin%2Fp%2F5272902.html&aid=5621&nid=110)  
+[最全的前端资源教程](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FAutumnsWind%2FFront-end-tutorial&aid=5622&nid=110)  
+[浅谈音悦台 PC 端（前端开发）的改造](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Ficepy%2F_posts%2Fissues%2F29&aid=5600&nid=110)  
+[浅谈前端集成解决方案（2014）](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Ffouber%2Fblog%2Fissues%2F1&aid=5711&nid=111)  
+[浅谈 Web 缓存](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.alloyteam.com%2F2016%2F03%2Fdiscussion-on-web-caching%2F%3Ff%3Dtt&aid=5712&nid=111)  
+[与外刊君一起学习 2016 前端开发者大会 PPT](http://weekly.manong.io/bounce?url=http%3A%2F%2Fqianduan.guru%2F2016%2F03%2F22%2Ffequan-2%2F&aid=5724&nid=111)  
 
 <a name="WEB安全"></a>
 ##WEB安全
@@ -3467,6 +3556,11 @@ readme.md现在过大，在项目首页无法显示完整，点击进入文件�
 [RESTFUL API 安全设计指南](http://weekly.manong.io/bounce?url=http%3A%2F%2Fdrops.wooyun.org%2Fweb%2F9737&aid=3926&nid=91)  
 [物理服务器的安全](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmoonzwu.github.io%2F2015%2F10%2F15%2Fphysical_server_security%2F&aid=3936&nid=91)  
 [乌云知识库 2015 年精华文章合集](http://weekly.manong.io/bounce?url=http%3A%2F%2Fnews.wooyun.org%2F4448574662596870654e497474767749364f767438513d3d&aid=5252&nid=105)  
+[开发人员应该知道的安全知识](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.yangguo.info%2F2016%2F03%2F12%2F%25E5%25BC%2580%25E5%258F%2591%25E4%25BA%25BA%25E5%2591%2598%25E5%25BA%2594%25E8%25AF%25A5%25E6%258E%258C%25E6%258F%25A1%25E7%259A%2584%25E5%25AE%2589%25E5%2585%25A8%25E7%259F%25A5%25E8%25AF%2586%2F&aid=5601&nid=110)  
+[浅谈 API 安全设计](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2Fd7c52d113a68&aid=5605&nid=110)  
+[GET 来的漏洞](http://weekly.manong.io/bounce?url=http%3A%2F%2Fdrops.wooyun.org%2Fweb%2F7112&aid=5697&nid=111)  
+[[英] SQL 注入小抄](http://weekly.manong.io/bounce?url=https%3A%2F%2Fwww.netsparker.com%2Fblog%2Fweb-security%2Fsql-injection-cheat-sheet&aid=5707&nid=111)  
+[端口渗透总结](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.heysec.org%2Farchives%2F577&aid=5723&nid=111)  
 
 <a name="WOLFRAM"></a>
 ##WOLFRAM
@@ -3483,6 +3577,7 @@ readme.md现在过大，在项目首页无法显示完整，点击进入文件�
 [分布式协调服务 ZooKeeper 工作原理](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA4Nzc4MjI4MQ%3D%3D%26mid%3D402839281%26idx%3D1%26sn%3De46ab7a4865f94f7a2ade584621c62c3&aid=5319&nid=106)  
 [[译] 数据处理平台架构中的 SMACK 组合](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.dataman-inc.com%2Funtitled-23%2F&aid=5329&nid=106)  
 [Apache Flink 官方文档翻译开源项目](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.flink-china.org%2F2016%2F03%2F08%2Fflink-documentation-translation-project%2F&aid=5530&nid=109)  
+[Fastdfs 分布式文件系统的应用](http://weekly.manong.io/bounce?url=http%3A%2F%2Fminirick.duapp.com%2Ffastdfsfen-bu-shi-wen-jian-xi-tong-shi-zhan%2F&aid=5700&nid=111)  
 
 <a name="开源系统"></a>
 ##开源系统
@@ -3566,6 +3661,9 @@ readme.md现在过大，在项目首页无法显示完整，点击进入文件�
 [Electronic WeChat：Mac OS X 和 Linux 下更好用的微信客户端](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fgeeeeeeeeek%2Felectronic-wechat%2Fblob%2Fmaster%2FREADME_zh.md&aid=5476&nid=108)  
 [Hubot-WeChat：开源 Hubot 的微信 adapter](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FKasperDeng%2FHubot-WeChat%2Fblob%2Fmaster%2FREADME.md&aid=5467&nid=108)  
 [阿里自主研发的互动游戏引擎 Hilo 开源](http://weekly.manong.io/bounce?url=https%3A%2F%2Fyq.aliyun.com%2Farticles%2F7474&aid=5469&nid=108)  
+[mui：最接近原生 App 体验的高性能框架](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fdcloudio%2Fmui&aid=5639&nid=110)  
+[macaca：支付宝 App 测试工具](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fmacacajs%2Fmacaca&aid=5640&nid=110)  
+[Orange：基于 OpenResty 的 API Gateway](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fsumory%2Forange&aid=5733&nid=111)  
 
 <a name="技术科普"></a>
 ##技术科普
@@ -3726,6 +3824,15 @@ readme.md现在过大，在项目首页无法显示完整，点击进入文件�
 [性能测试艺术](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmy.oschina.net%2Fu%2F1433482%2Fblog%2F634047&aid=5523&nid=109)  
 [移动互联网 CDN 运用思路](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI4MjA4ODU0Ng%3D%3D%26mid%3D402603447%26idx%3D1%26sn%3Da66afa8393ffe5b8272ec0733f3ad1fa&aid=5528&nid=109)  
 [图片资源 BASE64 化在 H5 页面里有用武之地吗？](http://weekly.manong.io/bounce?url=http%3A%2F%2Faotu.io%2Fnotes%2F2016%2F03%2F04%2Fcan-we-use-base64-in-h5-webapps%2F&aid=5529&nid=109)  
+[HTTPS 初解](http://weekly.manong.io/bounce?url=http%3A%2F%2Fnathanli.cn%2F2016%2F03%2F18%2Fhttps_learn_sample%2F&aid=5599&nid=110)  
+[漫谈 IM 通信架构](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.yangguo.info%2F2015%2F08%2F17%2F%25E6%25BC%25AB%25E8%25B0%2588%25E9%2580%259A%25E8%25AE%25AF%25E6%259E%25B6%25E6%259E%2584%2F&aid=5564&nid=110)  
+[常见的反爬虫和应对方法](http://weekly.manong.io/bounce?url=http%3A%2F%2Fzhuanlan.zhihu.com%2Fpython-hacker%2F20520370&aid=5611&nid=110)  
+[笔试面试知识整理](http://weekly.manong.io/bounce?url=http%3A%2F%2Fhit-alibaba.github.io%2Finterview%2Findex.html&aid=5628&nid=110)  
+[深入理解计算机面试中的经典题目](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FxuelangZF%2FCS_Offer&aid=5691&nid=111)  
+[上传图片攻略全解](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Ficepy%2F_posts%2Fissues%2F30&aid=5698&nid=111)  
+[逆向工程（一）：汇编、逆向工程基础篇](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.freebuf.com%2Fnews%2Fothers%2F86147.html&aid=5706&nid=111)  
+[[译] 5 个导致主线程卡顿较鲜为人知的元凶](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.nimbledroid.com%2F2016%2F03%2F21%2Fways-to-hang-main-thread-zh.html&aid=5704&nid=111)  
+[无线 App 时代 HTTP 请求 DNS 优化](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.habadog.com%2F2015%2F10%2F20%2Fapp-http-dns%2F&aid=5709&nid=111)  
 
 <a name="数据挖掘/机器学习"></a>
 ##数据挖掘/机器学习
@@ -3858,10 +3965,15 @@ readme.md现在过大，在项目首页无法显示完整，点击进入文件�
 [12306 出票的一种算法设计](http://weekly.manong.io/bounce?url=http%3A%2F%2Fgfzeng.github.io%2F%23%21%2Fposts%2Fyet-another-12306-design-way.org&aid=5383&nid=107)  
 [几个分布式基础算法](http://weekly.manong.io/bounce?url=https%3A%2F%2Fyq.aliyun.com%2Farticles%2F7119&aid=5463&nid=108)  
 [AlphaGo 背后的搜索算法：蒙特卡罗树搜索](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcodingpy.com%2Farticle%2Fmonte-carlo-tree-search-and-alphago%2F&aid=5525&nid=109)  
+[查找算法之顺序、二分、二叉搜索树、红黑树详细比较总结](http://weekly.manong.io/bounce?url=http%3A%2F%2Fthreezj.com%2F2016%2F03%2F20%2F%25E6%259F%25A5%25E6%2589%25BE%25E7%25AE%2597%25E6%25B3%2595%25E4%25B9%258B%25E9%25A1%25BA%25E5%25BA%258F%25E3%2580%2581%25E4%25BA%258C%25E5%2588%2586%25E3%2580%2581%25E4%25BA%258C%25E5%258F%2589%25E6%2590%259C%25E7%25B4%25A2%25E6%25A0%2591%25E3%2580%2581%25E7%25BA%25A2%25E9%25BB%2591%25E6%25A0%2591%2F&aid=5607&nid=110)  
+[说人话的 PAXOS 算法简介及证明](http://weekly.manong.io/bounce?url=https%3A%2F%2Fhacpai.com%2Farticle%2F1458136701468&aid=5623&nid=110)  
+[[译] 动态规划：从新手到专家](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.hawstein.com%2Fposts%2Fdp-novice-to-advanced.html&aid=5634&nid=110)  
+[VisuAlgo：数据结构和算法动态可视化](http://weekly.manong.io/bounce?url=http%3A%2F%2Fzh.visualgo.net%2F&aid=5731&nid=111)  
 
 <a name="消息队列"></a>
 ##消息队列
 [RabbitMQ 的几种典型使用场景](http://weekly.manong.io/bounce?url=http%3A%2F%2Fm.oschina.net%2Fblog%2F618058&aid=5310&nid=106)  
+[消息系统设计与实现](http://weekly.manong.io/bounce?url=https%3A%2F%2Fcnodejs.org%2Ftopic%2F56485dd8b68278b07f982804&aid=5727&nid=111)  
 
 <a name="程序设计"></a>
 ##程序设计
@@ -4049,6 +4161,16 @@ readme.md现在过大，在项目首页无法显示完整，点击进入文件�
 [饿了么移动 App 的架构演进](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2F2141fb0dc62c&aid=5558&nid=109)  
 [如何减少接口响应时间](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.lichengwu.cn%2Foptimization%2F2016%2F03%2F12%2Fhow-to-reduce-the-computational-response-time%2F&aid=5492&nid=109)  
 [一套简洁的即时通信 (IM) 系统](http://weekly.manong.io/bounce?url=http%3A%2F%2Fweibo.com%2Fp%2F1001603950681689090105&aid=5496&nid=109)  
+[消息系统设计与实现（上篇）](http://weekly.manong.io/bounce?url=https%3A%2F%2Fcnodejs.org%2Ftopic%2F561e789e30e69d1b2ad8b27f&aid=5633&nid=110)  
+[动态调整的基础：配置中心](http://weekly.manong.io/bounce?url=http%3A%2F%2Fpingguohe.net%2F2016%2F03%2F18%2Fconfig-center.html&aid=5615&nid=110)  
+[天猫 App 的动态化配置中心实践](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA3ODg4MDk0Ng%3D%3D%26mid%3D402842876%26idx%3D1%26sn%3De15d596c95bf7d1ed579cfd7e410696a&aid=5627&nid=110)  
+[App 架构经验总结](http://weekly.manong.io/bounce?url=http%3A%2F%2Fkeeganlee.me%2Fpost%2Farchitecture%2F20160303&aid=5661&nid=111)  
+[App 架构设计经验谈：接口的设计](http://weekly.manong.io/bounce?url=http%3A%2F%2Fkeeganlee.me%2Fpost%2Farchitecture%2F20160107&aid=5662&nid=111)  
+[秒杀业务架构优化之路](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI4NzE1NTYyMg%3D%3D%26mid%3D402348782%26idx%3D1%26sn%3D8fb1a9c255e50ebeb1c37c92af33895e&aid=5663&nid=111)  
+[为什么要用插件化](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2Fa475c828e6f6&aid=5705&nid=111)  
+[更好的设计你的 REST API（2011）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.ibm.com%2Fdeveloperworks%2Fcn%2Fweb%2F1103_chenyan_restapi%2F&aid=5708&nid=111)  
+[无线 App 日志上报优化实践](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.habadog.com%2F2015%2F10%2F21%2Fapp-log-report%2F&aid=5719&nid=111)  
+[[译] 应用架构一团糟？如何将单体应用改造为微服务](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.alauda.cn%2F2016%2F03%2F23%2Fmonolith-to-microservice%2F&aid=5720&nid=111)  
 
 <a name="编程工具"></a>
 ##编程工具
@@ -4213,6 +4335,13 @@ readme.md现在过大，在项目首页无法显示完整，点击进入文件�
 [Walle：Web 部署系统工具](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fmeolu%2Fwalle-web%2Fblob%2Fmaster%2Fdocs%2FREADME-zh.md&aid=5408&nid=107)  
 [Atom 使用纪要](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jeffjade.com%2F2016%2F03%2F03%2F2016-03-02-how-to-use-atom%2F&aid=5440&nid=108)  
 [在线 API 文档、技术文档工具 ShowDoc](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.star7th.com%2F2015%2F11%2F1816.html&aid=5464&nid=108)  
+[iTerm2 指南](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwdxtub.com%2F2016%2F03%2F20%2Fiterm2-guide%2F&aid=5606&nid=110)  
+[Travis CI - 项目持续集成好伴侣](http://weekly.manong.io/bounce?url=http%3A%2F%2Fswiftcafe.io%2F2016%2F03%2F18%2Ftravis%2F&aid=5610&nid=110)  
+[Flamingo：基于 Ansible 的自动化代码发布工具](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fgeekwolf%2Fflamingo&aid=5641&nid=110)  
+[Macaca 文档正式开放](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcnodejs.org%2Ftopic%2F56f116f3532839c33a99d0bc&aid=5717&nid=111)  
+[Google 搜索技巧](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwdxtub.com%2F2016%2F03%2F26%2Fgoogle-tip%2F&aid=5692&nid=111)  
+[使用模板快速编写测试用例](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftech.meituan.com%2Ftestcase-templete.html&aid=5716&nid=111)  
+[[译] 微软开源 Visual Studio 扩展工具集](http://weekly.manong.io/bounce?url=http%3A%2F%2Fosp.io%2Farchives%2F1744&aid=5730&nid=111)  
 
 <a name="编程资源"></a>
 ##编程资源
@@ -4348,6 +4477,8 @@ readme.md现在过大，在项目首页无法显示完整，点击进入文件�
 [百度 2016 校招笔试题](http://weekly.manong.io/bounce?url=http%3A%2F%2Fask.julyedu.com%2Fm%2Fquestion%2F6941&aid=5390&nid=107)  
 [使用支持 TouchDesigner* 的英特尔实感摄像头：第 1 部分 (英特尔开发人员专区)](http://weekly.manong.io/bounce?url=https%3A%2F%2Fsoftware.intel.com%2Fzh-cn%2Farticles%2Fusing-the-intel-realsense-camera-with-touchdesigner-part-1%3Futm_source%3DManong%26utm_medium%3DNewsletter%26utm_campaign%3DRealsense_PRC_Q415_Syndication&aid=5448&nid=108)  
 [将英特尔实感技术与英特尔 EDISON 开发平台结合使用 (英特尔开发人员专区)](http://weekly.manong.io/bounce?url=https%3A%2F%2Fsoftware.intel.com%2Fzh-cn%2Farticles%2Fusing-intel-realsense-technology-in-combination-with-the-intel-edison-development-platform%2F%3Futm_source%3DManong%26utm_medium%3DNewsletter%26utm_campaign%3DRealsense_PRC_Q415_Syndication&aid=5561&nid=109)  
+[使用英特尔实感 SDK 手标模块创建虚拟摇杆](http://weekly.manong.io/bounce?url=https%3A%2F%2Fsoftware.intel.com%2Fzh-cn%2Farticles%2Fcreate-a-virtual-joystick-using-the-intel-realsense-sdk-hand-cursor-module%3Futm_source%3DManong%26utm_medium%3DNewsletter%26utm_campaign%3DGamedev_PRC_Q116&aid=5657&nid=111)  
+[英特尔推出 AVS 2.0 比特流，提升解码器验证效率](http://weekly.manong.io/bounce?url=https%3A%2F%2Fsoftware.intel.com%2Fzh-cn%2Farticles%2Fintel-delivers-avs-20-bitstreams-for-efficient-decoder-validation%3Futm_source%3DManong%26utm_medium%3DNewsletter%26utm_campaign%3DGamedev_PRC_Q116&aid=5658&nid=111)  
 
 <a name="网站架构"></a>
 ##网站架构
@@ -4485,6 +4616,7 @@ readme.md现在过大，在项目首页无法显示完整，点击进入文件�
 [58 同城高性能移动 Push 推送平台架构演进之路](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA5NTkwMzkwNQ%3D%3D%26mid%3D402609571%26idx%3D1%26sn%3Df912868fc9e0bf4383b0b47fa9566069&aid=5425&nid=108)  
 [达达高性能服务端优化之路](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftech.imdada.cn%2F2015%2F11%2F04%2F%25E9%25AB%2598%25E6%2580%25A7%25E8%2583%25BD%25E6%259C%258D%25E5%258A%25A1%25E7%25AB%25AF%25E4%25BC%2598%25E5%258C%2596%25E4%25B9%258B%25E8%25B7%25AF%2F&aid=5443&nid=108)  
 [美团云分布式块存储系统 Ursa 的设计与实现](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftech.meituan.com%2Fblock-store.html&aid=5559&nid=109)  
+[服务化设计模式实践](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.brucefeng.info%2Fpost%2Fservice-design-patterns-practices&aid=5566&nid=110)  
 
 <a name="设计相关"></a>
 ##设计相关
@@ -4509,6 +4641,8 @@ readme.md现在过大，在项目首页无法显示完整，点击进入文件�
 [[译] 可能是 2015 年最不能错过的英文字体素材免费下载](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.uisdc.com%2F2015-top-quality-free-fonts&aid=4790&nid=100)  
 [[译] 2016 年第二波设计圈干货大合集](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.uisdc.com%2Fresourece-for-designers-january-2016&aid=5137&nid=104)  
 [从交互设计角度，聊聊 Web 网站和移动 App 的六大差异](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.uisdc.com%2Fweb-and-app-interaction-differences&aid=5251&nid=105)  
+[[译] 十八款各有千秋的精选设计开发工具](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.uisdc.com%2Fcodegeekz-fresh-tools-march-2016&aid=5618&nid=110)  
+[[译] 那些年，你想要的着陆页优化指南](http://weekly.manong.io/bounce?url=http%3A%2F%2Fuxren.cn%2F%3Fp%3D33322&aid=5624&nid=110)  
 
 <a name="运维相关"></a>
 ##运维相关
@@ -4525,3 +4659,7 @@ readme.md现在过大，在项目首页无法显示完整，点击进入文件�
 [Zabbix 使用微信接口实现微信报警功能](http://weekly.manong.io/bounce?url=http%3A%2F%2Flcbk.net%2Fzabbix%2F2022.html&aid=5509&nid=109)  
 [如果有 10000 台机器，你想怎么玩？](http://weekly.manong.io/bounce?url=http%3A%2F%2Fqinghua.github.io%2Fkubernetes-in-mesos-1%2F&aid=5491&nid=109)  
 [淘宝开源的系统监控工具 OrzDBA](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA4Nzc4MjI4MQ%3D%3D%26mid%3D403119339%26idx%3D1%26sn%3D63a40fd29879efc9b537cc3b9457e224&aid=5536&nid=109)  
+[Open-Falcon：一款互联网企业级监控系统解决方案](http://weekly.manong.io/bounce?url=http%3A%2F%2Fopen-falcon.org%2F&aid=5642&nid=110)  
+[初创公司应该如何做好持续集成和部署？](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA4Nzg5Nzc5OA%3D%3D%26mid%3D402922697%26idx%3D1%26sn%3Dd3f3fbe1ea3e04ece1952c6cb0e21cc2&aid=5598&nid=110)  
+[运维 DBA 的消亡](http://weekly.manong.io/bounce?url=https%3A%2F%2Fdbarobin.com%2F2016%2F03%2F20%2Fwithering-away-of-dba%2F&aid=5602&nid=110)  
+[Splunk 官方培训笔记](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwsgzao.github.io%2Fpost%2Fsplunk%2F&aid=5718&nid=111)  
