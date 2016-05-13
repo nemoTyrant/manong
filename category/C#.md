@@ -1,0 +1,7 @@
+[C# 程序设计（上）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmooc.study.163.com%2Fcourse%2FPKU-1000003003%23%2F&aid=1732&nid=55)  
+[开源一个社交网站模拟登录的库（C#） (@ziyunhx)](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.tnidea.com%2Fsocial-network-imitate-login.html&aid=2715&nid=77)  
+[针对 Java 程序员的 C# 快速入门教程 (xfans_)](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fxfans%2FCsharp_java_book&aid=2850&nid=79)  
+[在 C# 中实现 Python 的分片技术](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.cnblogs.com%2FJarvin%2Fp%2F3721728.html&aid=3991&nid=92)  
+[AOP 微型框架 CleanAOP 发布（C#）](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FJarvin-Guan%2FCleanAOP%2Fblob%2Fmaster%2FREADME.md&aid=4203&nid=94)  
+[C# 手动做一个负载均衡服务器](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.cnblogs.com%2Fnewsea%2Fp%2F4982466.html&aid=4405&nid=96)  
+[Windows Live Writer 开源并推出 Open Live Writer 分支](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FOpenLiveWriter%2FOpenLiveWriter&aid=4724&nid=99)  

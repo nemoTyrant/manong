@@ -2,21 +2,21 @@
 /**
  * whether it is a GET request
  */
-function is_get(){
+function is_get() {
 	return $_SERVER['REQUEST_METHOD'] == 'GET';
 }
 
 /**
  * which action is requested
  */
-function action(){
-	return isset($_GET['a']) ? $_GET['a']:'index';
+function action() {
+	return isset($_GET['a']) ? $_GET['a'] : 'index';
 }
 
 /**
  * show the index page
  */
-function index(){
+function index() {
 	require 'manong.php';
 	exit;
 }
@@ -24,10 +24,10 @@ function index(){
 /**
  * singleton db class
  */
-function get_db(){
-	static $db=null;
-	if(is_null($db)){
-		$db=new manongdb();
+function get_db() {
+	static $db = null;
+	if (is_null($db)) {
+		$db = new manongdb();
 	}
 	return $db;
 }
@@ -35,16 +35,16 @@ function get_db(){
 /**
  * log text
  */
-$log=true;
-function mylog($str){
+$log = true;
+function mylog($str) {
 	global $log;
-	if($log){
-		if(is_array($str)){
+	if ($log) {
+		if (is_array($str)) {
 			echo "<pre>";
 			print_r($str);
 			echo "</pre>";
-		}else{
-			echo $str.'<br>';
+		} else {
+			echo $str . '<br>';
 		}
 	}
 }
@@ -52,7 +52,7 @@ function mylog($str){
 /**
  * return json string
  */
-function ajax_return($arr){
+function ajax_return($arr) {
 	header('Content-type:application/json;charset=utf-8');
 	echo json_encode($arr);
 	exit;
@@ -61,26 +61,27 @@ function ajax_return($arr){
 /**
  * crawl the content
  */
-function crawl(){
-	$number=$_POST['number'];
-	
-	$mdb=get_db();
+function crawl() {
+	$number = $_POST['number'];
 
-	$data=$mdb->get_issue($number);
-	$html='';
-	if(empty($data)){
+	$mdb = get_db();
+
+	$data = $mdb->get_issue($number);
+	$html = '';
+	if (empty($data)) {
 		$html .= 'no data';
-	}else{
-		$cates=$mdb->get_cate();
+	} else {
+		$cates = $mdb->get_cate();
 		foreach ($data as $val) {
 			// basic classification
-			$cate='';
+			$cate = '';
 			foreach ($cates as $v) {
-				if(strlen($v) < 2){	// in case R or D matched
+				if (strlen($v) < 2) {
+					// in case R or D matched
 					continue;
 				}
-				if(false !== strpos(strtoupper($val['title']), $v)){
-					$cate=$v;
+				if (false !== strpos(strtoupper($val['title']), $v)) {
+					$cate = $v;
 				}
 			}
 			$html .= '<div class="item">';
@@ -104,139 +105,147 @@ function crawl(){
 /**
  * load categories
  */
-function cate(){
-	$mdb=get_db();
-	$cate=$mdb->get_cate();
-	$html='';
-	$html.='<select name="category">';
-	$html.='<option value="0">请选择</option>';
-	$catearr=[];
+function cate() {
+	$mdb = get_db();
+	$cate = $mdb->get_cate();
+	$html = '';
+	$html .= '<select name="category">';
+	$html .= '<option value="0">请选择</option>';
+	$catearr = [];
 	foreach ($cate as $val) {
-		$html.='<option value="'.$val.'">'.$val.'</option>';
-		$catearr[]=$val;
+		$html .= '<option value="' . $val . '">' . $val . '</option>';
+		$catearr[] = $val;
 	}
-	$html.='</select>';
-	ajax_return(['html'=>$html,'cate'=>$catearr]);
+	$html .= '</select>';
+	ajax_return(['html' => $html, 'cate' => $catearr]);
 }
 
 /**
  * add an item to db
  */
-function add(){
-	$cate=trim($_GET['newcate']);
-	$cate=$cate ? $cate:$_GET['category'];
-	$cate || ajax_return(['res'=>0,'msg'=>'fill category']);
-	$data=[
-		'title'=>trim($_GET['title']),
-		'desc'=>trim($_GET['desc']),
-		'href'=>trim($_GET['href']),
-		'number'=>trim($_GET['number']),
-		'category'=>mb_strtoupper($cate, 'utf-8'),
-		'hash'=>md5(trim($_GET['href'])),
-		'addtime'=>time(),
-		'ctime'=>time(),
+function add() {
+	$cate = trim($_GET['newcate']);
+	$cate = $cate ? $cate : $_GET['category'];
+	$cate || ajax_return(['res' => 0, 'msg' => 'fill category']);
+	$data = [
+		'title' => trim($_GET['title']),
+		'desc' => trim($_GET['desc']),
+		'href' => trim($_GET['href']),
+		'number' => trim($_GET['number']),
+		'category' => mb_strtoupper($cate, 'utf-8'),
+		'hash' => md5(trim($_GET['href'])),
+		'addtime' => time(),
+		'ctime' => time(),
 	];
-	
-	if(get_db()->add($data)){
-		ajax_return(['res'=>1,'msg'=>'success','cate'=>$data['category']]);
-	}else{
-		ajax_return(['res'=>0,'msg'=>'db error']);
+
+	if (get_db()->add($data)) {
+		ajax_return(['res' => 1, 'msg' => 'success', 'cate' => $data['category']]);
+	} else {
+		ajax_return(['res' => 0, 'msg' => 'db error']);
 	}
 }
 
 /**
  * delete an item from cache
  */
-function del(){
-	$id=$_GET['id'];
-	$rs=get_db()->del_cache($id);
-	$res=$rs ? 1:0;
+function del() {
+	$id = $_GET['id'];
+	$rs = get_db()->del_cache($id);
+	$res = $rs ? 1 : 0;
 	ajax_return(compact('res'));
 }
 
 /**
  * render data to markdown text
  */
-function render(){
-	$mdb=get_db();
-	$data=$mdb->get_all();
-	$current=$mdb->current_number();
-	$content="码农周刊分类整理
+function render() {
+	$mdb = get_db();
+	$data = $mdb->get_all();
+	$current = $mdb->current_number();
+	$readmeContent = "码农周刊分类整理
 ======
-码农周刊的类别分的比较大，不易于后期查阅，所以我把每期的内容按语言或技术进行了分类整理。  
-码农周刊官方网址 [http://weekly.manong.io/](http://weekly.manong.io/)  
-一些不熟悉的领域分类可能不准确，请见谅  
-15期为图书推荐，请直接浏览[原地址](http://weekly.manong.io/issues/15)  
-56期为14年最受欢迎列表，请直接浏览[原地址](http://weekly.manong.io/issues/56)  
-现在已整理到第{$current}期。  
+码农周刊的类别分的比较大，不易于后期查阅，所以我把每期的内容按语言或技术进行了分类整理。
+码农周刊官方网址 [http://weekly.manong.io/](http://weekly.manong.io/)
+一些不熟悉的领域分类可能不准确，请见谅
+15期为图书推荐，请直接浏览[原地址](http://weekly.manong.io/issues/15)
+56期为14年最受欢迎列表，请直接浏览[原地址](http://weekly.manong.io/issues/56)
+现在已整理到第{$current}期。
 
-编程之外栏目里的文章和技术无直接关系，移到了talks.md文件里。 
-readme.md现在过大，在项目首页无法显示完整，点击进入文件中即可。
-
-号外：[@lcepy](https://github.com/icepy)  同学基于本项目制作了ios端的阅读app《猿已阅》，并已开源，大家可以移步[这里](https://github.com/icepy/manong-reading)参观一下。
+由于现在条目过多，在同一页显示全部内容已不再合适，所以按分类写到了不同文件里。仍然想以全部内容方式查看的可以点击[all.md](category/all.md)浏览。
 
 ";
+
+	$indexContent = "##索引\n";
+	$allContent = "";
 
 	// category index
 	// ##大纲
 	// [ANDROID](#ANDROID)
 	// [ANGULAR](#ANGULAR)
-	$categories=$mdb->get_cate();
-	if($categories){
-		$content.="\n";
-		$content.="##索引\n";
+	$categories = $mdb->get_cate();
+	if ($categories) {
+		$readmeContent .= "##索引\n";
 		foreach ($categories as $val) {
-			if($val == '编程之外'){
-				$content.="[{$val}](talks.md)  \n";
-			}else{
-				$content.="[{$val}](#{$val})  \n";
-			}
+
+			// 全文页的索引
+			$indexContent .= "[{$val}](#{$val})  \n";
+
+			// 首页的索引
+			$filename = str_replace(['.', ' ', '/'], ['', '_', '_'], $val);
+			$readmeContent .= "[{$val}](category/{$filename}.md)  \n";
 		}
 	}
 
-	$current_cate='';
-	$talks = '';
+	$current_cate = ''; // 当前分类
+	$current_file = ''; // 当前写入文件
+	$file_content = ''; // 当前写入文件内容
 	foreach ($data as $val) {
-		if($val['category'] == '编程之外'){
-			$talks .= "[{$val['title']}]({$val['href']})  \n";
-			continue;
+		if ($val['category'] != $current_cate) {
+			$allContent .= "\n";
+			$allContent .= "<a name=\"{$val['category']}\"></a>\n";
+			$allContent .= "##" . str_replace('#', '\# ', $val['category']) . "\n";
+			$current_cate = $val['category'];
+
+			// 将上一个类别的内容写入文件
+			if (!empty($file_content)) {
+				file_put_contents($current_file, $file_content);
+				$file_content = '';
+			}
+
+			$current_file = 'category/' . str_replace(['.', ' ', '/'], ['', '_', '_'], $val['category']) . '.md';
 		}
-		if($val['category'] != $current_cate){
-			$content.="\n";
-			$content.="<a name=\"{$val['category']}\"></a>\n";
-			$content.="##".str_replace('#', '\# ', $val['category'])."\n";
-			$current_cate=$val['category'];
-		}
-		$content.="[{$val['title']}]({$val['href']})  \n";
+		$allContent .= "[{$val['title']}]({$val['href']})  \n";
+		$file_content .= "[{$val['title']}]({$val['href']})  \n";
 	}
-	$rs=file_put_contents('./readme.md', $content);
-	file_put_contents('./talks.md', $talks);
-	if($rs){
-		ajax_return(['res'=>1]);
-	}else{
-		ajax_return(['res'=>0,'msg'=>'输出失败']);
+
+	$rs = file_put_contents('./readme.md', $readmeContent); // 写入readme.md
+	file_put_contents('./category/all.md', $indexContent . $allContent); // 全部内容
+	if ($rs) {
+		ajax_return(['res' => 1]);
+	} else {
+		ajax_return(['res' => 0, 'msg' => '输出失败']);
 	}
 }
 
-class manongdb{
+class manongdb {
 	private $pdo;
-	private $issue_url='http://weekly.manong.io/issues/';
+	private $issue_url = 'http://weekly.manong.io/issues/';
 
-	function __construct($user='root',$password='',$dbname='manong'){
-		$this->pdo=new PDO('mysql:host=localhost;dbname='.$dbname,$user,$password);
+	function __construct($user = 'root', $password = '', $dbname = 'manong') {
+		$this->pdo = new PDO('mysql:host=localhost;dbname=' . $dbname, $user, $password);
 		$this->pdo->query('set names utf8');
 	}
 
 	/**
 	 * get issue data
 	 */
-	function get_issue($number){
+	function get_issue($number) {
 		mylog('searching for cache');
-		$data=$this->cache($number);
-		if(empty($data)){
+		$data = $this->cache($number);
+		if (empty($data)) {
 			mylog('no cache,start crawling');
-			$data=$this->crawl($number);
-			if(false === $data){
+			$data = $this->crawl($number);
+			if (false === $data) {
 				die('抓取失败');
 			}
 		}
@@ -246,9 +255,9 @@ class manongdb{
 	/**
 	 * get issue cache
 	 */
-	function cache($number){
-		$data=$this->pdo->query("select * from cache where number={$number}")->fetchAll(PDO::FETCH_ASSOC);
-		if($data){
+	function cache($number) {
+		$data = $this->pdo->query("select * from cache where number={$number}")->fetchAll(PDO::FETCH_ASSOC);
+		if ($data) {
 			mylog('cache founded');
 		}
 		return $data;
@@ -257,43 +266,44 @@ class manongdb{
 	/**
 	 * delete an item from cache
 	 */
-	function del_cache($id){
+	function del_cache($id) {
 		return $this->pdo->exec("delete from cache where id={$id}");
 	}
 
 	/**
 	 * crawl the data
 	 */
-	function crawl($number){
-		$url=$this->issue_url.$number;
-		$content=file_get_contents($url);
-		$content=str_replace(["\r","\n"], '', $content);
-		if($number >= 91){
+	function crawl($number) {
+		$url = $this->issue_url . $number;
+		$content = file_get_contents($url);
+		$content = str_replace(["\r", "\n"], '', $content);
+		if ($number >= 91) {
 			$pattern = '/<h4><a target="_blank" href="(.*?)">(.*?)<\/a>&nbsp;&nbsp;(?:<a target="_blank".*?<\/a>)?<\/h4>.*?<p>(.*?)<\/p>/';
-		}else{
-			$pattern='/<h4><a target="_blank" href="(.*?)">(.*?)<\/a>&nbsp;&nbsp;<\/h4>.*?<p>(.*?)<\/p>/';
+		} else {
+			$pattern = '/<h4><a target="_blank" href="(.*?)">(.*?)<\/a>&nbsp;&nbsp;<\/h4>.*?<p>(.*?)<\/p>/';
 		}
-		$rs=preg_match_all($pattern, $content, $matches);
-		if($rs){
+		$rs = preg_match_all($pattern, $content, $matches);
+		if ($rs) {
 			mylog('crawl finished.start parsing');
-			$data=array();
+			$data = array();
 			foreach ($matches[1] as $key => $val) {
-				if(false !== strpos($matches[1][$key], 'job') || false !== strpos($matches[1][$key], 'amazon')){	// get rid of job and book recommendations
+				if (false !== strpos($matches[1][$key], 'job') || false !== strpos($matches[1][$key], 'amazon')) {
+					// get rid of job and book recommendations
 					continue;
 				}
-				$item=[
-					'title'=>strip_tags($matches[2][$key]),
-					'desc'=>$matches[3][$key],
-					'href'=>$val,
-					'number'=>$number,
-					'hash'=>md5($val)
+				$item = [
+					'title' => strip_tags($matches[2][$key]),
+					'desc' => $matches[3][$key],
+					'href' => $val,
+					'number' => $number,
+					'hash' => md5($val),
 				];
 				//加入数据库
-				$id=$this->add_cache($item);
-				$item['id']=$id;
+				$id = $this->add_cache($item);
+				$item['id'] = $id;
 				mylog("item {$id} added to cache");
 				// 加入数组
-				$data[]=$item;
+				$data[] = $item;
 			}
 			return $data;
 		}
@@ -304,48 +314,48 @@ class manongdb{
 	/**
 	 * add item to cache
 	 */
-	function add_cache($item){
-		$sql=$this->arr2sql('cache',$item);
+	function add_cache($item) {
+		$sql = $this->arr2sql('cache', $item);
 		$this->pdo->exec($sql);
-		$id=$this->pdo->lastInsertId();
+		$id = $this->pdo->lastInsertId();
 		return $id;
 	}
 
 	/**
 	 * translate array to sql
 	 */
-	function arr2sql($dbname,$arr,$updateid=null){
-		
-		if($updateid){
+	function arr2sql($dbname, $arr, $updateid = null) {
+
+		if ($updateid) {
 			// return "update {$dbname} set "
 			unset($arr['ctime']);
 			unset($arr['addtime']);
-			$sql="update {$dbname} set ";
+			$sql = "update {$dbname} set ";
 			foreach ($arr as $key => $val) {
-				$sql.="`{$key}`='{$val}',";
+				$sql .= "`{$key}`='{$val}',";
 			}
-			$sql.='ctime='.time();
-			$sql.=" where id={$updateid}";
+			$sql .= 'ctime=' . time();
+			$sql .= " where id={$updateid}";
 			return $sql;
-		}else{
-			$fields=[];
-			$values=[];
+		} else {
+			$fields = [];
+			$values = [];
 			foreach ($arr as $key => $v) {
-				$fields[]="`{$key}`";
-				$values[]="'{$v}'";
+				$fields[] = "`{$key}`";
+				$values[] = "'{$v}'";
 			}
-			return "insert into {$dbname} (".implode(',', $fields).") values(".implode(',', $values).")";
+			return "insert into {$dbname} (" . implode(',', $fields) . ") values(" . implode(',', $values) . ")";
 		}
 	}
 
 	/**
 	 * get categories
 	 */
-	function get_cate(){
-		$arr=[];
-		$rs=$this->pdo->query("select distinct category from issue order by category")->fetchAll(PDO::FETCH_ASSOC);
+	function get_cate() {
+		$arr = [];
+		$rs = $this->pdo->query("select distinct category from issue order by category")->fetchAll(PDO::FETCH_ASSOC);
 		foreach ($rs as $val) {
-			$arr[]=$val['category'];
+			$arr[] = $val['category'];
 		}
 		return $arr;
 	}
@@ -353,16 +363,19 @@ class manongdb{
 	/**
 	 * add an item to db or update it if exists
 	 */
-	function add($data){
-		$sql = $this->arr2sql('issue',$data);
-		$rs=$this->pdo->exec($sql);
-		if($rs){
+	function add($data) {
+		$sql = $this->arr2sql('issue', $data);
+		$rs = $this->pdo->exec($sql);
+		if ($rs) {
 			return $this->pdo->lastInsertId();
 		}
-		$rs=$this->pdo->query("select id from issue where hash='{$data['hash']}'")->fetch(PDO::FETCH_ASSOC);
-		if(isset($rs['id'])){
-			$update=$this->pdo->exec($this->arr2sql('issue',$data,$rs['id']));
-			if($update)	return $rs['id'];
+		$rs = $this->pdo->query("select id from issue where hash='{$data['hash']}'")->fetch(PDO::FETCH_ASSOC);
+		if (isset($rs['id'])) {
+			$update = $this->pdo->exec($this->arr2sql('issue', $data, $rs['id']));
+			if ($update) {
+				return $rs['id'];
+			}
+
 		}
 		return false;
 	}
@@ -370,12 +383,12 @@ class manongdb{
 	/**
 	 * fetch all recorded data
 	 */
-	function get_all(){
+	function get_all() {
 		return $this->pdo->query('select * from issue order by category,addtime')->fetchAll(PDO::FETCH_ASSOC);
 	}
 
-	function current_number(){
-		$rs=$this->pdo->query('select max(number) as max from issue')->fetch(PDO::FETCH_ASSOC);
+	function current_number() {
+		$rs = $this->pdo->query('select max(number) as max from issue')->fetch(PDO::FETCH_ASSOC);
 		return $rs['max'];
 	}
 }

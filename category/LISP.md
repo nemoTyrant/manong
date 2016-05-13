@@ -1,0 +1,8 @@
+[[PDF] Clojure at Netflix（Dave Ray）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fvdisk.weibo.com%2Fs%2FG-kaugh6r-oT&aid=51&nid=4)  
+[Clojure 语言简明教程（Daniel Higginbotham）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.braveclojure.com%2Fdo-things%2F&aid=405&nid=18)  
+[ANSI Common Lisp 中文版](http://weekly.manong.io/bounce?url=http%3A%2F%2Facl.readthedocs.org%2Fen%2Flatest%2Findex.html&aid=1486&nid=46)  
+[[译] Lisp 魔咒：对 Lisp 的非技术性吐槽（2012） (Mort Yao)](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.soimort.org%2Fposts%2F124%2F&aid=2778&nid=78)  
+[Scheme 初探（2014） (Martin Liu)](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmartin-liu.github.io%2F%23%21%2Farticle%2F6&aid=2865&nid=79)  
+[[英] Common Lisp, Racket, Clojure, Emacs Lisp 全面对比](http://weekly.manong.io/bounce?url=http%3A%2F%2Fhyperpolyglot.org%2Flisp&aid=3011&nid=81)  
+[Lisp 与现代 Web 开发 (美帝先生)](http://weekly.manong.io/bounce?url=http%3A%2F%2Fvitovan.com%2Flispweb3-cn.html&aid=3361&nid=85)  
+[学习 Lisp 语言的相关书籍（2014）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fgty.org.in%2F2014%2F05%2F09%2Flearn-lisp-books.html&aid=4374&nid=96)  

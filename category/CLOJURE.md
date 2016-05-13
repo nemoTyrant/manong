@@ -1,0 +1,7 @@
+[[视频] Clojure 学习教程](http://weekly.manong.io/bounce?url=http%3A%2F%2Fclojurescreencasts.com%2F&aid=355&nid=17)  
+[Clojure 2014 年回顾 (Stuart Sierra)](http://weekly.manong.io/bounce?url=http%3A%2F%2Fstuartsierra.com%2F2015%2F01%2F02%2Fclojure-2014-year-in-review&aid=1778&nid=57)  
+[Clojure 的匿名函数 (2gua)](http://weekly.manong.io/bounce?url=http%3A%2F%2Fzhuanlan.zhihu.com%2Fguagua%2F20075848&aid=2626&nid=76)  
+[根据航班预测旅客的旅途（Clojure） (Gaofeng Zeng)](http://weekly.manong.io/bounce?url=http%3A%2F%2Fgfzeng.github.io%2F2014%2F12%2F02%2Finfer-flight%2F&aid=2866&nid=79)  
+[[英] 我是如何移植 Clojure 的 core.async 到 JavaScript 的 (MilhouseVanHouten)](http://weekly.manong.io/bounce?url=https%3A%2F%2Fmedium.com%2F%40oyanglulu%2Fi-just-fork-mori-and-add-core-async-to-it-3cea689e9259&aid=3545&nid=87)  
+[[译] Clojure 之美](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.oschina.net%2Ftranslate%2Fthe-beauty-of-clojure&aid=4260&nid=95)  
+[我的 Clojure 学习笔记](http://weekly.manong.io/bounce?url=https%3A%2F%2Fwww.gitbook.com%2Fbook%2Fsiddontang%2Flean-clojure%2Fdetails&aid=4761&nid=100)  

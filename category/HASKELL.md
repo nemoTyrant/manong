@@ -1,0 +1,5 @@
+[Haskell 学习教程（Yann Esposito）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fyannesposito.com%2FScratch%2Fen%2Fblog%2FHaskell-the-Hard-Way%2F&aid=109&nid=7)  
+[Haxl - 一个简化远程数据访问的 Haskell 库](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Ffacebook%2FHaxl&aid=2030&nid=64)  
+[从 Java 和 JavaScript 来学习 Haskell 和 Groovy（引子） (@RayChase)](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.raychase.net%2F2920&aid=2127&nid=67)  
+[Haskell 趣学指南](http://weekly.manong.io/bounce?url=http%3A%2F%2Ffleurer-lee.com%2Flyah%2F&aid=2224&nid=69)  
+[Haskell in ES6: Part 1](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcasualjavascript.com%2Fjavascript%2Fes6%2Fhaskell%2Fnative%2Fimplementation%2F2015%2F11%2F12%2Fhaskell-in-es6-part-1.html&aid=4298&nid=95)  

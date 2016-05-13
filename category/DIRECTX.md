@@ -1,0 +1,2 @@
+[DirectX 12 技术白皮书 (英特尔开发人员专区)](http://weekly.manong.io/bounce?url=https%3A%2F%2Fsoftware.intel.com%2Fzh-cn%2Farticles%2FDirectX_12_White_Paper%3Futm_source%3DManong%26utm_medium%3DNewsletter%26utm_campaign%3DGameDev_PRC_Q315_Manong&aid=3372&nid=85)  
+[Microsoft DirectX* 12 中资源绑定的性能考虑因素 (英特尔开发人员专区)](http://weekly.manong.io/bounce?url=https%3A%2F%2Fsoftware.intel.com%2Fzh-cn%2Farticles%2Fperformance-considerations-for-resource-binding-in-microsoft-directx-12%3Futm_source%3DManong%26utm_medium%3DNewsletter%26utm_campaign%3DRealsense_PRC_Q415_Syndication&aid=5771&nid=112)  
