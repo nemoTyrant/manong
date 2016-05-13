@@ -165,10 +165,15 @@ function render() {
 	$readmeContent = "码农周刊分类整理
 ======
 码农周刊的类别分的比较大，不易于后期查阅，所以我把每期的内容按语言或技术进行了分类整理。
+
 码农周刊官方网址 [http://weekly.manong.io/](http://weekly.manong.io/)
+
 一些不熟悉的领域分类可能不准确，请见谅
+
 15期为图书推荐，请直接浏览[原地址](http://weekly.manong.io/issues/15)
+
 56期为14年最受欢迎列表，请直接浏览[原地址](http://weekly.manong.io/issues/56)
+
 现在已整理到第{$current}期。
 
 由于现在条目过多，在同一页显示全部内容已不再合适，所以按分类写到了不同文件里。仍然想以全部内容方式查看的可以点击[all.md](category/all.md)浏览。
