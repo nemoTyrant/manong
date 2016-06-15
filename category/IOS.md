@@ -414,3 +414,8 @@
 [WeChatContacts：OC 实现的微信通讯录 UI](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FshenAlexy%2FWeChatContacts&aid=5954&nid=114)  
 [KMNavigationBarTransition：无需代码统一管理导航栏转场（OC）](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FMoZhouqi%2FKMNavigationBarTransition%2Fblob%2Fmaster%2FREADME_CN.md&aid=5955&nid=114)  
 [打造轻量级 ViewController 之抽离 DataSource/Delegate](http://weekly.manong.io/bounce?url=http%3A%2F%2Fchengway.in%2Fda-zao-qing-liang-ji-viewcontroller-zhi-chou-chi-datasource-delegate%2F&aid=5935&nid=114)  
+[敲一下 enter 键，完成 iOS 的打包工作](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2Fa6cc6d9346ed&aid=5991&nid=115)  
+[iOS 原生库对 https 的处理](http://weekly.manong.io/bounce?url=http%3A%2F%2Fswiftcafe.io%2F2016%2F04%2F16%2Fswift-https&aid=5992&nid=115)  
+[总结一些 iOS 项目中组织代码的方法](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftutuge.me%2F2016%2F04%2F10%2Fsummary-of-code-organization%2F&aid=5993&nid=115)  
+[斯坦福大学更新 iOS 9 编程开发新课程](http://weekly.manong.io/bounce?url=https%3A%2F%2Fitunes.apple.com%2Fus%2Fcourse%2Fdeveloping-ios-9-apps-swift%2Fid1104579961&aid=6017&nid=115)  
+[AKTLayout：高性能自动布局框架](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FAkteamYang%2FAKTKit.AKTLayout&aid=6035&nid=115)  

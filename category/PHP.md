@@ -115,3 +115,6 @@
 [深入理解 PHP：Nginx 与 FPM 的工作机制](http://weekly.manong.io/bounce?url=http%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F20694204&aid=5754&nid=112)  
 [[译] PHP 中的设计模式](http://weekly.manong.io/bounce?url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000003817321&aid=5827&nid=113)  
 [[译] 深入理解 PHP 对象注入](http://weekly.manong.io/bounce?url=https%3A%2F%2Fwujunze.com%2Fphp_class_inject.jsp&aid=5828&nid=113)  
+[手把手编写自己的 PHP MVC 框架实例教程](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.awaimai.com%2F128.html&aid=5994&nid=115)  
+[PHP 资源列表](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FCraryPrimitiveMan%2Fawesome-php-zh_CN&aid=6009&nid=115)  
+[slim-born：Slim 3 骨架](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FHavenShen%2Fslim-born&aid=6046&nid=115)  

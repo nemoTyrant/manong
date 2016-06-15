@@ -18,3 +18,4 @@
 [HTML5 摇一摇（下）：如何实现签筒摇动动画](http://weekly.manong.io/bounce?url=http%3A%2F%2Fxunli.xyz%2F2016%2F01%2F13%2Fhtml5-device-shake-animation%2F&aid=5031&nid=103)  
 [Slicy：开源中文 HTML5 / CSS3 框架](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.slicy.cn%2F&aid=5732&nid=111)  
 [2016 年最火的 15 款 HTML5 游戏引擎](http://weekly.manong.io/bounce?url=http%3A%2F%2Fdiycode.cc%2Ftopics%2F16&aid=5781&nid=112)  
+[使用 HTML5 为移动设备开发游戏](http://weekly.manong.io/bounce?url=https%3A%2F%2Fsoftware.intel.com%2Fzh-cn%2Fxdk%2Farticles%2Fgame-development-for-mobile-devices-using-html5%3Futm_source%3Dmanong%26utm_medium%3DNewsletter%26utm_campaign%3DGameDev_PRC_Q216_Manong&aid=5967&nid=115)  

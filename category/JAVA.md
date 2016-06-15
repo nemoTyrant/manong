@@ -200,3 +200,8 @@
 [创建和销毁对象的最佳实践](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FAlanCheen%2FOnePiece%2Fblob%2Fmaster%2FReadingNotes%2FEffectiveJava%2F%25E7%25AC%25AC2%25E7%25AB%25A0-%25E5%2588%259B%25E5%25BB%25BA%25E5%2592%258C%25E9%2594%2580%25E6%25AF%2581%25E5%25AF%25B9%25E8%25B1%25A1.md&aid=5859&nid=113)  
 [Auto：Google 的 Java 代码生成器](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fgoogle%2Fauto%2F&aid=5947&nid=114)  
 [优化高并发之协程](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fedagarli%2Fjava-route%2Fissues%2F1&aid=5919&nid=114)  
+[我在系统设计上犯过的 14 个错](http://weekly.manong.io/bounce?url=http%3A%2F%2Fhellojava.info%2F%3Fp%3D458&aid=5978&nid=115)  
+[[译] 详解 Java 中的注解](http://weekly.manong.io/bounce?url=http%3A%2F%2Fdroidyue.com%2Fblog%2F2016%2F04%2F24%2Flook-into-java-annotation%2F&aid=5986&nid=115)  
+[站在大神肩膀上看 RxJava](http://weekly.manong.io/bounce?url=http%3A%2F%2Fownwell.github.io%2F2016%2F04%2F13%2FRxJava-introduce%2F&aid=5990&nid=115)  
+[0opslab-utils：一些常用 Java 操作方法封装](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2F0opslab%2Futils&aid=6042&nid=115)  
+[我的 Java 后端书架（2016 年暮春 3.0 版）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcalvin1978.blogcn.com%2Farticles%2Fjavabookshelf.html&aid=5981&nid=115)  

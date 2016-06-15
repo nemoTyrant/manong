@@ -109,3 +109,6 @@
 [打造基于 GitHub 的 O2O 应用](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fphodal%2Fvmap%2Ftree%2Fgh-pages%2Fdocs&aid=5844&nid=113)  
 [[译] 15 个用于 GitHub 的 Chrome 插件](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwebres.wang%2F15-useful-chrome-extensions-for-github%2F&aid=5871&nid=113)  
 [SimpleDeployer：基于 Git WebHook 的部署工具](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fyourtion%2FSimpleDeployer&aid=5956&nid=114)  
+[团队中的 Git 实践](http://weekly.manong.io/bounce?url=https%3A%2F%2Fourai.ws%2Fposts%2Fworking-with-git-in-team%2F&aid=6002&nid=115)  
+[Git 常用的不常用笔记](http://weekly.manong.io/bounce?url=http%3A%2F%2Fleoray.leanote.com%2Fpost%2Fgit&aid=6032&nid=115)  
+[基于 Material Design + MVP 的 GitHub 第三方客户端](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fyeungeek%2Fmonkey-android&aid=6044&nid=115)  

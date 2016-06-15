@@ -89,3 +89,5 @@
 [Node 读写 Excel 文件探究实践](http://weekly.manong.io/bounce?url=http%3A%2F%2Faotu.io%2Fnotes%2F2016%2F04%2F07%2Fnode-excel%2F&aid=5841&nid=113)  
 [深入浅出 Koa](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fberwin%2FBlog%2Fissues%2F8&aid=5872&nid=113)  
 [iBlog2：基于 Node.js 的个人开源博客系统](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Feshengsky%2FiBlog2&aid=5951&nid=114)  
+[Node.js 年度技术栈推荐](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fnodeonly%2Fstack&aid=5999&nid=115)  
+[如何评价 Uber 不用 Node.js，而用 Go 语言构建地理查询服务？](http://weekly.manong.io/bounce?url=https%3A%2F%2Fcnodejs.org%2Ftopic%2F571cf4c7fa48138c41110d54&aid=6011&nid=115)  

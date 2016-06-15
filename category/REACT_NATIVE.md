@@ -33,3 +33,4 @@
 [Facebook React Native 教程](http://weekly.manong.io/bounce?url=http%3A%2F%2Ff8-app.liaohuqiu.net%2F%3Ff%3Dtt&aid=5916&nid=114)  
 [[译] 推荐 5 个值得学习 React Native 的开源项目](http://weekly.manong.io/bounce?url=http%3A%2F%2Fsugarball.me%2Fyi-tui-jian-5ge-zhi-de-xue-xi-react-nativede-xiang-mu%2F&aid=5927&nid=114)  
 [React Native 最佳学习模版：F8 App 开源了](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jackpu.com%2Freact-nativezui-jia-xue-xi-mo-ban-f8-appkai-yuan-liao%2F&aid=5946&nid=114)  
+[React Native For Android：框架启动核心路径剖析](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI1MTA1MzM2Nw%3D%3D%26mid%3D2649796767%26idx%3D1%26sn%3D9a499453b627a223e0c2863658dd0329&aid=5989&nid=115)  

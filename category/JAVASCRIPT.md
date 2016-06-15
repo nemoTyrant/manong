@@ -272,3 +272,5 @@
 [Cal-HeatMap：创建日历热点图的 JavaScript 模块](http://weekly.manong.io/bounce?url=https%3A%2F%2Fwww.awesomes.cn%2Frepo%2Fwa0x6e%2Fcal-heatmap&aid=5945&nid=114)  
 [Vuex 源码阅读笔记](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.lxxyx.win%2F2016%2F04%2F17%2FVuex%25E6%25BA%2590%25E7%25A0%2581%25E9%2598%2585%25E8%25AF%25BB%25E7%25AC%2594%25E8%25AE%25B0%2F&aid=5918&nid=114)  
 [Learning Vue 1.0](http://weekly.manong.io/bounce?url=https%3A%2F%2Flaracasts.com%2Fseries%2Flearning-vue-step-by-step&aid=5940&nid=114)  
+[一探前端开发中的 JS 调试技巧](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.cnblogs.com%2Fmiragele%2Fp%2F5394396.html%3Ff%3Dtt&aid=6021&nid=115)  
+[fors：代码不足百行的轻量级 js](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2F1340641314%2Ffors&aid=6037&nid=115)  

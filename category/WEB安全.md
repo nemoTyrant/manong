@@ -24,3 +24,4 @@
 [深入理解 Web 安全：中间人攻击](http://weekly.manong.io/bounce?url=https%3A%2F%2Fwww.zhuyingda.com%2Fblog%2Fb7.html&aid=5780&nid=112)  
 [确保你网页的安全](http://weekly.manong.io/bounce?url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000004850199x&aid=5836&nid=113)  
 [深入理解信息安全领域相关术语](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.secbox.cn%2Fhacker%2F13753.html&aid=5920&nid=114)  
+[渗透 Facebook 的思路与发现](http://weekly.manong.io/bounce?url=http%3A%2F%2Fdevco.re%2Fblog%2F2016%2F04%2F21%2Fhow-I-hacked-facebook-and-found-someones-backdoor-script%2F&aid=6015&nid=115)  

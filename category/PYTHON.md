@@ -224,3 +224,7 @@
 [Python 的练手项目有哪些值得推荐？](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.zhihu.com%2Fquestion%2F29372574%2Fanswer%2F88624507&aid=5908&nid=114)  
 [Awesome Python Books](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FJunnplus%2Fawesome-python-books&aid=5939&nid=114)  
 [Voltron：Python 实现的黑客调试器前端](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fsnare%2Fvoltron%2Fblob%2Fmaster%2FREADME.md&aid=5949&nid=114)  
+[手把手教你用 Python 爬虫煎蛋妹纸海量图片](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.freebuf.com%2Fnews%2Fothers%2F102315.html%3Ff%3Dtt&aid=5995&nid=115)  
+[用 Python 理解服务器模型（下）](http://weekly.manong.io/bounce?url=https%3A%2F%2Fwww.textarea.com%2Fzhicheng%2Fyong-python-lijie-fuwuqi-moxing-xia-596%2F&aid=5996&nid=115)  
+[Flask 入门指南](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.igevin.info%2Fposts%2Fflask-startup-guideline%2F&aid=6012&nid=115)  
+[使用 OpenCV 识别 QRCode](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.callmewhy.com%2F2016%2F04%2F23%2Fopencv-find-qrcode-position%2F&aid=6003&nid=115)  

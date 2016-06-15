@@ -215,3 +215,5 @@
 [使用 Go 构建命令行程序的快捷之道](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.mkideal.com%2Fgolang%2Fcli.html&aid=5892&nid=114)  
 [在 Go 中使用面向对象 Web Servers](http://weekly.manong.io/bounce?url=https%3A%2F%2Fxiequan.info%2F%25E5%259C%25A8go%25E4%25B8%25AD%25E4%25BD%25BF%25E7%2594%25A8%25E9%259D%25A2%25E5%2590%2591%25E5%25AF%25B9%25E8%25B1%25A1web-servers%2F&aid=5893&nid=114)  
 [第二届 Gopher China 大会幻灯片](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fgopherchina%2Fconference%2Ftree%2Fmaster%2F2016&aid=5917&nid=114)  
+[Golang 语言基础](http://weekly.manong.io/bounce?url=http%3A%2F%2Fxhrwang.me%2F2014%2F12%2F22%2Fgolang-fundamentals-1-types-variables-constants.html&aid=5997&nid=115)  
+[使用 Visual Studio Code 开发 Go 程序](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcolobu.com%2F2016%2F04%2F21%2Fuse-vscode-to-develop-go-programs%2F&aid=5998&nid=115)  

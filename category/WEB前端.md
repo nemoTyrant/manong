@@ -228,3 +228,8 @@
 [Web 前端助手](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fzxlie%2FFeHelper&aid=5948&nid=114)  
 [百度前端学院 2016 春季班任务](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FHuangtuzhi%2Fife-task&aid=5905&nid=114)  
 [一篇真正教会你开发移动端页面的文章（一）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fhcysun.me%2F2015%2F10%2F16%2F%25E4%25B8%2580%25E7%25AF%2587%25E7%259C%259F%25E6%25AD%25A3%25E6%2595%2599%25E4%25BC%259A%25E4%25BD%25A0%25E5%25BC%2580%25E5%258F%2591%25E7%25A7%25BB%25E5%258A%25A8%25E7%25AB%25AF%25E9%25A1%25B5%25E9%259D%25A2%25E7%259A%2584%25E6%2596%2587%25E7%25AB%25A0%28%25E4%25B8%2580%29%2F&aid=5909&nid=114)  
+[简单易懂的 CSS Modules](http://weekly.manong.io/bounce?url=http%3A%2F%2Facgtofe.com%2Fposts%2F2016%2F04%2Fcss-modules-made-simple&aid=6016&nid=115)  
+[如何使用 webpack 开始一个 React 项目？](http://weekly.manong.io/bounce?url=http%3A%2F%2Fxiaomingplus.com%2Ffront-end%2Fhow-to-start-react-redux-react-router-webpack-project%2F&aid=6025&nid=115)  
+[[译] 20+ 为前端程序员准备的文档、指南](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwebres.wang%2F20-docs-guides-front-end-developers-8%2F&aid=6006&nid=115)  
+[公司前端开发架构改造](http://weekly.manong.io/bounce?url=http%3A%2F%2Foldli.net%2Farch%2Ffrontend-architecture-practice.html&aid=6008&nid=115)  
+[前端性能优化最佳实践](http://weekly.manong.io/bounce?url=https%3A%2F%2Fcsspod.com%2Ffrontend-performance-best-practices%2F&aid=6023&nid=115)  

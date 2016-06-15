@@ -139,3 +139,4 @@
 [Swift 2.2 的新特性](http://weekly.manong.io/bounce?url=http%3A%2F%2Fchengway.in%2Fswift-2-2-de-xin-te-xing%2F&aid=5673&nid=111)  
 [[译] 面向协议的 MVVM 架构介绍](http://weekly.manong.io/bounce?url=https%3A%2F%2Frealm.io%2Fcn%2Fnews%2Fdoios-natasha-murashev-protocol-oriented-mvvm%2F&aid=5773&nid=112)  
 [Swift 2.2 的新特性](http://weekly.manong.io/bounce?url=http%3A%2F%2Fswiftcafe.io%2F2016%2F04%2F07%2Fswift2-2&aid=5822&nid=113)  
+[JASON：高速 JSON 解析类库](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fdelba%2FJASON&aid=6038&nid=115)  

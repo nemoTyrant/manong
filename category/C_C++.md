@@ -95,3 +95,4 @@
 [一个 HTTP 服务器的 C 之路（上）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.wushxin.top%2F2016%2F03%2F23%2F%25E4%25B8%2580%25E4%25B8%25AAHTTP%25E6%259C%258D%25E5%258A%25A1%25E5%2599%25A8%25E7%259A%2584C%25E4%25B9%258B%25E8%25B7%25AF%28%25E4%25B8%258A%29.html&aid=5664&nid=111)  
 [Awesome Modern C++](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Frigtorp%2Fawesome-modern-cpp&aid=5783&nid=112)  
 [面向 C / C++ 语言的构建工具 Broc](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.oschina.net%2Fp%2Fbroc&aid=5806&nid=112)  
+[C++ 字符串处理小结](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2F65dfcc4e8342&aid=5984&nid=115)  
