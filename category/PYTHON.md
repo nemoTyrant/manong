@@ -228,3 +228,6 @@
 [用 Python 理解服务器模型（下）](http://weekly.manong.io/bounce?url=https%3A%2F%2Fwww.textarea.com%2Fzhicheng%2Fyong-python-lijie-fuwuqi-moxing-xia-596%2F&aid=5996&nid=115)  
 [Flask 入门指南](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.igevin.info%2Fposts%2Fflask-startup-guideline%2F&aid=6012&nid=115)  
 [使用 OpenCV 识别 QRCode](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.callmewhy.com%2F2016%2F04%2F23%2Fopencv-find-qrcode-position%2F&aid=6003&nid=115)  
+[Python Tips](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Frainyear%2Fpytips&aid=6073&nid=116)  
+[Python 探针实现原理](http://weekly.manong.io/bounce?url=https%3A%2F%2Fmozillazg.com%2F2016%2F04%2Fapm-python-agent-principle.html&aid=6074&nid=116)  
+[Mac.py：查询网卡所属厂商的 Python 库](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fhustcc%2Fmac.py&aid=6103&nid=116)  

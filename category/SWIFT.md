@@ -140,3 +140,7 @@
 [[译] 面向协议的 MVVM 架构介绍](http://weekly.manong.io/bounce?url=https%3A%2F%2Frealm.io%2Fcn%2Fnews%2Fdoios-natasha-murashev-protocol-oriented-mvvm%2F&aid=5773&nid=112)  
 [Swift 2.2 的新特性](http://weekly.manong.io/bounce?url=http%3A%2F%2Fswiftcafe.io%2F2016%2F04%2F07%2Fswift2-2&aid=5822&nid=113)  
 [JASON：高速 JSON 解析类库](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fdelba%2FJASON&aid=6038&nid=115)  
+[聊聊 Swift 3.0](http://weekly.manong.io/bounce?url=http%3A%2F%2Fswiftcafe.io%2F2016%2F05%2F01%2Fswift3&aid=6068&nid=116)  
+[Swift 语言学习及速查手册](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.coderzh.com%2F2016%2F04%2F24%2Fswift-tips%2F&aid=6089&nid=116)  
+[Swift 开发者、项目、最佳实践](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fipader%2FSwiftGuide%2Fwiki%2F%25E5%25BC%2580%25E5%258F%2591%25E8%2580%2585%25E3%2580%2581%25E9%25A1%25B9%25E7%259B+%25AE%25E3%2580%2581%25E6%259C%2580%25E4%25BD%25B3%25E5%25AE%259E%25E8%25B7%25B5&aid=6108&nid=116)  
+[GlitchLabel：俗称晃瞎你的眼文字标签](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fkciter%2FGlitchLabel&aid=6118&nid=116)  

@@ -94,3 +94,4 @@
 [Linux 的进程优先级](http://weekly.manong.io/bounce?url=http%3A%2F%2Fliwei.life%2F2016%2F04%2F07%2Flinux%25E7%259A%2584%25E8%25BF%259B%25E7%25A8%258B%25E4%25BC%2598%25E5%2585%2588%25E7%25BA%25A7%2F&aid=5834&nid=113)  
 [AWK 常用技法](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.saymagic.cn%2F2016%2F04%2F24%2Fawk-common-skills.html&aid=6000&nid=115)  
 [Windows 服务端程序向 Linux 平台移植事项](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftaozj.org%2F2016%2F04%2FWindows%25E6%259C%258D%25E5%258A%25A1%25E7%25AB%25AF%25E7%25A8%258B%25E5%25BA%258F%25E5%2590%2591Linux%25E5%25B9%25B3%25E5%258F%25B0%25E7%25A7%25BB%25E6%25A4%258D%25E4%25BA%258B%25E9%25A1%25B9%2F&aid=6027&nid=115)  
+[Linux 内存中的 Cache 真的能被回收么？](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIxNDMyODgyMA%3D%3D%26mid%3D100000006%26idx%3D1%26sn%3Dde6ab2600549b97f5cccf0c7719a412a%23rd&aid=6080&nid=116)  

@@ -68,3 +68,4 @@
 [企业互联网 + 转型实战：如何进行 PB 级别数据的架构变迁 (云智慧)](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAwNzA0NTMzMQ%3D%3D%26mid%3D404416885%26idx%3D1%26sn%3D0e287749669d7dadae8f680849e1f526%26scene%3D1%26srcid%3D0321cvams9059swRXswXuGmj%23rd&aid=5565&nid=110)  
 [MySQL binlog 格式解析](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2Fc16686b35807&aid=5702&nid=111)  
 [MySQL 5.7 对 JSON 的支持](http://weekly.manong.io/bounce?url=http%3A%2F%2Fweibo.com%2Fp%2F230418693f08470102wi35&aid=5929&nid=114)  
+[初探 MySQL 的 Binlog](http://weekly.manong.io/bounce?url=https%3A%2F%2Fxcoder.in%2F2015%2F08%2F10%2Fmysql-binlog-try%2F&aid=6111&nid=116)  

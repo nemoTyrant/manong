@@ -21,3 +21,4 @@
 [简明 Vim 练级攻略（2011）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcoolshell.cn%2Farticles%2F5426.html&aid=5369&nid=107)  
 [Vim (gvim) 相关插件整理（2010）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.vimer.cn%2F2010%2F06%2F%25e6%259c%25ac%25e5%258d%259a%25e4%25bd%25bf%25e7%2594%25a8%25e7%259a%2584vimgvim%25e7%259b%25b8%25e5%2585%25b3%25e6%258f%2592%25e4%25bb%25b6%25e6%2595%25b4%25e7%2590%2586.html&aid=5619&nid=110)  
 [Mac 上自动配置好看易用的 Vim 环境](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fbarretlee%2Fautoconfig-mac-vimrc&aid=5907&nid=114)  
+[撸一撸 Vim（五）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fzhongmingmao.me%2F2016%2F04%2F30%2Fcommand_line_mode.html&aid=6094&nid=116)  

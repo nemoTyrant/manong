@@ -91,3 +91,6 @@
 [iBlog2：基于 Node.js 的个人开源博客系统](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Feshengsky%2FiBlog2&aid=5951&nid=114)  
 [Node.js 年度技术栈推荐](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fnodeonly%2Fstack&aid=5999&nid=115)  
 [如何评价 Uber 不用 Node.js，而用 Go 语言构建地理查询服务？](http://weekly.manong.io/bounce?url=https%3A%2F%2Fcnodejs.org%2Ftopic%2F571cf4c7fa48138c41110d54&aid=6011&nid=115)  
+[[译] 两百行代码教你写个超小编译器（Node.js）](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2F1c7%2Fthe-super-tiny-compiler&aid=6081&nid=116)  
+[Node + React 小爬虫](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.ido321.com%2F1674.html&aid=6112&nid=116)  
+[玩转 npm](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Ficepy%2F_posts%2Fissues%2F36&aid=6120&nid=116)  

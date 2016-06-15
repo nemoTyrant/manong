@@ -401,3 +401,8 @@
 [BaseRecyclerViewAdapterHelper：强大、灵活的 RecyclerViewAdapter](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FCymChad%2FBaseRecyclerViewAdapterHelper%2Fblob%2Fmaster%2FREADME-cn.md&aid=6034&nid=115)  
 [反编译与重打包 “疯狂大脑” 应用](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.saymagic.cn%2F2016%2F04%2F10%2Fdecompiling-crazy-brain.html&aid=6024&nid=115)  
 [一款爬虫数据来源的美图客户端](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fflyou%2FGirls&aid=6040&nid=115)  
+[如何自学 Android](http://weekly.manong.io/bounce?url=http%3A%2F%2Fgityuan.com%2F2016%2F04%2F24%2Fhow-to-study-android%2F&aid=6065&nid=116)  
+[关于 Android N 的那些事](http://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAwNDY1ODY2OQ%3D%3D%26mid%3D2649286252%26idx%3D1%26sn%3D6f8901da11883f1f9004f1319d1c20b9&aid=6066&nid=116)  
+[功能强大的 StickyHeaderListView](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fsfsheng0322%2FStickyHeaderListView&aid=6123&nid=116)  
+[比官方更好的 AndFix 教程及 Demo](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FAlanCheen%2FAndFixDemo&aid=6088&nid=116)  
+[底部导航栏规范指南](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FLittleFriendsGroup%2FBottomNavigation&aid=6129&nid=116)  

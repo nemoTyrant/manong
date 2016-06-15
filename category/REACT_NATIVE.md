@@ -34,3 +34,4 @@
 [[译] 推荐 5 个值得学习 React Native 的开源项目](http://weekly.manong.io/bounce?url=http%3A%2F%2Fsugarball.me%2Fyi-tui-jian-5ge-zhi-de-xue-xi-react-nativede-xiang-mu%2F&aid=5927&nid=114)  
 [React Native 最佳学习模版：F8 App 开源了](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jackpu.com%2Freact-nativezui-jia-xue-xi-mo-ban-f8-appkai-yuan-liao%2F&aid=5946&nid=114)  
 [React Native For Android：框架启动核心路径剖析](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI1MTA1MzM2Nw%3D%3D%26mid%3D2649796767%26idx%3D1%26sn%3D9a499453b627a223e0c2863658dd0329&aid=5989&nid=115)  
+[[译] React Native 如何做跨平台设计](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fpockry%2FBuilding-the-F8-2016-App-CN%2Fblob%2Fmaster%2Ftutorials%2FPart%25202.%2520Designing%2520an%2520App%2520for%2520Multiple%2520Platforms.md&aid=6076&nid=116)  

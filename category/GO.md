@@ -217,3 +217,4 @@
 [第二届 Gopher China 大会幻灯片](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fgopherchina%2Fconference%2Ftree%2Fmaster%2F2016&aid=5917&nid=114)  
 [Golang 语言基础](http://weekly.manong.io/bounce?url=http%3A%2F%2Fxhrwang.me%2F2014%2F12%2F22%2Fgolang-fundamentals-1-types-variables-constants.html&aid=5997&nid=115)  
 [使用 Visual Studio Code 开发 Go 程序](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcolobu.com%2F2016%2F04%2F21%2Fuse-vscode-to-develop-go-programs%2F&aid=5998&nid=115)  
+[使用 Golang 语言实现一个简单的 Bitcask 引擎的文件存储系统](http://weekly.manong.io/bounce?url=http%3A%2F%2Flaohanlinux.github.io%2F2016%2F04%2F25%2F%25E5%25AE%259E%25E7%258E%25B0%25E4%25B8%2580%25E4%25B8%25AA%25E7%25AE%2580%25E5%258D%2595%25E7%259A%2584Bitcask%25E5%25BC%2595%25E6%2593%258E%25E7%259A%2584%25E5%25AD%2598%25E5%2582%25A8%25E7%25B3%25BB%25E7%25BB%259F%2F&aid=6075&nid=116)  

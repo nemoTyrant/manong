@@ -25,3 +25,5 @@
 [确保你网页的安全](http://weekly.manong.io/bounce?url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000004850199x&aid=5836&nid=113)  
 [深入理解信息安全领域相关术语](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.secbox.cn%2Fhacker%2F13753.html&aid=5920&nid=114)  
 [渗透 Facebook 的思路与发现](http://weekly.manong.io/bounce?url=http%3A%2F%2Fdevco.re%2Fblog%2F2016%2F04%2F21%2Fhow-I-hacked-facebook-and-found-someones-backdoor-script%2F&aid=6015&nid=115)  
+[无线电硬件安全大牛都用哪些利器？](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.freebuf.com%2Fsectool%2F102998.html%3Ff%3Dtt&aid=6085&nid=116)  
+[在中国，黑客真的能侵入银行吗？](http://weekly.manong.io/bounce?url=http%3A%2F%2Fdaily.zhihu.com%2Fstory%2F8217961&aid=6058&nid=116)  

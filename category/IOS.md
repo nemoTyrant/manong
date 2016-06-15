@@ -419,3 +419,8 @@
 [总结一些 iOS 项目中组织代码的方法](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftutuge.me%2F2016%2F04%2F10%2Fsummary-of-code-organization%2F&aid=5993&nid=115)  
 [斯坦福大学更新 iOS 9 编程开发新课程](http://weekly.manong.io/bounce?url=https%3A%2F%2Fitunes.apple.com%2Fus%2Fcourse%2Fdeveloping-ios-9-apps-swift%2Fid1104579961&aid=6017&nid=115)  
 [AKTLayout：高性能自动布局框架](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FAkteamYang%2FAKTKit.AKTLayout&aid=6035&nid=115)  
+[史上最用心的 iOS App 上架流程](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2F16fa56eacb5e&aid=6067&nid=116)  
+[[译] GCD 最佳实践指南](http://weekly.manong.io/bounce?url=http%3A%2F%2Fchengway.in%2Fgcd-zui-jia-shi-jian-zhi-nan%2F&aid=6069&nid=116)  
+[BeeFramework：让开发更加简单](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.treney.com%2Findex.php%2Farchives%2FBeeFramework.html&aid=6091&nid=116)  
+[去 model 化和数据对象](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcasatwy.com%2FOOP_nomodel.html&aid=6097&nid=116)  
+[微信双开还是微信定时炸弹](http://weekly.manong.io/bounce?url=http%3A%2F%2Fdrops.wooyun.org%2Fmobile%2F15406&aid=6107&nid=116)  

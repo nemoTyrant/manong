@@ -29,3 +29,5 @@
 [《Spark 官方文档》集群模式概览](http://weekly.manong.io/bounce?url=http%3A%2F%2Fifeve.com%2F%25e3%2580%258aspark%25e5%25ae%2598%25e6%2596%25b9%25e6%2596%2587%25e6%25a1%25a3%25e3%2580%258b%25e9%259b%2586%25e7%25be%25a4%25e6%25a8%25a1%25e5%25bc%258f%25e6%25a6%2582%25e8%25a7%2588%2F&aid=5375&nid=107)  
 [Spark 在美团的实践](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftech.meituan.com%2Fspark-in-meituan.html&aid=5835&nid=113)  
 [Spark 入门实例指南](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwdxtub.com%2F2016%2F04%2F11%2Fspark-guide%2F&aid=5933&nid=114)  
+[Spark 在金融领域的应用：日内走势预测](http://weekly.manong.io/bounce?url=http%3A%2F%2Flitaotao.github.io%2Fspark-in-finance-and-investing&aid=6093&nid=116)  
+[这些年，你不能错过的 Spark 学习资源](http://weekly.manong.io/bounce?url=http%3A%2F%2Flitaotao.github.io%2Fspark-resouces-blogs-paper&aid=6128&nid=116)  

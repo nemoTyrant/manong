@@ -205,3 +205,7 @@
 [站在大神肩膀上看 RxJava](http://weekly.manong.io/bounce?url=http%3A%2F%2Fownwell.github.io%2F2016%2F04%2F13%2FRxJava-introduce%2F&aid=5990&nid=115)  
 [0opslab-utils：一些常用 Java 操作方法封装](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2F0opslab%2Futils&aid=6042&nid=115)  
 [我的 Java 后端书架（2016 年暮春 3.0 版）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcalvin1978.blogcn.com%2Farticles%2Fjavabookshelf.html&aid=5981&nid=115)  
+[另一份 Java 应用调优指南](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcalvin1978.blogcn.com%2Farticles%2Fperf-tunning-2.html&aid=6062&nid=116)  
+[如何优雅地设计 Java 异常](http://weekly.manong.io/bounce?url=http%3A%2F%2Flrwinx.github.io%2F2016%2F04%2F28%2F%25E5%25A6%2582%25E4%25BD%2595%25E4%25BC%2598%25E9%259B%2585%25E7%259A%2584%25E8%25AE%25BE%25E8%25AE%25A1java%25E5%25BC%2582%25E5%25B8%25B8%2F&aid=6063&nid=116)  
+[Java 开发常用的在线工具](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.hollischuang.com%2Farchives%2F1459&aid=6125&nid=116)  
+[简单使用 Google Agera 框架](http://weekly.manong.io/bounce?url=https%3A%2F%2Fwww.aswifter.com%2F2016%2F04%2F28%2Fuse-google-agera-framework%2F&aid=6102&nid=116)  
