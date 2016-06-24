@@ -424,3 +424,6 @@
 [BeeFramework：让开发更加简单](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.treney.com%2Findex.php%2Farchives%2FBeeFramework.html&aid=6091&nid=116)  
 [去 model 化和数据对象](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcasatwy.com%2FOOP_nomodel.html&aid=6097&nid=116)  
 [微信双开还是微信定时炸弹](http://weekly.manong.io/bounce?url=http%3A%2F%2Fdrops.wooyun.org%2Fmobile%2F15406&aid=6107&nid=116)  
+[iOS 开发经验总结](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2Fd333cf6ae4b0&aid=6149&nid=117)  
+[微信读书 iOS 性能优化总结](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwereadteam.github.io%2F2016%2F05%2F03%2FWeRead-Performance%2F%3Ff%3Dtt&aid=6150&nid=117)  
+[[译] 全新 Apple iOS 设计规范指南](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.tuyiyi.com%2Fv%2F45421.html&aid=6177&nid=117)  

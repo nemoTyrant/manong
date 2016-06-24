@@ -240,3 +240,8 @@
 [百度前端学院 2016 春季班总结](http://weekly.manong.io/bounce?url=http%3A%2F%2Ffuzhii.com%2F2016%2F04%2F24%2Firf-task%2F&aid=6124&nid=116)  
 [利用 handlebars 实现后端组件化](http://weekly.manong.io/bounce?url=http%3A%2F%2Fyalishizhude.github.io%2F2016%2F04%2F26%2Fback-componentization%2F&aid=6122&nid=116)  
 [所有可以插入网页 <head> 部分的语句](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fjoshbuchea%2FHEAD&aid=6116&nid=116)  
+[[译] 用 CSS 实现 Netflix Logo 动画](http://weekly.manong.io/bounce?url=http%3A%2F%2Fqianduan.guru%2F2016%2F05%2F07%2FNetflix-Logo-in-CSS%2F&aid=6157&nid=117)  
+[一行代码解决各种 IE 兼容问题](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.w3cfuns.com%2Fnotes%2F22891%2F7072479a25d101a1adba04bf7ddf305d.html&aid=6162&nid=117)  
+[前端面试题（二）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.w3cfuns.com%2Fnotes%2F23515%2Ffa8b1e788ac39b04108fc33e5b543c4a.html&aid=6172&nid=117)  
+[一个小而美的 CSS 3d 引擎](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fshrekshrek%2Fcss3d-engine&aid=6198&nid=117)  
+[vConsole：针对手机网页的前端 console 调试面板](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FWechatFE%2FvConsole&aid=6205&nid=117)  

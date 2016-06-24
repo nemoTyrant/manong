@@ -231,3 +231,5 @@
 [Python Tips](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Frainyear%2Fpytips&aid=6073&nid=116)  
 [Python 探针实现原理](http://weekly.manong.io/bounce?url=https%3A%2F%2Fmozillazg.com%2F2016%2F04%2Fapm-python-agent-principle.html&aid=6074&nid=116)  
 [Mac.py：查询网卡所属厂商的 Python 库](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fhustcc%2Fmac.py&aid=6103&nid=116)  
+[Python 类与元类的深度挖掘](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI0NjIxMzE5OQ%3D%3D%26mid%3D2656697764%26idx%3D1%26sn%3D8f695774923f0edc09470c6bbb8f194b%23rd&aid=6152&nid=117)  
+[利用 Python + Selenium 自动化快速截图](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcodingpy.com%2Farticle%2Ftake-screenshot-of-web-page-using-selenium%2F&aid=6153&nid=117)  

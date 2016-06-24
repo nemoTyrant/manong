@@ -20,3 +20,5 @@
 [2016 年最火的 15 款 HTML5 游戏引擎](http://weekly.manong.io/bounce?url=http%3A%2F%2Fdiycode.cc%2Ftopics%2F16&aid=5781&nid=112)  
 [使用 HTML5 为移动设备开发游戏](http://weekly.manong.io/bounce?url=https%3A%2F%2Fsoftware.intel.com%2Fzh-cn%2Fxdk%2Farticles%2Fgame-development-for-mobile-devices-using-html5%3Futm_source%3Dmanong%26utm_medium%3DNewsletter%26utm_campaign%3DGameDev_PRC_Q216_Manong&aid=5967&nid=115)  
 [30 款高质量的 HTML5 / CSS3 响应式模板](http://weekly.manong.io/bounce?url=https%3A%2F%2Flinmi.cc%2F334&aid=6121&nid=116)  
+[APlayer：HTML5 音乐播放器](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FDIYgod%2FAPlayer&aid=6203&nid=117)  
+[egret 引擎初探](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Friskers%2Fblog%2Fissues%2F23&aid=6186&nid=117)  

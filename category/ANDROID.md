@@ -406,3 +406,8 @@
 [功能强大的 StickyHeaderListView](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fsfsheng0322%2FStickyHeaderListView&aid=6123&nid=116)  
 [比官方更好的 AndFix 教程及 Demo](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FAlanCheen%2FAndFixDemo&aid=6088&nid=116)  
 [底部导航栏规范指南](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FLittleFriendsGroup%2FBottomNavigation&aid=6129&nid=116)  
+[Android 多渠道打包这样做才酸爽！？](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.simlinux.com%2Farchives%2F1689.html&aid=6146&nid=117)  
+[Android 热修复，没你想的那么难](http://weekly.manong.io/bounce?url=http%3A%2F%2Fkymjs.com%2Fcode%2F2016%2F05%2F08%2F01&aid=6147&nid=117)  
+[理解杀进程的实现原理](http://weekly.manong.io/bounce?url=http%3A%2F%2Fgityuan.com%2F2016%2F04%2F16%2Fkill-signal%2F&aid=6169&nid=117)  
+[Android 开源项目及库](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FTim9Liu9%2FTimLiu-Android&aid=6196&nid=117)  
+[微信支付 SDK：两行代码解决支付](http://weekly.manong.io/bounce?url=http%3A%2F%2Farccode.net%2F2016%2F05%2F02%2F%25E5%25BE%25AE%25E4%25BF%25A1%25E6%2594%25AF%25E4%25BB%2598SDK-%25E4%25B8%25A4%25E8%25A1%258C%25E4%25BB%25A3%25E7%25A0%2581%25E8%25A7%25A3%25E5%2586%25B3%25E6%2594%25AF%25E4%25BB%2598%2F&aid=6179&nid=117)  

@@ -95,3 +95,4 @@
 [AWK 常用技法](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.saymagic.cn%2F2016%2F04%2F24%2Fawk-common-skills.html&aid=6000&nid=115)  
 [Windows 服务端程序向 Linux 平台移植事项](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftaozj.org%2F2016%2F04%2FWindows%25E6%259C%258D%25E5%258A%25A1%25E7%25AB%25AF%25E7%25A8%258B%25E5%25BA%258F%25E5%2590%2591Linux%25E5%25B9%25B3%25E5%258F%25B0%25E7%25A7%25BB%25E6%25A4%258D%25E4%25BA%258B%25E9%25A1%25B9%2F&aid=6027&nid=115)  
 [Linux 内存中的 Cache 真的能被回收么？](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIxNDMyODgyMA%3D%3D%26mid%3D100000006%26idx%3D1%26sn%3Dde6ab2600549b97f5cccf0c7719a412a%23rd&aid=6080&nid=116)  
+[Java 程序员眼中的 Linux](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fjudasn%2FLinux-Tutorial&aid=6160&nid=117)  

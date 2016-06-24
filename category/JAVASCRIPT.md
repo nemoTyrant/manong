@@ -280,3 +280,5 @@
 [[译] JavaScript 函数式编程手册](http://weekly.manong.io/bounce?url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F20726280%3Ff%3Dtt&aid=6113&nid=116)  
 [[译] Vue 2.0 发布](http://weekly.manong.io/bounce?url=http%3A%2F%2Fjiongks.name%2Fblog%2Fannouncing-vue-2%2F&aid=6114&nid=116)  
 [我不能再忍受你的代码风格了！](http://weekly.manong.io/bounce?url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000005021098&aid=6115&nid=116)  
+[[译] 12 个 JavaScript 技巧](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.w3cplus.com%2Fjavascript%2F12-extremely-useful-hacks-for-javascript.html%3Ff%3Dtt&aid=6156&nid=117)  
+[yqthen.js：让 JS 性能飙到嗨的流程库](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2F892280082%2Fyqthen&aid=6201&nid=117)  

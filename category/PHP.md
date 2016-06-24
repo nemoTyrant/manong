@@ -119,3 +119,4 @@
 [PHP 资源列表](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FCraryPrimitiveMan%2Fawesome-php-zh_CN&aid=6009&nid=115)  
 [slim-born：Slim 3 骨架](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FHavenShen%2Fslim-born&aid=6046&nid=115)  
 [如何优雅地使用 PhpStorm](http://weekly.manong.io/bounce?url=http%3A%2F%2Flattecake.com%2Fpost%2F20075&aid=6127&nid=116)  
+[Laravel Valet：Mac 下极简的 PHP 开发环境](http://weekly.manong.io/bounce?url=http%3A%2F%2F9iphp.com%2Fweb%2Flaravel%2Flaravel-valet-local-dev-environment.html&aid=6200&nid=117)  

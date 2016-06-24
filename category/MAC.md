@@ -9,3 +9,4 @@
 [[译] 如何发布一个 Mac 应用并使其成为全球付费榜第一](http://weekly.manong.io/bounce?url=http%3A%2F%2Fweibo.com%2Fttarticle%2Fp%2Fshow%3Fid%3D2309403960837592188655&aid=5873&nid=113)  
 [Mac 上 SVN 入坑小记（一）](http://weekly.manong.io/bounce?url=http%3A%2F%2Ficoor.xyz%2F2016%2F04%2F21%2FMac-%25E4%25B8%258A-SVN-%25E5%2585%25A5%25E5%259D%2591%25E5%25B0%258F%25E8%25AE%25B0%25EF%25BC%2588%25E4%25B8%2580%25EF%25BC%2589%2F&aid=6020&nid=115)  
 [JSPatchX：JSPatch XCode 代码补全插件](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fbang590%2FJSPatchX&aid=6045&nid=115)  
+[开发者头条 Mac 端插件发布啦！](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwalkginkgo.com%2Fios%2F2016%2F05%2F04%2FToutiao.html&aid=6158&nid=117)  

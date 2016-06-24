@@ -13,3 +13,4 @@
 [[译] 像 Sublime Text 一样使用 Chrome DevTools](http://weekly.manong.io/bounce?url=http%3A%2F%2Fchinagdg.org%2F2015%2F12%2F%25E5%2583%258F-sublime-text-%25E4%25B8%2580%25E6%25A0%25B7%25E4%25BD%25BF%25E7%2594%25A8-chrome-devtools%2F&aid=5018&nid=103)  
 [变量命名神器 Codelf 同时推出 Sublime 插件和 Chrome App](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Funbug%2Fcodelf%2Fblob%2Fgh-pages%2FREADME.md&aid=5184&nid=104)  
 [[译] 为设计师准备的 10 个最棒的 Chrome 扩展插件](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwebres.wang%2F10-best-chrome-extensions-for-designers%2F&aid=5398&nid=107)  
+[莆田系医院网站提醒](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fhustcc%2FPTHospital.chrome&aid=6197&nid=117)  

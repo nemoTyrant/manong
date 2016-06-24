@@ -23,3 +23,4 @@
 [ngx_lua_reqstatus：实时统计 Nginx 状态的 Lua 扩展](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fzheng-ji%2Fngx_lua_reqstatus&aid=4964&nid=102)  
 [使用 Nginx + Lua (OpenResty) 开发高性能 Web 应用](http://weekly.manong.io/bounce?url=http%3A%2F%2Fjinnianshilongnian.iteye.com%2Fblog%2F2280928&aid=5435&nid=108)  
 [nginx-1.9.2 代码理解及详细注释](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fy123456yz%2Freading-code-of-nginx-1.9.2&aid=6031&nid=115)  
+[Nginx 基础架构](http://weekly.manong.io/bounce?url=http%3A%2F%2Fandremouche.github.io%2Fnginx%2Fnginx-internal-basic-architecture.html&aid=6180&nid=117)  

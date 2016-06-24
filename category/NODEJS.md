@@ -94,3 +94,5 @@
 [[译] 两百行代码教你写个超小编译器（Node.js）](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2F1c7%2Fthe-super-tiny-compiler&aid=6081&nid=116)  
 [Node + React 小爬虫](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.ido321.com%2F1674.html&aid=6112&nid=116)  
 [玩转 npm](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Ficepy%2F_posts%2Fissues%2F36&aid=6120&nid=116)  
+[Node.js 背后的 V8 引擎优化技术](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5MjAwODM4MA%3D%3D%26mid%3D402199727%26idx%3D1%26sn%3Da15c727229692a89770cab0cd5679d5e%26scene%3D0%23wechat_redirect&aid=5148&nid=117)  
+[Koa 在 Macaca 中的实践](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftesterhome.com%2Ftopics%2F4792&aid=6166&nid=117)  

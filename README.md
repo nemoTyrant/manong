@@ -10,7 +10,7 @@
 
 56期为14年最受欢迎列表，请直接浏览[原地址](http://weekly.manong.io/issues/56)
 
-现在已整理到第116期。
+现在已整理到第117期。
 
 由于现在条目过多，在同一页显示全部内容已不再合适，所以按分类写到了不同文件里。仍然想以全部内容方式查看的可以点击[all.md](category/all.md)浏览。
 
@@ -18,6 +18,7 @@
 [.NET](category/NET.md)  
 [ANDROID](category/ANDROID.md)  
 [ANGULAR](category/ANGULAR.md)  
+[ATOM](category/ATOM.md)  
 [BOOTSTRAP](category/BOOTSTRAP.md)  
 [C#](category/C#.md)  
 [C/C++](category/C_C++.md)  

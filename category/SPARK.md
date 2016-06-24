@@ -31,3 +31,4 @@
 [Spark 入门实例指南](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwdxtub.com%2F2016%2F04%2F11%2Fspark-guide%2F&aid=5933&nid=114)  
 [Spark 在金融领域的应用：日内走势预测](http://weekly.manong.io/bounce?url=http%3A%2F%2Flitaotao.github.io%2Fspark-in-finance-and-investing&aid=6093&nid=116)  
 [这些年，你不能错过的 Spark 学习资源](http://weekly.manong.io/bounce?url=http%3A%2F%2Flitaotao.github.io%2Fspark-resouces-blogs-paper&aid=6128&nid=116)  
+[搭建 IPython + Notebook + Spark 开发环境](http://weekly.manong.io/bounce?url=http%3A%2F%2Flitaotao.github.io%2Fipython-notebook-spark&aid=6189&nid=117)  

@@ -7,3 +7,4 @@
 [最新版 Bootstrap v3 视频教程](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jikexueyuan.com%2Fevent%2Fbootstrap.html%3Fhmsr%3Dmanong_tool_bsevent_63&aid=1989&nid=63)  
 [7 天 7 阶段掌握最新版 Bootstrap v3.3 教程——完结篇（第七天/进阶）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jikexueyuan.com%2Fevent%2Fbootstrap.html%3Fhmsr%3Dmanong_tool_bootstrap_69&aid=2229&nid=69)  
 [7 天 7 阶段掌握最新版 Bootstrap v3.3.x 教程（完结篇）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fe.jikexueyuan.com%2Fbootstrap.html%3Fhmsr%3Dmanong_tool_bootstrap_76&aid=2636&nid=76)  
+[30 套精美免费的 bootstrap 模板](http://weekly.manong.io/bounce?url=https%3A%2F%2Flinmi.cc%2F483&aid=6193&nid=117)  

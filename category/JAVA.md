@@ -209,3 +209,6 @@
 [如何优雅地设计 Java 异常](http://weekly.manong.io/bounce?url=http%3A%2F%2Flrwinx.github.io%2F2016%2F04%2F28%2F%25E5%25A6%2582%25E4%25BD%2595%25E4%25BC%2598%25E9%259B%2585%25E7%259A%2584%25E8%25AE%25BE%25E8%25AE%25A1java%25E5%25BC%2582%25E5%25B8%25B8%2F&aid=6063&nid=116)  
 [Java 开发常用的在线工具](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.hollischuang.com%2Farchives%2F1459&aid=6125&nid=116)  
 [简单使用 Google Agera 框架](http://weekly.manong.io/bounce?url=https%3A%2F%2Fwww.aswifter.com%2F2016%2F04%2F28%2Fuse-google-agera-framework%2F&aid=6102&nid=116)  
+[Java 多线程干货系列（四）：volatile 关键字](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftengj.top%2F2016%2F05%2F06%2Fthreadvolatile4%2F&aid=6145&nid=117)  
+[Awesome RxJava](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Flzyzsd%2FAwesome-RxJava%2Fblob%2Fmaster%2FREADME.md&aid=6175&nid=117)  
+[谈谈服务化体系中的异步（上）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcalvin1978.blogcn.com%2Farticles%2Fasync.html&aid=6176&nid=117)  

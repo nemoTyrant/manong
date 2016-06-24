@@ -69,3 +69,4 @@
 [MySQL binlog 格式解析](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2Fc16686b35807&aid=5702&nid=111)  
 [MySQL 5.7 对 JSON 的支持](http://weekly.manong.io/bounce?url=http%3A%2F%2Fweibo.com%2Fp%2F230418693f08470102wi35&aid=5929&nid=114)  
 [初探 MySQL 的 Binlog](http://weekly.manong.io/bounce?url=https%3A%2F%2Fxcoder.in%2F2015%2F08%2F10%2Fmysql-binlog-try%2F&aid=6111&nid=116)  
+[如何优雅地进行表结构设计](http://weekly.manong.io/bounce?url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F20785905&aid=6181&nid=117)  
