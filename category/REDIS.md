@@ -56,3 +56,5 @@
 [一套完整的 Redis 入门 PPT](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fs%2Fdjzv&aid=5833&nid=113)  
 [idgo：兼容 Redis 协议的 ID 生成器](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fflike%2Fidgo%2Fblob%2Fmaster%2FReadme.md&aid=5882&nid=113)  
 [老司机使用 Redis 缓存复杂查询](http://weekly.manong.io/bounce?url=https%3A%2F%2Fbaya.github.io%2F2016%2F03%2F26%2F%25E8%2580%2581%25E5%258F%25B8%25E6%259C%25BA%25E4%25BD%25BF%25E7%2594%25A8redis%25E7%25BC%2593%25E5%25AD%2598%25E5%25A4%258D%25E6%259D%2582%25E6%259F%25A5%25E8%25AF%25A2.html&aid=5921&nid=114)  
+[Redis 字符串类型实现内幕](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmy.oschina.net%2Fandylucc%2Fblog%2F675480&aid=6248&nid=118)  
+[360 开源的类 Redis 存储系统 Pika](http://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAwMDU1MTE1OQ%3D%3D%26mid%3D2653547160%26idx%3D1%26sn%3Dbefd195e2aa788775aaf1cc3b6f6fab3&aid=6277&nid=118)  

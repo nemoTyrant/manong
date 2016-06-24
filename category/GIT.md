@@ -116,3 +116,4 @@
 [用 Google Cloud 打造你的私有免费 Git 仓库](http://weekly.manong.io/bounce?url=http%3A%2F%2Fchinagdg.org%2F2016%2F04%2F%25E7%2594%25A8-google-cloud-%25E6%2589%2593%25E9%2580%25A0%25E4%25BD%25A0%25E7%259A%2584%25E7%25A7%2581%25E6%259C%2589%25E5%2585%258D%25E8%25B4%25B9-git-%25E4%25BB%2593%25E5%25BA%2593%2F&aid=6106&nid=116)  
 [Git Commands and Best Practices Cheat Sheet](http://weekly.manong.io/bounce?url=http%3A%2F%2Fzeroturnaround.com%2Frebellabs%2Fgit-commands-and-best-practices-cheat-sheet%2F&aid=6110&nid=116)  
 [GitFame：用来统计项目成员贡献代码量的小工具](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Foleander%2Fgit-fame-rb&aid=6202&nid=117)  
+[闯过这 54 关，点亮你的 Git 技能树（四）](http://weekly.manong.io/bounce?url=https%3A%2F%2Fcodingstyle.cn%2Ftopics%2F178&aid=6242&nid=118)  

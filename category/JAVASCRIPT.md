@@ -282,3 +282,6 @@
 [我不能再忍受你的代码风格了！](http://weekly.manong.io/bounce?url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000005021098&aid=6115&nid=116)  
 [[译] 12 个 JavaScript 技巧](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.w3cplus.com%2Fjavascript%2F12-extremely-useful-hacks-for-javascript.html%3Ff%3Dtt&aid=6156&nid=117)  
 [yqthen.js：让 JS 性能飙到嗨的流程库](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2F892280082%2Fyqthen&aid=6201&nid=117)  
+[[译] 全栈 JavaScript 程序员的崛起](http://weekly.manong.io/bounce?url=http%3A%2F%2Ffetalk.net%2F2016%2F05%2F14%2F%25E5%2585%25A8%25E6%25A0%2588-JavaScript-%25E7%25A8%258B%25E5%25BA%258F%25E5%2591%2598%25E7%259A%2584%25E5%25B4%259B%25E8%25B5%25B7%2F%3Ff%3Dtt&aid=6233&nid=118)  
+[JavaScriptCore 简介](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.terrylmay.com%2F2016%2F02%2F21%2FJavaScriptCore%25E7%25AE%2580%25E4%25BB%258B%2F&aid=6246&nid=118)  
+[jQuery WeUI：微信官方 H5 UI 库 WeUI 的 jQuery 实现版](http://weekly.manong.io/bounce?url=https%3A%2F%2Flihongxun945.github.io%2Fjquery-weui%2F&aid=6281&nid=118)  

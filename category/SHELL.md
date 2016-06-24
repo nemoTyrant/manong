@@ -19,3 +19,4 @@
 [Windows 批处理常用命令小结](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwsgzao.github.io%2Fpost%2Fwindows-batch%2F&aid=5791&nid=112)  
 [Bash on Windows 抢鲜测试](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.cnblogs.com%2Flazio10000%2Fp%2F5366350.html%3Ff%3Dtt&aid=5845&nid=113)  
 [Linux Shell Scripting Tutorial (LSST) v2.0](http://weekly.manong.io/bounce?url=https%3A%2F%2Fbash.cyberciti.biz%2Fguide%2FMain_Page&aid=5856&nid=113)  
+[Shell 编程之语法基础](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIxNDMyODgyMA%3D%3D%26mid%3D2247483661%26idx%3D1%26sn%3D186884c4fcf7e90ea58cb4e7d92f5fb7%23rd&aid=6235&nid=118)  

@@ -28,3 +28,6 @@
 [无线电硬件安全大牛都用哪些利器？](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.freebuf.com%2Fsectool%2F102998.html%3Ff%3Dtt&aid=6085&nid=116)  
 [在中国，黑客真的能侵入银行吗？](http://weekly.manong.io/bounce?url=http%3A%2F%2Fdaily.zhihu.com%2Fstory%2F8217961&aid=6058&nid=116)  
 [信息安全的一些截图及流程图](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FSecWiki%2Fsec-chart&aid=6173&nid=117)  
+[保护你的 API（下）](http://weekly.manong.io/bounce?url=http%3A%2F%2Ficodeit.org%2F2016%2F05%2Fabout-session-and-security-api-2%2F&aid=6240&nid=118)  
+[[译] 手把手教你如何搭建自己的渗透测试环境](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.freebuf.com%2Farticles%2Fnetwork%2F102661.html&aid=6271&nid=118)  
+[Facebook 开源免费测试和练习黑客技能的 CTF 平台](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.freebuf.com%2Fsectool%2F104092.html%3Ff%3Dtt&aid=6278&nid=118)  

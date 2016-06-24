@@ -99,3 +99,4 @@
 [[译] 在 Visual Studio 上用 C++ 写 Linux 程序](http://weekly.manong.io/bounce?url=https%3A%2F%2Fblogs.msdn.microsoft.com%2Fmsdntaiwan%2F2016%2F04%2F28%2Flinux-%25E5%25B7%25A5%25E7%25A8%258B%25E5%25B8%25AB%25E6%2596%25B0%25E6%25B3%2595%25E5%25AF%25B6-%25E5%259C%25A8-visual-studio-%25E4%25B8%258A%25E7%2594%25A8-c-%25E5%25AF%25AB-linux-%25E7%25A8%258B%25E5%25BC%258F%2F&aid=6064&nid=116)  
 [学会了 C 语言真的可以开发出很多东西吗？](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.zhihu.com%2Fquestion%2F23844552%2Fanswer%2F25880226&aid=6144&nid=117)  
 [值得推荐的 C/C++ 框架和库（2014）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.ezlippi.com%2Fblog%2F2014%2F12%2Fc-open-project.html&aid=6159&nid=117)  
+[C 与 C++ 的真正区别在哪里？](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.zhihu.com%2Fquestion%2F28834538%2Fanswer%2F100698972&aid=6222&nid=118)  

@@ -233,3 +233,5 @@
 [Mac.py：查询网卡所属厂商的 Python 库](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fhustcc%2Fmac.py&aid=6103&nid=116)  
 [Python 类与元类的深度挖掘](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI0NjIxMzE5OQ%3D%3D%26mid%3D2656697764%26idx%3D1%26sn%3D8f695774923f0edc09470c6bbb8f194b%23rd&aid=6152&nid=117)  
 [利用 Python + Selenium 自动化快速截图](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcodingpy.com%2Farticle%2Ftake-screenshot-of-web-page-using-selenium%2F&aid=6153&nid=117)  
+[Python 面试题总结](http://weekly.manong.io/bounce?url=https%3A%2F%2Fwww.github.com%2Ftaizilongxu%2Finterview_python&aid=6231&nid=118)  
+[Python 技巧总结](http://weekly.manong.io/bounce?url=http%3A%2F%2Flitaotao.github.io%2Fpython-materials&aid=6232&nid=118)  

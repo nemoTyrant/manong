@@ -145,3 +145,4 @@
 [Swift 开发者、项目、最佳实践](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fipader%2FSwiftGuide%2Fwiki%2F%25E5%25BC%2580%25E5%258F%2591%25E8%2580%2585%25E3%2580%2581%25E9%25A1%25B9%25E7%259B+%25AE%25E3%2580%2581%25E6%259C%2580%25E4%25BD%25B3%25E5%25AE%259E%25E8%25B7%25B5&aid=6108&nid=116)  
 [GlitchLabel：俗称晃瞎你的眼文字标签](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fkciter%2FGlitchLabel&aid=6118&nid=116)  
 [将 Objc 库转换成更符合 Swift 语法风格的形式](http://weekly.manong.io/bounce?url=http%3A%2F%2Fswiftcafe.io%2F2016%2F05%2F07%2Fswift3-objc%2F&aid=6151&nid=117)  
+[一起聊聊 Swift 3.0](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2F6a9e9e790064&aid=6229&nid=118)  

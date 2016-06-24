@@ -427,3 +427,7 @@
 [iOS 开发经验总结](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2Fd333cf6ae4b0&aid=6149&nid=117)  
 [微信读书 iOS 性能优化总结](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwereadteam.github.io%2F2016%2F05%2F03%2FWeRead-Performance%2F%3Ff%3Dtt&aid=6150&nid=117)  
 [[译] 全新 Apple iOS 设计规范指南](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.tuyiyi.com%2Fv%2F45421.html&aid=6177&nid=117)  
+[iOS 碎片动画](http://weekly.manong.io/bounce?url=http%3A%2F%2Fsindrilin.com%2Fanimate%2F2016%2F05%2F12%2F%25E7%25A2%258E%25E7%2589%2587%25E5%258A%25A8%25E7%2594%25BB.html&aid=6227&nid=118)  
+[iOS 开发大神必备的 Xcode 插件](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2Fac8ac991d77b&aid=6237&nid=118)  
+[KeepAccounts：高仿 TIMI 记账](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FJerrylingit%2FKeepAccounts&aid=6282&nid=118)  
+[高仿下厨房 App](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fcallmejoejoe%2FXCFApp&aid=6284&nid=118)  

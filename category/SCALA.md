@@ -24,3 +24,4 @@
 [Scala 中的依赖注入（2012）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.yunglinho.com%2Fblog%2F2012%2F04%2F22%2Fdependency-injection-in-scala%2F&aid=4922&nid=102)  
 [Scala 入门笔记](http://weekly.manong.io/bounce?url=http%3A%2F%2Fandrewliu.in%2F2016%2F01%2F16%2FScala%25E5%2585%25A5%25E9%2597%25A8%25E7%25AC%2594%25E8%25AE%25B0%2F&aid=4997&nid=103)  
 [我为什么想并且要学习 Scala](http://weekly.manong.io/bounce?url=https%3A%2F%2Fcodingstyle.cn%2Ftopics%2F134&aid=5580&nid=110)  
+[响应式编程思想（Scala）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.jasonding.top%2F2016%2F05%2F15%2FScala%2F%25E3%2580%2590Scala%25E3%2580%2591%25E5%2593%258D%25E5%25BA%2594%25E5%25BC%258F%25E7%25BC%2596%25E7%25A8%258B%25E6%2580%259D%25E6%2583%25B3%2F&aid=6230&nid=118)  

@@ -10,3 +10,5 @@
 [Mac 上 SVN 入坑小记（一）](http://weekly.manong.io/bounce?url=http%3A%2F%2Ficoor.xyz%2F2016%2F04%2F21%2FMac-%25E4%25B8%258A-SVN-%25E5%2585%25A5%25E5%259D%2591%25E5%25B0%258F%25E8%25AE%25B0%25EF%25BC%2588%25E4%25B8%2580%25EF%25BC%2589%2F&aid=6020&nid=115)  
 [JSPatchX：JSPatch XCode 代码补全插件](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fbang590%2FJSPatchX&aid=6045&nid=115)  
 [开发者头条 Mac 端插件发布啦！](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwalkginkgo.com%2Fios%2F2016%2F05%2F04%2FToutiao.html&aid=6158&nid=117)  
+[Mac 下提升工作效率的方式](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmrpeak.cn%2Fblog%2Fmac-efficiency%2F&aid=6239&nid=118)  
+[干货集中营 Mac 端应用](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fhujiaweibujidao%2FGank&aid=6279&nid=118)  

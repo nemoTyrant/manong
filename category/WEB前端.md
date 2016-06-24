@@ -245,3 +245,7 @@
 [前端面试题（二）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.w3cfuns.com%2Fnotes%2F23515%2Ffa8b1e788ac39b04108fc33e5b543c4a.html&aid=6172&nid=117)  
 [一个小而美的 CSS 3d 引擎](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fshrekshrek%2Fcss3d-engine&aid=6198&nid=117)  
 [vConsole：针对手机网页的前端 console 调试面板](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FWechatFE%2FvConsole&aid=6205&nid=117)  
+[这可能是史上最全的 CSS 自适应布局总结](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.cnblogs.com%2Fqieguo%2Fp%2F5421252.html%3Ff%3Dtt&aid=6234&nid=118)  
+[小公司的前端应该怎么做？](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.cnblogs.com%2Fyexiaochai%2Fp%2F5311712.html%3Ff%3Dtt&aid=6236&nid=118)  
+[写给想成为前端工程师的同学们](http://weekly.manong.io/bounce?url=https%3A%2F%2Fwww.h5jun.com%2Fpost%2Fto-be-a-good-frontend-engineer.html&aid=6243&nid=118)  
+[前端开发中的字符编码](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.cnblogs.com%2Faccordion%2Fp%2F5468704.html%3Ff%3Dtt&aid=6257&nid=118)  
