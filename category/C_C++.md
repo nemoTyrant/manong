@@ -100,3 +100,5 @@
 [学会了 C 语言真的可以开发出很多东西吗？](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.zhihu.com%2Fquestion%2F23844552%2Fanswer%2F25880226&aid=6144&nid=117)  
 [值得推荐的 C/C++ 框架和库（2014）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.ezlippi.com%2Fblog%2F2014%2F12%2Fc-open-project.html&aid=6159&nid=117)  
 [C 与 C++ 的真正区别在哪里？](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.zhihu.com%2Fquestion%2F28834538%2Fanswer%2F100698972&aid=6222&nid=118)  
+[漫谈 C++：良好的编程习惯与编程要点](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.cnblogs.com%2FQG-whz%2Fp%2F5517643.html&aid=6305&nid=119)  
+[Makefile 简易教程](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.epubit.com.cn%2Farticle%2F546&aid=6329&nid=119)  

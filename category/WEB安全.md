@@ -31,3 +31,4 @@
 [保护你的 API（下）](http://weekly.manong.io/bounce?url=http%3A%2F%2Ficodeit.org%2F2016%2F05%2Fabout-session-and-security-api-2%2F&aid=6240&nid=118)  
 [[译] 手把手教你如何搭建自己的渗透测试环境](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.freebuf.com%2Farticles%2Fnetwork%2F102661.html&aid=6271&nid=118)  
 [Facebook 开源免费测试和练习黑客技能的 CTF 平台](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.freebuf.com%2Fsectool%2F104092.html%3Ff%3Dtt&aid=6278&nid=118)  
+[try2hack 通关教程](http://weekly.manong.io/bounce?url=http%3A%2F%2Fqimingyu.github.io%2F2016%2F05%2F12%2Ftry2hack%25E9%2580%259A%25E5%2585%25B3%25E6%2595%2599%25E7%25A8%258B%2F&aid=6362&nid=119)  

@@ -36,3 +36,5 @@
 [React Native For Android：框架启动核心路径剖析](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI1MTA1MzM2Nw%3D%3D%26mid%3D2649796767%26idx%3D1%26sn%3D9a499453b627a223e0c2863658dd0329&aid=5989&nid=115)  
 [[译] React Native 如何做跨平台设计](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fpockry%2FBuilding-the-F8-2016-App-CN%2Fblob%2Fmaster%2Ftutorials%2FPart%25202.%2520Designing%2520an%2520App%2520for%2520Multiple%2520Platforms.md&aid=6076&nid=116)  
 [React Native 移植原生 iOS 平台项目](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.lcode.org%2Freact-native-%25e7%25a7%25bb%25e6%25a4%258d%25e5%258e%259f%25e7%2594%259fios%25e9%25a1%25b9%25e7%259b%25ae57%2F&aid=6228&nid=118)  
+[React Native 痛点解析之性能调优](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA3ODg4MDk0Ng%3D%3D%26mid%3D2651112293%26idx%3D1%26sn%3D866971daf7dba22186d2c09d1bac2418&aid=6316&nid=119)  
+[maoyanFilm：仿猫眼电影的 App](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fyohnz%2FmaoyanFilm&aid=6365&nid=119)  

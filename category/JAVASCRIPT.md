@@ -285,3 +285,6 @@
 [[译] 全栈 JavaScript 程序员的崛起](http://weekly.manong.io/bounce?url=http%3A%2F%2Ffetalk.net%2F2016%2F05%2F14%2F%25E5%2585%25A8%25E6%25A0%2588-JavaScript-%25E7%25A8%258B%25E5%25BA%258F%25E5%2591%2598%25E7%259A%2584%25E5%25B4%259B%25E8%25B5%25B7%2F%3Ff%3Dtt&aid=6233&nid=118)  
 [JavaScriptCore 简介](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.terrylmay.com%2F2016%2F02%2F21%2FJavaScriptCore%25E7%25AE%2580%25E4%25BB%258B%2F&aid=6246&nid=118)  
 [jQuery WeUI：微信官方 H5 UI 库 WeUI 的 jQuery 实现版](http://weekly.manong.io/bounce?url=https%3A%2F%2Flihongxun945.github.io%2Fjquery-weui%2F&aid=6281&nid=118)  
+[[译] React 概念模型](http://weekly.manong.io/bounce?url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000005159165&aid=6318&nid=119)  
+[从本质认识 JavaScript 的原型继承和类继承](http://weekly.manong.io/bounce?url=https%3A%2F%2Fwww.h5jun.com%2Fpost%2Finherits.html&aid=6319&nid=119)  
+[向景深相片的 JavaScript* 解析器](http://weekly.manong.io/bounce?url=https%3A%2F%2Fsoftware.intel.com%2Fzh-cn%2Fandroid%2Farticles%2Fjavascript-parser-for-depth-photo%3Futm_source%3Dmanong%26utm_medium%3DNewsletter%26utm_campaign%3DGameDev_PRC_Q216_Manong&aid=6295&nid=119)  

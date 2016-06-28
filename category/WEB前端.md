@@ -249,3 +249,8 @@
 [小公司的前端应该怎么做？](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.cnblogs.com%2Fyexiaochai%2Fp%2F5311712.html%3Ff%3Dtt&aid=6236&nid=118)  
 [写给想成为前端工程师的同学们](http://weekly.manong.io/bounce?url=https%3A%2F%2Fwww.h5jun.com%2Fpost%2Fto-be-a-good-frontend-engineer.html&aid=6243&nid=118)  
 [前端开发中的字符编码](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.cnblogs.com%2Faccordion%2Fp%2F5468704.html%3Ff%3Dtt&aid=6257&nid=118)  
+[[译] Houdini：CSS 领域最令人振奋的革新](http://weekly.manong.io/bounce?url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F20939640&aid=6320&nid=119)  
+[优质中文前端博客收集](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FFrankFang%2Fbest-chinese-front-end-blogs&aid=6359&nid=119)  
+[我是这样学习前端的](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Ficepy%2F_posts%2Fissues%2F39&aid=6361&nid=119)  
+[异步脚本载入提高页面性能](http://weekly.manong.io/bounce?url=http%3A%2F%2Fharttle.com%2F2016%2F05%2F18%2Fasync-javascript-loading.html&aid=6345&nid=119)  
+[cooking：饿了么开源的更易上手的前端构建工具](http://weekly.manong.io/bounce?url=http%3A%2F%2Felemefe.github.io%2Fcooking%2F&aid=6368&nid=119)  

@@ -71,3 +71,4 @@
 [初探 MySQL 的 Binlog](http://weekly.manong.io/bounce?url=https%3A%2F%2Fxcoder.in%2F2015%2F08%2F10%2Fmysql-binlog-try%2F&aid=6111&nid=116)  
 [如何优雅地进行表结构设计](http://weekly.manong.io/bounce?url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F20785905&aid=6181&nid=117)  
 [腾讯游戏数据自愈服务方案简介](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftencentdba.com%2Fblog%2Ftencent-game-data-self-healing%2F&aid=6244&nid=118)  
+[为什么你的 MySQL 跑得很慢？](http://weekly.manong.io/bounce?url=http%3A%2F%2Fdbaplus.cn%2Fnews-11-432-1.html&aid=6356&nid=119)  

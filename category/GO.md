@@ -221,3 +221,4 @@
 [使用 Go 开发一个基于 Raft 算法的分布式 kv 系统](http://weekly.manong.io/bounce?url=https%3A%2F%2Flaohanlinux.github.io%2F2016%2F04%2F25%2F%25E4%25BD%25BF%25E7%2594%25A8raft%25E7%25AE%2597%25E6%25B3%2595%25E5%25BF%25AB%25E7%2586%259F%25E6%259E%2584%25E5%25BB%25BA%25E4%25B8%2580%25E4%25B8%25AA%25E5%2588%2586%25E5%25B8%2583%25E5%25BC%258F%25E7%259A%2584key-value%25E7%25B3%25BB%25E7%25BB%259F%2F&aid=6154&nid=117)  
 [Go 性能优化技巧 10/10](http://weekly.manong.io/bounce?url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000005066283&aid=6155&nid=117)  
 [钉钉开放平台 Open API Golang SDK](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fhugozhu%2Fgodingtalk%2Fblob%2Fmaster%2FREADME.md&aid=6204&nid=117)  
+[Golang 1.6：数据库 NULL 值遇到 JSON 和模板](http://weekly.manong.io/bounce?url=https%3A%2F%2Fwww.mgenware.com%2Fblog%2F%3Fp%3D3086&aid=6315&nid=119)  

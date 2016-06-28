@@ -235,3 +235,6 @@
 [利用 Python + Selenium 自动化快速截图](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcodingpy.com%2Farticle%2Ftake-screenshot-of-web-page-using-selenium%2F&aid=6153&nid=117)  
 [Python 面试题总结](http://weekly.manong.io/bounce?url=https%3A%2F%2Fwww.github.com%2Ftaizilongxu%2Finterview_python&aid=6231&nid=118)  
 [Python 技巧总结](http://weekly.manong.io/bounce?url=http%3A%2F%2Flitaotao.github.io%2Fpython-materials&aid=6232&nid=118)  
+[完全理解 Python 迭代对象、迭代器、生成器](http://weekly.manong.io/bounce?url=http%3A%2F%2Ffoofish.net%2Fblog%2F109%2Fiterators-vs-generators&aid=6317&nid=119)  
+[五本 OReilly 家分享的免费 Python 编程书籍](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcodingpy.com%2Farticle%2Ffree-python-books-from-oreilly%2F&aid=6360&nid=119)  
+[用支持向量机做一个极简的智能客服机器人](http://weekly.manong.io/bounce?url=https%3A%2F%2Fwww.ppmessage.cn%2F2016%2F05%2F18%2Fyong-zhi-chi-xiang-liang-ji-zuo-yi-ge-ji-jian-de-zhi-neng-ke-fu-ji-qi-ren%2F&aid=6339&nid=119)  

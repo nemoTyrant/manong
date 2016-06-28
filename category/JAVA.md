@@ -215,3 +215,5 @@
 [[译] 2016 年排名 Top 100 的 Java 类库](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.hollischuang.com%2Farchives%2F1544&aid=6223&nid=118)  
 [Retrofit2 完全教程](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2F308f3c54abdd&aid=6251&nid=118)  
 [多线程系列之学习多线程下载的基本原理和基本用法（一）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fgodcoder.me%2F2016%2F04%2F19%2F%25E5%25A4%259A%25E7%25BA%25BF%25E7%25A8%258B%25E7%25B3%25BB%25E5%2588%2597%25E4%25B9%258B%25E5%25AD%25A6%25E4%25B9%25A0%25E5%25A4%259A%25E7%25BA%25BF%25E7%25A8%258B%25E4%25B8%258B%25E8%25BD%25BD%25E7%259A%2584%25E5%259F%25BA%25E6%259C%25AC%25E5%258E%259F%25E7%2590%2586%25E5%2592%258C%25E5%259F%25BA%25E6%259C%25AC%25E7%2594%25A8%25E6%25B3%2595%2F&aid=6270&nid=118)  
+[[译] Java 8 并发教程：Threads 和 Executors](http://weekly.manong.io/bounce?url=http%3A%2F%2Fifeve.com%2Fjava8-concurrency-tutorial-thread-executor-examples%2F&aid=6306&nid=119)  
+[Tomcat 实现多实例 Session 共享的原理](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI3MTEwODc5Ng%3D%3D%26mid%3D2650859165%26idx%3D1%26sn%3D06d5a4f05d1108a8c78ad68963eebc42&aid=6322&nid=119)  

@@ -117,3 +117,4 @@
 [Git Commands and Best Practices Cheat Sheet](http://weekly.manong.io/bounce?url=http%3A%2F%2Fzeroturnaround.com%2Frebellabs%2Fgit-commands-and-best-practices-cheat-sheet%2F&aid=6110&nid=116)  
 [GitFame：用来统计项目成员贡献代码量的小工具](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Foleander%2Fgit-fame-rb&aid=6202&nid=117)  
 [闯过这 54 关，点亮你的 Git 技能树（四）](http://weekly.manong.io/bounce?url=https%3A%2F%2Fcodingstyle.cn%2Ftopics%2F178&aid=6242&nid=118)  
+[闯过这 54 关，点亮你的 Git 技能树（五）](http://weekly.manong.io/bounce?url=https%3A%2F%2Fcodingstyle.cn%2Ftopics%2F181&aid=6333&nid=119)  

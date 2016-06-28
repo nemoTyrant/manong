@@ -122,3 +122,4 @@
 [Laravel Valet：Mac 下极简的 PHP 开发环境](http://weekly.manong.io/bounce?url=http%3A%2F%2F9iphp.com%2Fweb%2Flaravel%2Flaravel-valet-local-dev-environment.html&aid=6200&nid=117)  
 [PHP-DS: Data structures for PHP 7](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fphp-ds%2Fextension&aid=6283&nid=118)  
 [神奇的服务容器](http://weekly.manong.io/bounce?url=https%3A%2F%2Fwww.insp.top%2Farticle%2Flearn-laravel-container&aid=6273&nid=118)  
+[微博升级 PHP 7 经验分享](http://weekly.manong.io/bounce?url=https%3A%2F%2Fyq.aliyun.com%2Farticles%2F50103&aid=6314&nid=119)  
