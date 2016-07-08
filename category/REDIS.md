@@ -59,3 +59,7 @@
 [Redis 字符串类型实现内幕](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmy.oschina.net%2Fandylucc%2Fblog%2F675480&aid=6248&nid=118)  
 [360 开源的类 Redis 存储系统 Pika](http://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAwMDU1MTE1OQ%3D%3D%26mid%3D2653547160%26idx%3D1%26sn%3Dbefd195e2aa788775aaf1cc3b6f6fab3&aid=6277&nid=118)  
 [Redis 缓存失效机制](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmy.oschina.net%2Fandylucc%2Fblog%2F679222&aid=6327&nid=119)  
+[用最少的机器支撑万亿级访问，微博 6 年 Redis 优化历程](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAwMDU1MTE1OQ%3D%3D%26mid%3D2653547263%26idx%3D1%26sn%3Dfe484b24660b7e1dc4beabca71fe1cb1&aid=6381&nid=120)  
+[浅析 Redis 复制](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmy.oschina.net%2Fandylucc%2Fblog%2F683631&aid=6410&nid=120)  
+[Redis 学习路线](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.huangz.me%2Fdiary%2F2016%2Fhow-to-learn-redis.html&aid=6437&nid=120)  
+[Redis 开源私有云平台 CacheCloud 发布 release 版本](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fsohutv%2Fcachecloud%2Freleases&aid=6440&nid=120)  

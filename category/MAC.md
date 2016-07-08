@@ -13,3 +13,4 @@
 [Mac 下提升工作效率的方式](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmrpeak.cn%2Fblog%2Fmac-efficiency%2F&aid=6239&nid=118)  
 [干货集中营 Mac 端应用](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fhujiaweibujidao%2FGank&aid=6279&nid=118)  
 [Clipy：强大到变态的 OS X 剪贴板扩展应用](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FClipy%2FClipy&aid=6364&nid=119)  
+[如何大幅度提高 Mac 开发效率](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2F2b072b206c90&aid=6403&nid=120)  

@@ -222,3 +222,7 @@
 [Go 性能优化技巧 10/10](http://weekly.manong.io/bounce?url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000005066283&aid=6155&nid=117)  
 [钉钉开放平台 Open API Golang SDK](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fhugozhu%2Fgodingtalk%2Fblob%2Fmaster%2FREADME.md&aid=6204&nid=117)  
 [Golang 1.6：数据库 NULL 值遇到 JSON 和模板](http://weekly.manong.io/bounce?url=https%3A%2F%2Fwww.mgenware.com%2Fblog%2F%3Fp%3D3086&aid=6315&nid=119)  
+[Go-kit 入门（二）：第一个 Go Kit 程序](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.chunshengster.me%2F2016%2F05%2Fgo_kit_ru_men_er_di_yi_ge_go_kit_cheng_xu.html&aid=6392&nid=120)  
+[给 Python 开发者的 Go 语言入门指南](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI0NjIxMzE5OQ%3D%3D%26mid%3D2656697874%26idx%3D1%26sn%3D5c0964e436fe4e16aad3e83e5403c528%23rd&aid=6393&nid=120)  
+[RPCX：类似 Dubbo 的分布式 RPC 框架](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcolobu.com%2F2016%2F05%2F26%2FRPCX-a-distributed-rpc-dubbo-like-framework-by-Go%2F&aid=6443&nid=120)  
+[Go FlagZ：Go 语言版的 java-flagz](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fmwitkow%2Fgo-flagz&aid=6444&nid=120)  

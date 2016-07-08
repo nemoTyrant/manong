@@ -288,3 +288,8 @@
 [[译] React 概念模型](http://weekly.manong.io/bounce?url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000005159165&aid=6318&nid=119)  
 [从本质认识 JavaScript 的原型继承和类继承](http://weekly.manong.io/bounce?url=https%3A%2F%2Fwww.h5jun.com%2Fpost%2Finherits.html&aid=6319&nid=119)  
 [向景深相片的 JavaScript* 解析器](http://weekly.manong.io/bounce?url=https%3A%2F%2Fsoftware.intel.com%2Fzh-cn%2Fandroid%2Farticles%2Fjavascript-parser-for-depth-photo%3Futm_source%3Dmanong%26utm_medium%3DNewsletter%26utm_campaign%3DGameDev_PRC_Q216_Manong&aid=6295&nid=119)  
+[[译] 在 ES6 中改良的 5 个 JavaScript “缺陷”](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.zcfy.cc%2Farticle%2F315%3Ff%3Dtt&aid=6397&nid=120)  
+[[译] 前端攻略之从路人甲到英雄无敌（二）：JavaScript 与不断演化的框架](http://weekly.manong.io/bounce?url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000005353213&aid=6404&nid=120)  
+[AlloyFinger：超级小的 Web 手势库](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FAlloyTeam%2FAlloyFinger&aid=6441&nid=120)  
+[popWindow：触屏弹窗组件](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fmishe%2FpopWindow%3Ff%3Dtt&aid=6445&nid=120)  
+[AlloyLever：腾讯 AlloyTeam 出品的 Web 开发者工具](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FAlloyTeam%2FAlloyLever%2Fblob%2Fmaster%2FREADME_CN.md&aid=6446&nid=120)  

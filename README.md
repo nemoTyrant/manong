@@ -10,7 +10,7 @@
 
 56期为14年最受欢迎列表，请直接浏览[原地址](http://weekly.manong.io/issues/56)
 
-现在已整理到第119期。
+现在已整理到第120期。
 
 由于现在条目过多，在同一页显示全部内容已不再合适，所以按分类写到了不同文件里。仍然想以全部内容方式查看的可以点击[all.md](category/all.md)浏览。
 
@@ -40,6 +40,7 @@
 [GO](category/GO.md)  
 [HADOOP](category/HADOOP.md)  
 [HASKELL](category/HASKELL.md)  
+[HBASE](category/HBASE.md)  
 [HTML5](category/HTML5.md)  
 [IOS](category/IOS.md)  
 [JAVA](category/JAVA.md)  

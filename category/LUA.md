@@ -8,3 +8,4 @@
 [ABTestingGateway：基于动态策略的灰度发布系统（Lua） (SinaMSRE)](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FSinaMSRE%2FABTestingGateway&aid=3514&nid=86)  
 [Lua 包管理工具 Luarocks 详解](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmy.oschina.net%2Fidevz%2Fblog%2F519598&aid=4005&nid=92)  
 [GameBox Cloud Core：基于 Lua 的游戏服务器框架](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fdualface%2Fgbc-core&aid=4619&nid=98)  
+[Lua 源码阅读](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Flichuang%2FLua-Source-Internal&aid=6396&nid=120)  

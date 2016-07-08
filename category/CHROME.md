@@ -14,3 +14,4 @@
 [变量命名神器 Codelf 同时推出 Sublime 插件和 Chrome App](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Funbug%2Fcodelf%2Fblob%2Fgh-pages%2FREADME.md&aid=5184&nid=104)  
 [[译] 为设计师准备的 10 个最棒的 Chrome 扩展插件](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwebres.wang%2F10-best-chrome-extensions-for-designers%2F&aid=5398&nid=107)  
 [莆田系医院网站提醒](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fhustcc%2FPTHospital.chrome&aid=6197&nid=117)  
+[1Player：专属网易云音乐的 Chrome 扩展](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fzhiyul%2F1Player&aid=6447&nid=120)  

@@ -254,3 +254,5 @@
 [我是这样学习前端的](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Ficepy%2F_posts%2Fissues%2F39&aid=6361&nid=119)  
 [异步脚本载入提高页面性能](http://weekly.manong.io/bounce?url=http%3A%2F%2Fharttle.com%2F2016%2F05%2F18%2Fasync-javascript-loading.html&aid=6345&nid=119)  
 [cooking：饿了么开源的更易上手的前端构建工具](http://weekly.manong.io/bounce?url=http%3A%2F%2Felemefe.github.io%2Fcooking%2F&aid=6368&nid=119)  
+[最全前端资源汇集](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jeffjade.com%2F2016%2F03%2F30%2F104-front-end-tutorial%2F&aid=6401&nid=120)  
+[前端测试工具集锦](http://weekly.manong.io/bounce?url=http%3A%2F%2Fqaseven.github.io%2F2016%2F05%2F24%2Ffront-end-tools%2F&aid=6419&nid=120)  

@@ -38,3 +38,4 @@
 [React Native 移植原生 iOS 平台项目](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.lcode.org%2Freact-native-%25e7%25a7%25bb%25e6%25a4%258d%25e5%258e%259f%25e7%2594%259fios%25e9%25a1%25b9%25e7%259b%25ae57%2F&aid=6228&nid=118)  
 [React Native 痛点解析之性能调优](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA3ODg4MDk0Ng%3D%3D%26mid%3D2651112293%26idx%3D1%26sn%3D866971daf7dba22186d2c09d1bac2418&aid=6316&nid=119)  
 [maoyanFilm：仿猫眼电影的 App](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fyohnz%2FmaoyanFilm&aid=6365&nid=119)  
+[旅行喵 React Native 技术实践](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2Fbf3e222c102a&aid=6394&nid=120)  

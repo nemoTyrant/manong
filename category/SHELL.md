@@ -21,3 +21,4 @@
 [Linux Shell Scripting Tutorial (LSST) v2.0](http://weekly.manong.io/bounce?url=https%3A%2F%2Fbash.cyberciti.biz%2Fguide%2FMain_Page&aid=5856&nid=113)  
 [Shell 编程之语法基础](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIxNDMyODgyMA%3D%3D%26mid%3D2247483661%26idx%3D1%26sn%3D186884c4fcf7e90ea58cb4e7d92f5fb7%23rd&aid=6235&nid=118)  
 [Shell 编程之执行过程](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIxNDMyODgyMA%3D%3D%26mid%3D2247483666%26idx%3D1%26sn%3Db3df5f3f8d8803fb88719463388db4ed&aid=6321&nid=119)  
+[bash 并发编程和 flock](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIxNDMyODgyMA%3D%3D%26mid%3D100000015%26idx%3D1%26sn%3Ddd003bc4ecf51f02140a14bd975cd9ca&aid=6406&nid=120)  

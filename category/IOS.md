@@ -434,3 +434,5 @@
 [用 ReactiveCocoa 事半功倍的写代码（四） ](http://weekly.manong.io/bounce?url=http%3A%2F%2Ffengjian0106.github.io%2F2016%2F05%2F03%2FThe-Power-Of-Composition-In-FRP-Part-4%2F&aid=6310&nid=119)  
 [iOS MVVM 架构：界面与数据 I/O 逻辑分离的实践](http://weekly.manong.io/bounce?url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000005153111&aid=6311&nid=119)  
 [iOS 开发中那些冷知识](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.treney.com%2Findex.php%2Farchives%2FiOSknowledge.html&aid=6312&nid=119)  
+[iOS 启动连续闪退保护方案](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwereadteam.github.io%2F2016%2F05%2F23%2FGYBootingProtection%2F&aid=6389&nid=120)  
+[我的 iOS debug 速查表](http://weekly.manong.io/bounce?url=https%3A%2F%2Feverettjf.github.io%2F2016%2F05%2F25%2Fmy-ios-debug-cheatsheet&aid=6390&nid=120)  

@@ -98,3 +98,4 @@
 [Java 程序员眼中的 Linux](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fjudasn%2FLinux-Tutorial&aid=6160&nid=117)  
 [优化 Linux NAT 网关](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftech.youzan.com%2Flinux_nat%2F&aid=6253&nid=118)  
 [Linux 进程管理](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FJunnplus%2Fblog%2Fissues%2F6&aid=6259&nid=118)  
+[Linux 堆内存管理深入分析（下）](http://weekly.manong.io/bounce?url=https%3A%2F%2Fjaq.alibaba.com%2Fcommunity%2Fart%2Fshow%3Farticleid%3D334&aid=6434&nid=120)  
