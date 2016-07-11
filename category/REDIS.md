@@ -63,3 +63,5 @@
 [浅析 Redis 复制](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmy.oschina.net%2Fandylucc%2Fblog%2F683631&aid=6410&nid=120)  
 [Redis 学习路线](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.huangz.me%2Fdiary%2F2016%2Fhow-to-learn-redis.html&aid=6437&nid=120)  
 [Redis 开源私有云平台 CacheCloud 发布 release 版本](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fsohutv%2Fcachecloud%2Freleases&aid=6440&nid=120)  
+[Redis 复制实现原理](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmy.oschina.net%2Fandylucc%2Fblog%2F686892&aid=6484&nid=121)  
+[唯品会大规模 Redis Cluster 的生产实践](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA4Nzg5Nzc5OA%3D%3D%26mid%3D2651660079%26idx%3D1%26sn%3Dbca50ad39792deadf167077308120264&aid=6490&nid=121)  

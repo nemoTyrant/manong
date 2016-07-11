@@ -32,3 +32,5 @@
 [Spark 在金融领域的应用：日内走势预测](http://weekly.manong.io/bounce?url=http%3A%2F%2Flitaotao.github.io%2Fspark-in-finance-and-investing&aid=6093&nid=116)  
 [这些年，你不能错过的 Spark 学习资源](http://weekly.manong.io/bounce?url=http%3A%2F%2Flitaotao.github.io%2Fspark-resouces-blogs-paper&aid=6128&nid=116)  
 [搭建 IPython + Notebook + Spark 开发环境](http://weekly.manong.io/bounce?url=http%3A%2F%2Flitaotao.github.io%2Fipython-notebook-spark&aid=6189&nid=117)  
+[基于 Spark 的文本情感分析](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.ibm.com%2Fdeveloperworks%2Fcn%2Fcognitive%2Flibrary%2Fcc-1606-spark-seniment-analysis%2Findex.html&aid=6488&nid=121)  
+[Spark Streaming 使用 Kafka 保证数据零丢失](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fjacksu%2Futils4s%2Fblob%2Fmaster%2Fspark-knowledge%2Fmd%2Fspark_streaming%25E4%25BD%25BF%25E7%2594%25A8kafka%25E4%25BF%259D%25E8%25AF%2581%25E6%2595%25B0%25E6%258D%25AE%25E9%259B%25B6%25E4%25B8%25A2%25E5%25A4%25B1.md&aid=6497&nid=121)  

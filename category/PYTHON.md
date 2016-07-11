@@ -238,3 +238,6 @@
 [完全理解 Python 迭代对象、迭代器、生成器](http://weekly.manong.io/bounce?url=http%3A%2F%2Ffoofish.net%2Fblog%2F109%2Fiterators-vs-generators&aid=6317&nid=119)  
 [五本 OReilly 家分享的免费 Python 编程书籍](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcodingpy.com%2Farticle%2Ffree-python-books-from-oreilly%2F&aid=6360&nid=119)  
 [用支持向量机做一个极简的智能客服机器人](http://weekly.manong.io/bounce?url=https%3A%2F%2Fwww.ppmessage.cn%2F2016%2F05%2F18%2Fyong-zhi-chi-xiang-liang-ji-zuo-yi-ge-ji-jian-de-zhi-neng-ke-fu-ji-qi-ren%2F&aid=6339&nid=119)  
+[Python 网络数据采集那些事儿](http://weekly.manong.io/bounce?url=http%3A%2F%2Fkissg.me%2F2016%2F06%2F01%2Fnote-on-web-scraping-with-python%2F&aid=6476&nid=121)  
+[Python Data Science Tutorials](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fujjwalkarn%2FDataSciencePython&aid=6508&nid=121)  
+[基于内容推荐的个性化新闻阅读实现](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftaozj.org%2F2016%2F06%2F%25E5%259F%25BA%25E4%25BA%258E%25E5%2586%2585%25E5%25AE%25B9%25E6%258E%25A8%25E8%258D%2590%25E7%259A%2584%25E4%25B8%25AA%25E6%2580%25A7%25E5%258C%2596%25E6%2596%25B0%25E9%2597%25BB%25E9%2598%2585%25E8%25AF%25BB%25E5%25AE%259E%25E7%258E%25B0%2F&aid=6502&nid=121)  

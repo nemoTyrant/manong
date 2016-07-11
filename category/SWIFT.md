@@ -148,3 +148,4 @@
 [一起聊聊 Swift 3.0](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2F6a9e9e790064&aid=6229&nid=118)  
 [七大 Swift 陷阱以及如何避免它们](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.ibm.com%2Fdeveloperworks%2Fcn%2Fmobile%2Fzones%2Fseven-swift-snares-how-to-avoid-them%2Findex.html%3Ff%3Dtt&aid=6313&nid=119)  
 [使用 Go 语言开发 iOS 应用（Swift 版）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.ituring.com.cn%2Farticle%2F215762&aid=6391&nid=120)  
+[BaoKanIOS：使用 Swift 编写的资讯新闻类 App](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2F6ag%2FBaoKanIOS&aid=6523&nid=121)  

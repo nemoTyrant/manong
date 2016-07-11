@@ -219,3 +219,5 @@
 [Tomcat 实现多实例 Session 共享的原理](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI3MTEwODc5Ng%3D%3D%26mid%3D2650859165%26idx%3D1%26sn%3D06d5a4f05d1108a8c78ad68963eebc42&aid=6322&nid=119)  
 [Java 里的协程](http://weekly.manong.io/bounce?url=https%3A%2F%2Fblog.maxleap.cn%2Farchives%2F816&aid=6384&nid=120)  
 [Java 帝国之 Java bean（下）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAxOTc0NzExNg%3D%3D%26mid%3D2665513118%26idx%3D1%26sn%3D487fefb8fa7efd59de6f37043eb21799%23rd&aid=6385&nid=120)  
+[Java 并发编程概念及注意事项](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI3MTEwODc5Ng%3D%3D%26mid%3D2650859171%26idx%3D1%26sn%3D19e3c1c2fe1a6af93f4ba83311f5a154%23rd&aid=6466&nid=121)  
+[Java 泛型里的协变和逆变](http://weekly.manong.io/bounce?url=http%3A%2F%2Fybin.cc%2Fprogramming%2Fjava-variance-in-generics%2F&aid=6467&nid=121)  

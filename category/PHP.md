@@ -124,3 +124,5 @@
 [神奇的服务容器](http://weekly.manong.io/bounce?url=https%3A%2F%2Fwww.insp.top%2Farticle%2Flearn-laravel-container&aid=6273&nid=118)  
 [微博升级 PHP 7 经验分享](http://weekly.manong.io/bounce?url=https%3A%2F%2Fyq.aliyun.com%2Farticles%2F50103&aid=6314&nid=119)  
 [PHP 源码注解](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fhoohack%2Fread-php-src%2F&aid=6395&nid=120)  
+[PHP 开发者实践](http://weekly.manong.io/bounce?url=https%3A%2F%2Fwww.gitbook.com%2Fbook%2Fryancao%2Fphp-developer-prepares%2Fdetails&aid=6474&nid=121)  
+[设计模式：PHP 和 Go 语言实现](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fhoohack%2FDesignPattern&aid=6519&nid=121)  

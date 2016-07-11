@@ -19,3 +19,4 @@
 [[译] 用树莓派和显示器制作一面 “魔镜”](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.freebuf.com%2Ftools%2F91497.html&aid=4860&nid=101)  
 [树莓派初始配置指南（2 代 B 型）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fconanwhf.gitcafe.io%2F2016%2F01%2F12%2Frpi-start%2F&aid=5040&nid=103)  
 [重新捡起你那吃灰的树莓派](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fjiajunhuang%2Fblog%2Fblob%2Fmaster%2Fraspberrypi.rst&aid=5867&nid=113)  
+[Arduino 之旅](http://weekly.manong.io/bounce?url=http%3A%2F%2Fjimmyleeking.github.io%2FYouAreWellcome%2Fhardware%2Farduino_funny%2F&aid=6491&nid=121)  

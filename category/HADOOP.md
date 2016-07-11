@@ -9,3 +9,4 @@
 [Hadoop 压缩实现分析](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.ibm.com%2Fdeveloperworks%2Fcn%2Fopensource%2Fos-cn-hadoop-compression-analysis%2Findex.html%3Fca%3Ddrs-&aid=4599&nid=98)  
 [Hadoop-2.6.0-chd5.4.8 在 CentOS 7 minimal 搭建全过程](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.whynotac.tech%2F2016%2F01%2F12%2Fhadoop%2F&aid=5032&nid=103)  
 [Hadoop NameNode 高可用 (High Availability) 实现解析](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.ibm.com%2Fdeveloperworks%2Fcn%2Fopensource%2Fos-cn-hadoop-name-node%2F&aid=5901&nid=114)  
+[使用 Docker 搭建本地 Hadoop 集群](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fkbyyd24%2Fblog%2Fissues%2F2&aid=6511&nid=121)  

@@ -436,3 +436,8 @@
 [iOS 开发中那些冷知识](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.treney.com%2Findex.php%2Farchives%2FiOSknowledge.html&aid=6312&nid=119)  
 [iOS 启动连续闪退保护方案](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwereadteam.github.io%2F2016%2F05%2F23%2FGYBootingProtection%2F&aid=6389&nid=120)  
 [我的 iOS debug 速查表](http://weekly.manong.io/bounce?url=https%3A%2F%2Feverettjf.github.io%2F2016%2F05%2F25%2Fmy-ios-debug-cheatsheet&aid=6390&nid=120)  
+[iOS 开发之 DataSource 神奇魔法](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fcocbin%2FCBTableViewDataSource%2Fblob%2Fmaster%2FREADME.md&aid=6471&nid=121)  
+[iOS 独立开发记录](http://weekly.manong.io/bounce?url=http%3A%2F%2Fazureyu.com%2FiOSDevRecord.html&aid=6472&nid=121)  
+[关于 iOS 异步开发的知识总结](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog-lision.com%2F2016%2F05%2F26%2FiOS-Multithreading%2F&aid=6473&nid=121)  
+[[译] 27 个 iOS 开源库](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2F228535226656&aid=6507&nid=121)  
+[JRDB：FMDB 的超好用封装](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fscubers%2FJRDB&aid=6522&nid=121)  

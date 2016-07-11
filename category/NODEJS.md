@@ -97,3 +97,6 @@
 [Node.js 背后的 V8 引擎优化技术](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5MjAwODM4MA%3D%3D%26mid%3D402199727%26idx%3D1%26sn%3Da15c727229692a89770cab0cd5679d5e%26scene%3D0%23wechat_redirect&aid=5148&nid=117)  
 [Koa 在 Macaca 中的实践](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftesterhome.com%2Ftopics%2F4792&aid=6166&nid=117)  
 [API 自动化测试与持续集成](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2Fa3e35928a0aa&aid=6267&nid=118)  
+[[译] 构建 Express API 五个有用的中间件](http://weekly.manong.io/bounce?url=https%3A%2F%2Ffe.ele.me%2Fgou-jian-express-api-wu-ge-you-yong-de-zhong-jian-jian%2F%3Ff%3Dtt&aid=6495&nid=121)  
+[Nodeclub：使用 Node.js 和 MongoDB 开发的社区系统](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fcnodejs%2Fnodeclub&aid=6526&nid=121)  
+[自动化测试中如何查找界面元素](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftesterhome.com%2Ftopics%2F5054&aid=6498&nid=121)  

@@ -293,3 +293,5 @@
 [AlloyFinger：超级小的 Web 手势库](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FAlloyTeam%2FAlloyFinger&aid=6441&nid=120)  
 [popWindow：触屏弹窗组件](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fmishe%2FpopWindow%3Ff%3Dtt&aid=6445&nid=120)  
 [AlloyLever：腾讯 AlloyTeam 出品的 Web 开发者工具](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FAlloyTeam%2FAlloyLever%2Fblob%2Fmaster%2FREADME_CN.md&aid=6446&nid=120)  
+[也谈面试必备问题之 JavaScript 数组去重](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fhanzichi%2Funderscore-analysis%2Fissues%2F9&aid=6479&nid=121)  
+[[译] JavaScript 元编程](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Flishengzxc%2Fbblog%2Fissues%2F4&aid=6480&nid=121)  

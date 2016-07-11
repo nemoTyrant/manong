@@ -10,3 +10,4 @@
 [[译] PostgreSQL 数据库文档](http://weekly.manong.io/bounce?url=http%3A%2F%2Fpgsqlcn.com%2F&aid=4085&nid=93)  
 [[译] PostgreSQL、Oracle/MySQL 和 SQL Server 的 MVCC 实现原理方式](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jdon.com%2Frepository%2Fdatabase-mvcc.html&aid=4194&nid=94)  
 [PostgreSQL 2015 全国用户大会 PPT 汇总](http://weekly.manong.io/bounce?url=http%3A%2F%2Fpan.baidu.com%2Fs%2F1mgo3Wc4&aid=4613&nid=98)  
+[[译] 深入浅出理解 Postgres 中的内存管理](http://weekly.manong.io/bounce?url=https%3A%2F%2Fwww.sdk.cn%2Fnews%2F3659&aid=6509&nid=121)  

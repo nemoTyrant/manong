@@ -39,3 +39,6 @@
 [React Native 痛点解析之性能调优](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA3ODg4MDk0Ng%3D%3D%26mid%3D2651112293%26idx%3D1%26sn%3D866971daf7dba22186d2c09d1bac2418&aid=6316&nid=119)  
 [maoyanFilm：仿猫眼电影的 App](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fyohnz%2FmaoyanFilm&aid=6365&nid=119)  
 [旅行喵 React Native 技术实践](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2Fbf3e222c102a&aid=6394&nid=120)  
+[React Native 之底层源码分析篇](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA4OTc4MTM0OA%3D%3D%26mid%3D2650357823%26idx%3D1%26sn%3Dddb258d0067f982a02b90fe91cfd6d3f%23rd&aid=6477&nid=121)  
+[Meteor React Native 项目模板更新啦！](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FinProgress-team%2Freact-native-meteor&aid=6515&nid=121)  
+[React Native Redux FeInn](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Ffebobo%2Freact-native-redux-FeInn&aid=6521&nid=121)  

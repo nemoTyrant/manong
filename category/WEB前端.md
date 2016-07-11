@@ -256,3 +256,7 @@
 [cooking：饿了么开源的更易上手的前端构建工具](http://weekly.manong.io/bounce?url=http%3A%2F%2Felemefe.github.io%2Fcooking%2F&aid=6368&nid=119)  
 [最全前端资源汇集](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jeffjade.com%2F2016%2F03%2F30%2F104-front-end-tutorial%2F&aid=6401&nid=120)  
 [前端测试工具集锦](http://weekly.manong.io/bounce?url=http%3A%2F%2Fqaseven.github.io%2F2016%2F05%2F24%2Ffront-end-tools%2F&aid=6419&nid=120)  
+[20 张 Cheat Sheet，让前端开发与设计效率 x 2](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2Fbf266ec5a244&aid=6483&nid=121)  
+[前端开发指南](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fmulgore%2FFront-End-Develop-Guide&aid=6487&nid=121)  
+[使用多种姿势上传图片](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI2NzExNTczMw%3D%3D%26mid%3D2653284851%26idx%3D1%26sn%3D9967ae75e786890d438ebbd152c0fcd5&aid=6494&nid=121)  
+[移动端 Touch 事件的使用与思考（一）](http://weekly.manong.io/bounce?url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000005609334&aid=6504&nid=121)  
