@@ -221,3 +221,7 @@
 [Java 帝国之 Java bean（下）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAxOTc0NzExNg%3D%3D%26mid%3D2665513118%26idx%3D1%26sn%3D487fefb8fa7efd59de6f37043eb21799%23rd&aid=6385&nid=120)  
 [Java 并发编程概念及注意事项](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI3MTEwODc5Ng%3D%3D%26mid%3D2650859171%26idx%3D1%26sn%3D19e3c1c2fe1a6af93f4ba83311f5a154%23rd&aid=6466&nid=121)  
 [Java 泛型里的协变和逆变](http://weekly.manong.io/bounce?url=http%3A%2F%2Fybin.cc%2Fprogramming%2Fjava-variance-in-generics%2F&aid=6467&nid=121)  
+[Java 帝国之函数式编程（上）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAxOTc0NzExNg%3D%3D%26mid%3D2665513149%26idx%3D1%26sn%3D00e563fbd09c9cf9e2ac4283d43cccf1%23rd&aid=6541&nid=122)  
+[[译] JAR 地狱](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.u-trust.me%2F2016%2F05%2F30%2Fwhat-is-jar-hell%2F&aid=6542&nid=122)  
+[别人再问你设计模式，叫他看这篇文章](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jasongj.com%2Fdesign_pattern%2Fsummary%2F&aid=6560&nid=122)  
+[实现 MyBatis Mapper XML 文件增量动态刷新、自动加载、热加载和热部署](http://weekly.manong.io/bounce?url=http%3A%2F%2Fthinkgem.iteye.com%2Fblog%2F2304557&aid=6566&nid=122)  

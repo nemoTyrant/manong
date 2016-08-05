@@ -126,3 +126,4 @@
 [PHP 源码注解](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fhoohack%2Fread-php-src%2F&aid=6395&nid=120)  
 [PHP 开发者实践](http://weekly.manong.io/bounce?url=https%3A%2F%2Fwww.gitbook.com%2Fbook%2Fryancao%2Fphp-developer-prepares%2Fdetails&aid=6474&nid=121)  
 [设计模式：PHP 和 Go 语言实现](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fhoohack%2FDesignPattern&aid=6519&nid=121)  
+[2016 版 Laravel 系列入门教程（一）](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fjohnlui%2FLearn-Laravel-5%2Fissues%2F4&aid=6588&nid=122)  

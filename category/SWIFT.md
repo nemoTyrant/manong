@@ -149,3 +149,4 @@
 [七大 Swift 陷阱以及如何避免它们](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.ibm.com%2Fdeveloperworks%2Fcn%2Fmobile%2Fzones%2Fseven-swift-snares-how-to-avoid-them%2Findex.html%3Ff%3Dtt&aid=6313&nid=119)  
 [使用 Go 语言开发 iOS 应用（Swift 版）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.ituring.com.cn%2Farticle%2F215762&aid=6391&nid=120)  
 [BaoKanIOS：使用 Swift 编写的资讯新闻类 App](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2F6ag%2FBaoKanIOS&aid=6523&nid=121)  
+[Swift 语言的设计错误](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.yinwang.org%2Fblog-cn%2F2016%2F06%2F06%2Fswift&aid=6547&nid=122)  

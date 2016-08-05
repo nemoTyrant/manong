@@ -10,7 +10,7 @@
 
 56期为14年最受欢迎列表，请直接浏览[原地址](http://weekly.manong.io/issues/56)
 
-现在已整理到第121期。
+现在已整理到第122期。
 
 由于现在条目过多，在同一页显示全部内容已不再合适，所以按分类写到了不同文件里。仍然想以全部内容方式查看的可以点击[all.md](category/all.md)浏览。
 
@@ -34,6 +34,7 @@
 [DIRECTX](category/DIRECTX.md)  
 [DOCKER](category/DOCKER.md)  
 [ELASTICSEARCH](category/ELASTICSEARCH.md)  
+[ELECTRON](category/ELECTRON.md)  
 [ERLANG](category/ERLANG.md)  
 [FIREFOX](category/FIREFOX.md)  
 [GIT](category/GIT.md)  

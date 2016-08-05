@@ -103,3 +103,6 @@
 [漫谈 C++：良好的编程习惯与编程要点](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.cnblogs.com%2FQG-whz%2Fp%2F5517643.html&aid=6305&nid=119)  
 [Makefile 简易教程](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.epubit.com.cn%2Farticle%2F546&aid=6329&nid=119)  
 [魅族 C++ 协程框架 Kiev 技术内幕](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.csdn.net%2Ftech_meizu%2Farticle%2Fdetails%2F51487793&aid=6383&nid=120)  
+[Learn C++](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.learncpp.com%2F&aid=6540&nid=122)  
+[libel：C 实现的简单的事件驱动库](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fluohaha%2Flibel&aid=6593&nid=122)  
+[[译] 堆和栈的内存分配](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fwizardforcel%2Flcthw-zh%2Fblob%2Fmaster%2Fex17.md&aid=6569&nid=122)  

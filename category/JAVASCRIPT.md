@@ -295,3 +295,6 @@
 [AlloyLever：腾讯 AlloyTeam 出品的 Web 开发者工具](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FAlloyTeam%2FAlloyLever%2Fblob%2Fmaster%2FREADME_CN.md&aid=6446&nid=120)  
 [也谈面试必备问题之 JavaScript 数组去重](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fhanzichi%2Funderscore-analysis%2Fissues%2F9&aid=6479&nid=121)  
 [[译] JavaScript 元编程](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Flishengzxc%2Fbblog%2Fissues%2F4&aid=6480&nid=121)  
+[44 个 JavaScript 变态题解析（下）](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fxiaoyu2er%2Fblog%2Fissues%2F3&aid=6553&nid=122)  
+[使用 Vue.js 从零构建 GitHub 项目浏览器](http://weekly.manong.io/bounce?url=http%3A%2F%2Fxlbd.me%2Fvue-demo-github-file-explorer%2F&aid=6586&nid=122)  
+[jQuery WeUI：可能是最好用 WeUI 版本](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Flihongxun945%2Fjquery-weui&aid=6596&nid=122)  

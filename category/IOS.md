@@ -441,3 +441,6 @@
 [关于 iOS 异步开发的知识总结](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog-lision.com%2F2016%2F05%2F26%2FiOS-Multithreading%2F&aid=6473&nid=121)  
 [[译] 27 个 iOS 开源库](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2F228535226656&aid=6507&nid=121)  
 [JRDB：FMDB 的超好用封装](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fscubers%2FJRDB&aid=6522&nid=121)  
+[路由跳转的思考（iOS）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fawhisper.github.io%2F2016%2F06%2F12%2F%25E8%25B7%25AF%25E7%2594%25B1%25E8%25B7%25B3%25E8%25BD%25AC%25E7%259A%2584%25E6%2580%259D%25E8%2580%2583%2F&aid=6545&nid=122)  
+[iOS 开发中 Strong 和 weak 的深入理解](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2F2a2e1f0849ef&aid=6546&nid=122)  
+[JPFPSStatus：用来显示 FPS 状态在 iOS 状态栏](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fjoggerplus%2FJPFPSStatus%2Fblob%2Fmaster%2FREADME_Chinese.md&aid=6597&nid=122)  

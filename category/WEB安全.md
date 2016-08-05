@@ -34,3 +34,4 @@
 [try2hack 通关教程](http://weekly.manong.io/bounce?url=http%3A%2F%2Fqimingyu.github.io%2F2016%2F05%2F12%2Ftry2hack%25E9%2580%259A%25E5%2585%25B3%25E6%2595%2599%25E7%25A8%258B%2F&aid=6362&nid=119)  
 [聊一聊随机数安全](http://weekly.manong.io/bounce?url=http%3A%2F%2Fdrops.wooyun.org%2Ftips%2F16053%3Ff%3Dtt&aid=6431&nid=120)  
 [揭秘云上的 Web 安全危机](http://weekly.manong.io/bounce?url=http%3A%2F%2Frdcqii.hundsun.com%2Fportal%2Farticle%2F435.html&aid=6432&nid=120)  
+[[译] 渗透测试工具实战技巧合集](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.freebuf.com%2Fsectool%2F105524.html%3Ff%3Dtt&aid=6583&nid=122)  

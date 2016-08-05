@@ -100,3 +100,4 @@
 [[译] 构建 Express API 五个有用的中间件](http://weekly.manong.io/bounce?url=https%3A%2F%2Ffe.ele.me%2Fgou-jian-express-api-wu-ge-you-yong-de-zhong-jian-jian%2F%3Ff%3Dtt&aid=6495&nid=121)  
 [Nodeclub：使用 Node.js 和 MongoDB 开发的社区系统](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fcnodejs%2Fnodeclub&aid=6526&nid=121)  
 [自动化测试中如何查找界面元素](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftesterhome.com%2Ftopics%2F5054&aid=6498&nid=121)  
+[[译] 让 Node.js 应用接口稳如狗](http://weekly.manong.io/bounce?url=https%3A%2F%2Flog.zvz.im%2F2016%2F06%2F07%2FMake-your-Nodejs-API-robust%2F&aid=6582&nid=122)  

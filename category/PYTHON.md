@@ -241,3 +241,6 @@
 [Python 网络数据采集那些事儿](http://weekly.manong.io/bounce?url=http%3A%2F%2Fkissg.me%2F2016%2F06%2F01%2Fnote-on-web-scraping-with-python%2F&aid=6476&nid=121)  
 [Python Data Science Tutorials](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fujjwalkarn%2FDataSciencePython&aid=6508&nid=121)  
 [基于内容推荐的个性化新闻阅读实现](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftaozj.org%2F2016%2F06%2F%25E5%259F%25BA%25E4%25BA%258E%25E5%2586%2585%25E5%25AE%25B9%25E6%258E%25A8%25E8%258D%2590%25E7%259A%2584%25E4%25B8%25AA%25E6%2580%25A7%25E5%258C%2596%25E6%2596%25B0%25E9%2597%25BB%25E9%2598%2585%25E8%25AF%25BB%25E5%25AE%259E%25E7%258E%25B0%2F&aid=6502&nid=121)  
+[三天搞定 Python](http://weekly.manong.io/bounce?url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F21332075&aid=6548&nid=122)  
+[[译] Guido 老爹谈 Python 的未来](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.codingpy.com%2Farticle%2Fguido-van-rossum-on-pythons-next-steps%2F&aid=6549&nid=122)  
+[Django 起飞必备工具箱](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.factj.com%2Farchives%2F520.html%3Ffrom%3Dtoutiao.io&aid=6590&nid=122)  

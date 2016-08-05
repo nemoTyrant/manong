@@ -121,3 +121,5 @@
 [基于 git hooks 的前端代码质量控制解决方案](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fkuitos%2Fkuitos.github.io%2Fissues%2F28&aid=6400&nid=120)  
 [从 0 开始学习 GitHub 系列之初识 GitHub](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA4NTQwNDcyMA%3D%3D%26mid%3D2650661735%26idx%3D1%26sn%3D9aceac07d272e9202d1b5294f857a5ff%26scene%3D0%23wechat_redirect&aid=6405&nid=120)  
 [向 GitHub 提交代码](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA4NTQwNDcyMA%3D%3D%26mid%3D2650661821%26idx%3D1%26sn%3Dc6116ed82bff2d083bb152fbd8cbc38d&aid=6486&nid=121)  
+[使用原理视角看 Git](http://weekly.manong.io/bounce?url=https%3A%2F%2Fblog.coding.net%2Fblog%2Fprinciple-of-Git&aid=6565&nid=122)  
+[Git 那些事儿](http://weekly.manong.io/bounce?url=https%3A%2F%2Fwujunze.com%2Fgit_something.jsp&aid=6578&nid=122)  
