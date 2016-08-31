@@ -67,3 +67,4 @@
 [唯品会大规模 Redis Cluster 的生产实践](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA4Nzg5Nzc5OA%3D%3D%26mid%3D2651660079%26idx%3D1%26sn%3Dbca50ad39792deadf167077308120264&aid=6490&nid=121)  
 [Redis 3.2 GEO 功能支持](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.innomysql.com%2Farticle%2F25672.html&aid=6573&nid=122)  
 [Redis 之过期键删除策略](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.edagarli.com%2F2016%2F06%2F08%2FRedis%25E4%25B9%258B%25E8%25BF%2587%25E6%259C%259F%25E9%2594%25AE%25E5%2588%25A0%25E9%2599%25A4%25E7%25AD%2596%25E7%2595%25A5%2F&aid=6577&nid=122)  
+[Redis 异步化组件模型](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmy.oschina.net%2Fandylucc%2Fblog%2F693981&aid=6636&nid=123)  

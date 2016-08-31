@@ -106,3 +106,4 @@
 [Learn C++](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.learncpp.com%2F&aid=6540&nid=122)  
 [libel：C 实现的简单的事件驱动库](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fluohaha%2Flibel&aid=6593&nid=122)  
 [[译] 堆和栈的内存分配](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fwizardforcel%2Flcthw-zh%2Fblob%2Fmaster%2Fex17.md&aid=6569&nid=122)  
+[Checked C：更安全的 C 语言版本](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FMicrosoft%2Fcheckedc&aid=6666&nid=123)  

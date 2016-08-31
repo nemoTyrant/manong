@@ -5,3 +5,4 @@
 [Kafka vs RocketMQ：Topic 数量对单机性能的影响](http://weekly.manong.io/bounce?url=http%3A%2F%2Fjm.taobao.org%2F2016%2F04%2F01%2Fkafka-vs-rabbitmq-vs-rocketmq-message-send-performance%2F&aid=6163&nid=117)  
 [Kafka 深度解析（2015）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jasongj.com%2F2015%2F01%2F02%2FKafka%25E6%25B7%25B1%25E5%25BA%25A6%25E8%25A7%25A3%25E6%259E%2590%2F&aid=6190&nid=117)  
 [Flume + Kafka 收集 Docker 容器内分布式日志应用实践](http://weekly.manong.io/bounce?url=http%3A%2F%2Fneoremind.com%2F2016%2F05%2Fflumekafka%25E6%2594%25B6%25E9%259B%2586docker%25E5%25AE%25B9%25E5%2599%25A8%25E5%2586%2585%25E5%2588%2586%25E5%25B8%2583%25E5%25BC%258F%25E6%2597%25A5%25E5%25BF%2597%25E5%25BA%2594%25E7%2594%25A8%25E5%25AE%259E%25E8%25B7%25B5%2F&aid=6247&nid=118)  
+[Kafka 设计解析](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jasongj.com%2F2015%2F03%2F10%2FKafkaColumn1%2F&aid=6657&nid=123)  

@@ -44,3 +44,6 @@
 [React Native Redux FeInn](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Ffebobo%2Freact-native-redux-FeInn&aid=6521&nid=121)  
 [React Native 从入门到原理](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2F978c4bd3a759&aid=6552&nid=122)  
 [学习 React Native 必看的开源项目（一）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.lcode.org%2Fstudy-react-native-opensource-one%2F&aid=6589&nid=122)  
+[[译] 使用 React Native 一年后的感受](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.dobest.me%2Fblog%2F2016%2F06%2F12%2F%25E4%25BD%25BF%25E7%2594%25A8React%2520Native%25E4%25B8%2580%25E5%25B9%25B4%25E5%2590%258E%25E7%259A%2584%25E6%2584%259F%25E5%258F%2597%2F&aid=6623&nid=123)  
+[超详细 React Native 实现微信好友/朋友圈分享功能](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.lcode.org%2F%25e8%25b6%2585%25e8%25af%25a6%25e7%25bb%2586react-native%25e5%25ae%259e%25e7%258e%25b0%25e5%25be%25ae%25e4%25bf%25a1%25e5%25a5%25bd%25e5%258f%258b%25e6%259c%258b%25e5%258f%258b%25e5%259c%2588%25e5%2588%2586%25e4%25ba%25ab%25e5%258a%259f%25e8%2583%25bd-androidios%25e5%258f%258c%25e5%25b9%25b3%25e5%258f%25b0%2F&aid=6624&nid=123)  
+[React Native 开发 IDE 选型和配置](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2F8e9df5f85bca&aid=6638&nid=123)  

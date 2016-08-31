@@ -6,3 +6,4 @@
 [[译] DevOps 工具大全](http://weekly.manong.io/bounce?url=http%3A%2F%2Fopenskill.cn%2Farticle%2F159&aid=4002&nid=92)  
 [DevOps 实用资源整理](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwsgzao.github.io%2Fpost%2Fdevops%2F&aid=4774&nid=100)  
 [[PDF] 2015 DevOps 现状调查报告](http://weekly.manong.io/bounce?url=http%3A%2F%2Fpan.baidu.com%2Fs%2F1miQtlws&aid=5699&nid=111)  
+[DevOps 实战：百度持续交付体系与最佳实践大解密](http://weekly.manong.io/bounce?url=http%3A%2F%2Fdbaplus.cn%2Fnews-21-471-1.html&aid=6651&nid=123)  

@@ -225,3 +225,8 @@
 [[译] JAR 地狱](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.u-trust.me%2F2016%2F05%2F30%2Fwhat-is-jar-hell%2F&aid=6542&nid=122)  
 [别人再问你设计模式，叫他看这篇文章](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jasongj.com%2Fdesign_pattern%2Fsummary%2F&aid=6560&nid=122)  
 [实现 MyBatis Mapper XML 文件增量动态刷新、自动加载、热加载和热部署](http://weekly.manong.io/bounce?url=http%3A%2F%2Fthinkgem.iteye.com%2Fblog%2F2304557&aid=6566&nid=122)  
+[[译] Java HashMap 原理探究](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jointforce.com%2Fjfperiodical%2Farticle%2F2037&aid=6610&nid=123)  
+[Java 进阶（三）：多线程开发关键技术](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jasongj.com%2Fjava%2Fmulti_thread%2F&aid=6611&nid=123)  
+[深度剖析 JDK 动态代理机制](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.cnblogs.com%2FMOBIN%2Fp%2F5597215.html&aid=6637&nid=123)  
+[在 Tomcat 中使用 HTTP/2](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI3MTEwODc5Ng%3D%3D%26mid%3D2650859179%26idx%3D1%26sn%3De54f897fc4fd645a34aaa0a601583b14%23rd&aid=6655&nid=123)  
+[《Netty 实战》中文精简版](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwaylau.com%2Fessential-netty-in-action%2F&aid=6632&nid=123)  

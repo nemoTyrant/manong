@@ -85,3 +85,4 @@
 [用 Docker 做自动化持续集成](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftesterhome.com%2Ftopics%2F4579&aid=5858&nid=113)  
 [Docker 入门](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.epubit.com.cn%2Farticle%2F531&aid=6178&nid=117)  
 [Docker 化运维方式](http://weekly.manong.io/bounce?url=http%3A%2F%2Fjm.taobao.org%2F2016%2F06%2F08%2Fdocker-maintenance%2F&aid=6559&nid=122)  
+[Docker 快速入门指引](http://weekly.manong.io/bounce?url=https%3A%2F%2Fyuansir-web.com%2F2016%2F06%2F14%2Fdocker-kuai-su-ru-men-zhi-yin%2F&aid=6649&nid=123)  

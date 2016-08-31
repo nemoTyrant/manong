@@ -298,3 +298,5 @@
 [44 个 JavaScript 变态题解析（下）](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fxiaoyu2er%2Fblog%2Fissues%2F3&aid=6553&nid=122)  
 [使用 Vue.js 从零构建 GitHub 项目浏览器](http://weekly.manong.io/bounce?url=http%3A%2F%2Fxlbd.me%2Fvue-demo-github-file-explorer%2F&aid=6586&nid=122)  
 [jQuery WeUI：可能是最好用 WeUI 版本](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Flihongxun945%2Fjquery-weui&aid=6596&nid=122)  
+[理解 JavaScript 的 prototype 和 __proto__](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fdreamapplehappy%2Fhacking-with-javascript%2Fblob%2Fmaster%2Fpoints%2Funderstand-prototype-__proto__.md&aid=6625&nid=123)  
+[学习 RxJS：Cycle.js](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.moye.me%2F2016%2F06%2F16%2Flearning_rxjs_part_two_cycle-js%2F&aid=6658&nid=123)  

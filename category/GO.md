@@ -229,3 +229,5 @@
 [Go 语言并发的设计模式之一：生成器、服务化、多路复合](http://weekly.manong.io/bounce?url=http%3A%2F%2Fforum.blockchain-university.org%2Ftopic%2F46%2Fgo%25E8%25AF%25AD%25E8%25A8%2580%25E5%25B9%25B6%25E5%258F%2591%25E7%259A%2584%25E8%25AE%25BE%25E8%25AE%25A1%25E6%25A8%25A1%25E5%25BC%258F%25E4%25B9%258B%25E4%25B8%2580-%25E7%2594%259F%25E6%2588%2590%25E5%2599%25A8-%25E6%259C%258D%25E5%258A%25A1%25E5%258C%2596-%25E5%25A4%259A%25E8%25B7%25AF%25E5%25A4%258D%25E5%2590%2588&aid=6478&nid=121)  
 [从 Baa 开发中总结 Go 语言性能渐进优化](http://weekly.manong.io/bounce?url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000005690821&aid=6550&nid=122)  
 [使用 Go 实现 TLS 服务器和客户端](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcolobu.com%2F2016%2F06%2F07%2Fsimple-golang-tls-examples%2F&aid=6551&nid=122)  
+[深入 Go 语言（三）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcolobu.com%2F2016%2F06%2F16%2Fdive-into-go-3%2F&aid=6621&nid=123)  
+[Go 语言的 Http 并发](http://weekly.manong.io/bounce?url=https%3A%2F%2Fxiequan.info%2Fgo%25E8%25AF%25AD%25E8%25A8%2580%25E7%259A%2584http%25E5%25B9%25B6%25E5%258F%2591%2F&aid=6622&nid=123)  

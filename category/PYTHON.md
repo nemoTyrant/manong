@@ -244,3 +244,5 @@
 [三天搞定 Python](http://weekly.manong.io/bounce?url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F21332075&aid=6548&nid=122)  
 [[译] Guido 老爹谈 Python 的未来](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.codingpy.com%2Farticle%2Fguido-van-rossum-on-pythons-next-steps%2F&aid=6549&nid=122)  
 [Django 起飞必备工具箱](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.factj.com%2Farchives%2F520.html%3Ffrom%3Dtoutiao.io&aid=6590&nid=122)  
+[[译] 在 Python 中实现你自己的推荐系统](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fictar%2Fpythondocument%2Fblob%2Fmaster%2FScience%2520and%2520Data%2520Analysis%2F%25E5%259C%25A8Python%25E4%25B8%25AD%25E5%25AE%259E%25E7%258E%25B0%25E4%25BD%25A0%25E8%2587%25AA%25E5%25B7%25B1%25E7%259A%2584%25E6%258E%25A8%25E8%258D%2590%25E7%25B3%25BB%25E7%25BB%259F.md&aid=6619&nid=123)  
+[《Think Python 2e》中译本第 21 章：算法分析](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcodingpy.com%2Fbooks%2Fthinkpython2%2F21-analysis-of-algorithms.html%3Ff%3Dtt&aid=6620&nid=123)  

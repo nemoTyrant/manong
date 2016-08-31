@@ -444,3 +444,8 @@
 [路由跳转的思考（iOS）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fawhisper.github.io%2F2016%2F06%2F12%2F%25E8%25B7%25AF%25E7%2594%25B1%25E8%25B7%25B3%25E8%25BD%25AC%25E7%259A%2584%25E6%2580%259D%25E8%2580%2583%2F&aid=6545&nid=122)  
 [iOS 开发中 Strong 和 weak 的深入理解](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2F2a2e1f0849ef&aid=6546&nid=122)  
 [JPFPSStatus：用来显示 FPS 状态在 iOS 状态栏](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fjoggerplus%2FJPFPSStatus%2Fblob%2Fmaster%2FREADME_Chinese.md&aid=6597&nid=122)  
+[iOS 10 给开发者带来了什么](http://weekly.manong.io/bounce?url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F21348691&aid=6615&nid=123)  
+[利用 Lua 实现 App 动态化方案（iOS）](http://weekly.manong.io/bounce?url=http%3A%2F%2Flastdays.cn%2F2016%2F06%2F14%2FLua%2F&aid=6616&nid=123)  
+[使用 JavaScriptCore 实现 JS 和 OC 间的通信](http://weekly.manong.io/bounce?url=https%3A%2F%2Fimciel.com%2F2016%2F06%2F18%2Foc-js-communication%2F&aid=6618&nid=123)  
+[[译] App Store 审核条款更新](http://weekly.manong.io/bounce?url=http%3A%2F%2Fgames.qq.com%2Fa%2F20160615%2F040685.htm&aid=6629&nid=123)  
+[xTextHandler：Xcode 插件集](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fcyanzhong%2FxTextHandler%2F&aid=6664&nid=123)  

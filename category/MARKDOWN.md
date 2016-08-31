@@ -10,3 +10,4 @@
 [nodePPT：使用 Markdown 语法来写网页 PPT](http://weekly.manong.io/bounce?url=http%3A%2F%2Fjs8.in%2F2013%2F11%2F16%2F%25E6%258E%25A8%25E8%258D%2590nodeppt%25EF%25BC%259A%25E4%25BD%25BF%25E7%2594%25A8markdown%25E8%25AF%25AD%25E6%25B3%2595%25E6%259D%25A5%25E5%2586%2599%25E7%25BD%2591%25E9%25A1%25B5ppt%2F&aid=4129&nid=93)  
 [自动将博客园文章导出到 markdown 文件](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.parryqiu.com%2F2016%2F01%2F24%2Fgenerate_cnblogs_article_to_markdown%2F&aid=5134&nid=104)  
 [仿 Djangobook 的 Markdown 文章评注系统](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.dongwm.com%2Farchives%2Ffang-djangobookde-markdownwen-zhang-ping-zhu-xi-tong%2F&aid=5407&nid=107)  
+[让你爱上写作的 11 款 Markdown 工具](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.ifanr.com%2Fapp%2F665209&aid=6633&nid=123)  

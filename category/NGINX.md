@@ -25,3 +25,5 @@
 [nginx-1.9.2 代码理解及详细注释](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fy123456yz%2Freading-code-of-nginx-1.9.2&aid=6031&nid=115)  
 [Nginx 基础架构](http://weekly.manong.io/bounce?url=http%3A%2F%2Fandremouche.github.io%2Fnginx%2Fnginx-internal-basic-architecture.html&aid=6180&nid=117)  
 [[译] 介绍 Nginx 微服务参考架构](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jointforce.com%2Fjfperiodical%2Farticle%2F1657&aid=6358&nid=119)  
+[浅谈 nginx + Lua 在安全中的一些应用](http://weekly.manong.io/bounce?url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F21362834&aid=6645&nid=123)  
+[聊聊高并发系统之限流特技（二）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIwODA4NjMwNA%3D%3D%26mid%3D2652897782%26idx%3D1%26sn%3Dcb46b23b2778f14ea3bcc419eb0392ce&aid=6606&nid=123)  

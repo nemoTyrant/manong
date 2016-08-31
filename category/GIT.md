@@ -123,3 +123,4 @@
 [向 GitHub 提交代码](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA4NTQwNDcyMA%3D%3D%26mid%3D2650661821%26idx%3D1%26sn%3Dc6116ed82bff2d083bb152fbd8cbc38d&aid=6486&nid=121)  
 [使用原理视角看 Git](http://weekly.manong.io/bounce?url=https%3A%2F%2Fblog.coding.net%2Fblog%2Fprinciple-of-Git&aid=6565&nid=122)  
 [Git 那些事儿](http://weekly.manong.io/bounce?url=https%3A%2F%2Fwujunze.com%2Fgit_something.jsp&aid=6578&nid=122)  
+[Git 进阶](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA4NTQwNDcyMA%3D%3D%26mid%3D2650661929%26idx%3D1%26sn%3D69e00516a30723c5a20af3c7a84173a4&aid=6643&nid=123)  

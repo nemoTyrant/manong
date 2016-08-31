@@ -266,3 +266,6 @@
 [[译] 5 月 15 个有趣的 CSS 和 JavaScript 库](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jcodecraeer.com%2Fa%2Fqianduankaifa%2Fcss3%2F2016%2F0608%2F4343.html&aid=6579&nid=122)  
 [天猫前端基础技术体系 MAP 简介](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Ftmallfe%2Ftmallfe.github.io%2Fissues%2F38&aid=6561&nid=122)  
 [高性能滚动 scroll 及页面渲染优化](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.cnblogs.com%2Fcoco1s%2Fp%2F5499469.html%3Ff%3Dtt&aid=6576&nid=122)  
+[移动端全兼容的 flexbox 速成班](http://weekly.manong.io/bounce?url=https%3A%2F%2Fisux.tencent.com%2Fflexbox.html%3Ff%3Dtt&aid=6630&nid=123)  
+[如何重构一个大型历史项目：百度经验改版总结](http://weekly.manong.io/bounce?url=http%3A%2F%2Fyanhaijing.com%2Fprogram%2F2016%2F04%2F14%2Fhow-to-reconstruct-a-large-historical-project%2F&aid=6604&nid=123)  
+[WeFlow：腾讯出品的高效、强大、跨平台的前端开发工作流工具](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fweixin%2FWeFlow&aid=6668&nid=123)  
