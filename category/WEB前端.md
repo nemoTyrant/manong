@@ -269,3 +269,8 @@
 [移动端全兼容的 flexbox 速成班](http://weekly.manong.io/bounce?url=https%3A%2F%2Fisux.tencent.com%2Fflexbox.html%3Ff%3Dtt&aid=6630&nid=123)  
 [如何重构一个大型历史项目：百度经验改版总结](http://weekly.manong.io/bounce?url=http%3A%2F%2Fyanhaijing.com%2Fprogram%2F2016%2F04%2F14%2Fhow-to-reconstruct-a-large-historical-project%2F&aid=6604&nid=123)  
 [WeFlow：腾讯出品的高效、强大、跨平台的前端开发工作流工具](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fweixin%2FWeFlow&aid=6668&nid=123)  
+[[译] 使用 webpack 更加智能的编译 CSS](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.xunuo.com%2Fsmarter-css-builds-with-webpack%2F&aid=6694&nid=124)  
+[前端自动化工具推荐](http://weekly.manong.io/bounce?url=http%3A%2F%2Ffetalk.net%2F2016%2F06%2F25%2F%25E5%2589%258D%25E7%25AB%25AF%25E8%2587%25AA%25E5%258A%25A8%25E5%258C%2596%25E5%25B7%25A5%25E5%2585%25B7%25E6%258E%25A8%25E8%258D%2590%2F%3Ff%3Dtt&aid=6701&nid=124)  
+[100 个弹框设计小结](http://weekly.manong.io/bounce?url=https%3A%2F%2Fisux.tencent.com%2F100%25E4%25B8%25AA%25E5%25BC%25B9%25E6%25A1%2586%25E8%25AE%25BE%25E8%25AE%25A1%25E5%25B0%258F%25E7%25BB%2593.html&aid=6710&nid=124)  
+[渲染性能](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fsundway%2Fblog%2Fissues%2F2&aid=6727&nid=124)  
+[零基础的前端开发初学者应如何系统地学习？](http://weekly.manong.io/bounce?url=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F19834302%2Fanswer%2F13108148&aid=6729&nid=124)  

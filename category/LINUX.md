@@ -100,3 +100,4 @@
 [Linux 进程管理](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FJunnplus%2Fblog%2Fissues%2F6&aid=6259&nid=118)  
 [Linux 堆内存管理深入分析（下）](http://weekly.manong.io/bounce?url=https%3A%2F%2Fjaq.alibaba.com%2Fcommunity%2Fart%2Fshow%3Farticleid%3D334&aid=6434&nid=120)  
 [ZFS 那点事](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftimtang.me%2Fblog%2F2016%2F05%2F31%2Fsmartos-zfs-you-should-know&aid=6501&nid=121)  
+[Linux 的内存回收和交换](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIxNDMyODgyMA%3D%3D%26mid%3D2247483702%26idx%3D1%26sn%3D70bd51372d176dedcdf6465c36e5c7ae&aid=6696&nid=124)  

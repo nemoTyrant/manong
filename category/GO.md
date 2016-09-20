@@ -231,3 +231,4 @@
 [使用 Go 实现 TLS 服务器和客户端](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcolobu.com%2F2016%2F06%2F07%2Fsimple-golang-tls-examples%2F&aid=6551&nid=122)  
 [深入 Go 语言（三）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcolobu.com%2F2016%2F06%2F16%2Fdive-into-go-3%2F&aid=6621&nid=123)  
 [Go 语言的 Http 并发](http://weekly.manong.io/bounce?url=https%3A%2F%2Fxiequan.info%2Fgo%25E8%25AF%25AD%25E8%25A8%2580%25E7%259A%2584http%25E5%25B9%25B6%25E5%258F%2591%2F&aid=6622&nid=123)  
+[深入 Go 语言（六）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcolobu.com%2F2016%2F06%2F21%2Fdive-into-go-6%2F&aid=6690&nid=124)  

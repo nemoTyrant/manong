@@ -74,3 +74,4 @@
 [为什么你的 MySQL 跑得很慢？](http://weekly.manong.io/bounce?url=http%3A%2F%2Fdbaplus.cn%2Fnews-11-432-1.html&aid=6356&nid=119)  
 [[译] 当规模到亿级，MySQL 是一个更好的 NoSQL](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jointforce.com%2Fjfperiodical%2Farticle%2F1878&aid=6489&nid=121)  
 [MySQL-Binlog：binlog 解析软件](http://weekly.manong.io/bounce?url=http%3A%2F%2Fgit.oschina.net%2Fqiangzigege%2FMySQL-Binlog&aid=6524&nid=121)  
+[MySQL 架构优化实战系列（二）：主从复制同步与查询性能调优](http://weekly.manong.io/bounce?url=http%3A%2F%2Fdbaplus.cn%2Fnews-11-492-1.html&aid=6713&nid=124)  

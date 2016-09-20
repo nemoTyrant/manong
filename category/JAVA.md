@@ -230,3 +230,7 @@
 [深度剖析 JDK 动态代理机制](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.cnblogs.com%2FMOBIN%2Fp%2F5597215.html&aid=6637&nid=123)  
 [在 Tomcat 中使用 HTTP/2](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI3MTEwODc5Ng%3D%3D%26mid%3D2650859179%26idx%3D1%26sn%3De54f897fc4fd645a34aaa0a601583b14%23rd&aid=6655&nid=123)  
 [《Netty 实战》中文精简版](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwaylau.com%2Fessential-netty-in-action%2F&aid=6632&nid=123)  
+[Java 8 系列之重新认识 HashMap](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftech.meituan.com%2Fjava-hashmap.html&aid=6681&nid=124)  
+[Spring 的本质系列（一）：依赖注入](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAxOTc0NzExNg%3D%3D%26mid%3D2665513179%26idx%3D1%26sn%3D772226a5be436a0d08197c335ddb52b8%23rd&aid=6682&nid=124)  
+[Tomcat 架构探索](http://weekly.manong.io/bounce?url=http%3A%2F%2Fthreezj.com%2F2016%2F06%2F25%2FTomcat%2520%25E6%259E%25B6%25E6%259E%2584%25E6%258E%25A2%25E7%25B4%25A2%2F&aid=6709&nid=124)  
+[互联网新人如何入门和掌握 Java 开发](http://weekly.manong.io/bounce?url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F21371311&aid=6680&nid=124)  

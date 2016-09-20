@@ -449,3 +449,8 @@
 [使用 JavaScriptCore 实现 JS 和 OC 间的通信](http://weekly.manong.io/bounce?url=https%3A%2F%2Fimciel.com%2F2016%2F06%2F18%2Foc-js-communication%2F&aid=6618&nid=123)  
 [[译] App Store 审核条款更新](http://weekly.manong.io/bounce?url=http%3A%2F%2Fgames.qq.com%2Fa%2F20160615%2F040685.htm&aid=6629&nid=123)  
 [xTextHandler：Xcode 插件集](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fcyanzhong%2FxTextHandler%2F&aid=6664&nid=123)  
+[浅谈 iOS 应用安全自动化审计](http://weekly.manong.io/bounce?url=https%3A%2F%2Fsecurity.tencent.com%2Findex.php%2Fblog%2Fmsg%2F105&aid=6686&nid=124)  
+[“零行代码” 解决键盘遮挡问题（iOS）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fdraveness.me%2Fkeyboard%2F&aid=6687&nid=124)  
+[UITableView 小贴士](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fvedon%2FiOS-tech%2Fblob%2Fmaster%2FUITableViewOpt%2FUITableView_Opt.md&aid=6688&nid=124)  
+[实现易扩展的 Xcode 文本编辑插件](http://weekly.manong.io/bounce?url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F21396203&aid=6717&nid=124)  
+[PlaceholderView：在任何视图上添加默认视图（iOS）](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Frenmoqiqi%2FPlaceholderView%2Fblob%2Fmaster%2FREADME.md&aid=6733&nid=124)  

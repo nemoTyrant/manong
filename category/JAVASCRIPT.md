@@ -300,3 +300,7 @@
 [jQuery WeUI：可能是最好用 WeUI 版本](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Flihongxun945%2Fjquery-weui&aid=6596&nid=122)  
 [理解 JavaScript 的 prototype 和 __proto__](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fdreamapplehappy%2Fhacking-with-javascript%2Fblob%2Fmaster%2Fpoints%2Funderstand-prototype-__proto__.md&aid=6625&nid=123)  
 [学习 RxJS：Cycle.js](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.moye.me%2F2016%2F06%2F16%2Flearning_rxjs_part_two_cycle-js%2F&aid=6658&nid=123)  
+[[译] 自文档化的 JavaScript 代码的开发方法](http://weekly.manong.io/bounce?url=http%3A%2F%2Fjixianqianduan.com%2Farticle-translation%2F2016%2F06%2F22%2Fways-to-write-self-documenting-js.html&aid=6693&nid=124)  
+[GitKit.js：纯 JavaScript 实现的 Git](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FSamyPesse%2Fgitkit-js&aid=6736&nid=124)  
+[ScreenCat：JS 实现的屏幕共享和远程协作应用](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fmaxogden%2Fscreencat&aid=6738&nid=124)  
+[timeago.js：将 datetime 时间转化成类似于 “*** 时间前” 的 JS 库](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fhustcc%2Ftimeago.js%2Fblob%2Fmaster%2FREADME_zh.md&aid=6740&nid=124)  

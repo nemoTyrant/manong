@@ -124,3 +124,5 @@
 [使用原理视角看 Git](http://weekly.manong.io/bounce?url=https%3A%2F%2Fblog.coding.net%2Fblog%2Fprinciple-of-Git&aid=6565&nid=122)  
 [Git 那些事儿](http://weekly.manong.io/bounce?url=https%3A%2F%2Fwujunze.com%2Fgit_something.jsp&aid=6578&nid=122)  
 [Git 进阶](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA4NTQwNDcyMA%3D%3D%26mid%3D2650661929%26idx%3D1%26sn%3D69e00516a30723c5a20af3c7a84173a4&aid=6643&nid=123)  
+[[译] 30 分钟 Git 命令入门到放弃](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.w3ctrain.com%2F2016%2F06%2F26%2Flearn-git-in-30-minutes%2F&aid=6703&nid=124)  
+[Git 分支管理最佳实践](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.ibm.com%2Fdeveloperworks%2Fcn%2Fjava%2Fj-lo-git-mange%2Findex.html&aid=6730&nid=124)  
