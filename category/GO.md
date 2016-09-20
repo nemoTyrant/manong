@@ -232,3 +232,5 @@
 [深入 Go 语言（三）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcolobu.com%2F2016%2F06%2F16%2Fdive-into-go-3%2F&aid=6621&nid=123)  
 [Go 语言的 Http 并发](http://weekly.manong.io/bounce?url=https%3A%2F%2Fxiequan.info%2Fgo%25E8%25AF%25AD%25E8%25A8%2580%25E7%259A%2584http%25E5%25B9%25B6%25E5%258F%2591%2F&aid=6622&nid=123)  
 [深入 Go 语言（六）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcolobu.com%2F2016%2F06%2F21%2Fdive-into-go-6%2F&aid=6690&nid=124)  
+[深入理解 Go 的 slice 和到底什么时候该用 slice](http://weekly.manong.io/bounce?url=http%3A%2F%2Fstudygolang.com%2Ftopics%2F1755&aid=6757&nid=125)  
+[如何监控 Golang 程序的垃圾回收](http://weekly.manong.io/bounce?url=https%3A%2F%2Fholys.im%2F2016%2F07%2F01%2Fmonitor-golang-gc%2F&aid=6758&nid=125)  

@@ -7,3 +7,4 @@
 [R 语言程序开发（中文版）](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fs%2Fdkkd&aid=1975&nid=63)  
 [R 语言金融量化投资分析包 quantmod 学习笔记 (@邓一硕)](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fdengyishuo%2FNotes%2Ftree%2Fmaster%2Fquantmod&aid=2779&nid=78)  
 [100 "must read" R-bloggers' posts for 2015](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.r-bloggers.com%2F100-must-read-r-bloggers-posts-for-2015%2F&aid=5093&nid=104)  
+[[译] 教你如何用 R 进行数据挖掘](http://weekly.manong.io/bounce?url=http%3A%2F%2Fshujuren.org%2Farticle%2F95.html&aid=6761&nid=125)  

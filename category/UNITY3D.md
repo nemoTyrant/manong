@@ -5,3 +5,4 @@
 [Unity 实践系列 (3/n) UMetaLod - 一个通用的增强版 LOD 方案 (顾露-Gu_Lu)](http://weekly.manong.io/bounce?url=http%3A%2F%2Fgulu-dev.com%2Fpost%2F2015-07-19-umetalod&aid=2951&nid=80)  
 [Unity 超级角色控制器（四）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fjjyy.guru%2Fsuper-character-controller-part4%2F&aid=5119&nid=104)  
 [Unity 下常见 Lua 解决方案性能比较](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fqiankanglai%2Funity_lua_benchmark&aid=5296&nid=106)  
+[腾讯是如何做 Unity 手游性能优化的](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwetest.qq.com%2Flab%2Fview%2F108.html%3Ffrom%3Dcontent_toutiao&aid=6791&nid=125)  

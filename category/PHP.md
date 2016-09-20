@@ -128,3 +128,4 @@
 [设计模式：PHP 和 Go 语言实现](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fhoohack%2FDesignPattern&aid=6519&nid=121)  
 [2016 版 Laravel 系列入门教程（一）](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fjohnlui%2FLearn-Laravel-5%2Fissues%2F4&aid=6588&nid=122)  
 [PHP 弱类型安全问题总结](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.spoock.com%2F2016%2F06%2F25%2Fweakly-typed-security%2F&aid=6689&nid=124)  
+[[译] Laravel 5.3 新特性](http://weekly.manong.io/bounce?url=http%3A%2F%2F9iphp.com%2Fweb%2Flaravel%2Flook-whats-coming-laravel-5-3.html&aid=6794&nid=125)  

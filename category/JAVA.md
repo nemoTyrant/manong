@@ -234,3 +234,6 @@
 [Spring 的本质系列（一）：依赖注入](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAxOTc0NzExNg%3D%3D%26mid%3D2665513179%26idx%3D1%26sn%3D772226a5be436a0d08197c335ddb52b8%23rd&aid=6682&nid=124)  
 [Tomcat 架构探索](http://weekly.manong.io/bounce?url=http%3A%2F%2Fthreezj.com%2F2016%2F06%2F25%2FTomcat%2520%25E6%259E%25B6%25E6%259E%2584%25E6%258E%25A2%25E7%25B4%25A2%2F&aid=6709&nid=124)  
 [互联网新人如何入门和掌握 Java 开发](http://weekly.manong.io/bounce?url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F21371311&aid=6680&nid=124)  
+[Java 并发原理无废话指南](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIxMjAzMDA1MQ%3D%3D%26mid%3D2648945421%26idx%3D1%26sn%3D98b9c1b5fa004ec49d1f9f0484185c38%23rd&aid=6750&nid=125)  
+[[译] 构建高性能 Java 持久层的 14 个建议](http://weekly.manong.io/bounce?url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000005840435&aid=6751&nid=125)  
+[SeimiCrawler：敏捷、独立部署、支持分布式的 Java 爬虫框架](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fzhegexiaohuozi%2FSeimiCrawler&aid=6809&nid=125)  

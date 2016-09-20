@@ -248,3 +248,5 @@
 [《Think Python 2e》中译本第 21 章：算法分析](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcodingpy.com%2Fbooks%2Fthinkpython2%2F21-analysis-of-algorithms.html%3Ff%3Dtt&aid=6620&nid=123)  
 [Python 类中 __new__ 和 __init__ 方法区别](http://weekly.manong.io/bounce?url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F21379984&aid=6692&nid=124)  
 [tickets：Python 实现的命令行火车票查看器](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fprotream%2Ftickets&aid=6737&nid=124)  
+[Python 中 import 的机制与实现](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FLiuchang0812%2Fslides%2Fblob%2Fmaster%2Fpycon2015cn%2FREADME.md%3Ff%3Dtt&aid=6760&nid=125)  
+[如何学习 Python 爬虫](http://weekly.manong.io/bounce?url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F21479334&aid=6777&nid=125)  

@@ -10,7 +10,7 @@
 
 56期为14年最受欢迎列表，请直接浏览[原地址](http://weekly.manong.io/issues/56)
 
-现在已整理到第124期。
+现在已整理到第125期。
 
 由于现在条目过多，在同一页显示全部内容已不再合适，所以按分类写到了不同文件里。仍然想以全部内容方式查看的可以点击[all.md](category/all.md)浏览。
 
@@ -92,6 +92,7 @@
 [数据结构/算法](category/数据结构_算法.md)  
 [日志相关](category/日志相关.md)  
 [消息队列](category/消息队列.md)  
+[游戏相关](category/游戏相关.md)  
 [程序设计](category/程序设计.md)  
 [编程之外](category/编程之外.md)  
 [编程工具](category/编程工具.md)  

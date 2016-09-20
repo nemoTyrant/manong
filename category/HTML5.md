@@ -22,3 +22,4 @@
 [30 款高质量的 HTML5 / CSS3 响应式模板](http://weekly.manong.io/bounce?url=https%3A%2F%2Flinmi.cc%2F334&aid=6121&nid=116)  
 [APlayer：HTML5 音乐播放器](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FDIYgod%2FAPlayer&aid=6203&nid=117)  
 [egret 引擎初探](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Friskers%2Fblog%2Fissues%2F23&aid=6186&nid=117)  
+[HTML5 视频直播一站式扫盲](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA3NTYzODYzMg%3D%3D%26mid%3D2653577297%26idx%3D1%26sn%3Da292ff3b499168f4eb589e40b7aa6d13&aid=6762&nid=125)  

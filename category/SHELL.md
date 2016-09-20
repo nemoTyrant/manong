@@ -26,3 +26,6 @@
 [Shell 编程之内建命令](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIxNDMyODgyMA%3D%3D%26mid%3D2247483695%26idx%3D1%26sn%3D54f10d647035a1b572736a7b1731fe29&aid=6555&nid=122)  
 [Shell 编程之常用技巧](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIxNDMyODgyMA%3D%3D%26mid%3D2247483698%26idx%3D1%26sn%3D3b52493d202362aae0bf511002e63d52&aid=6627&nid=123)  
 [打造属于自己的个性化终端](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcodingpy.com%2Farticle%2Fcustomize-your-terminal%2F&aid=6706&nid=124)  
+[sed 命令进阶](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIxNDMyODgyMA%3D%3D%26mid%3D2247483706%26idx%3D1%26sn%3D84353370074c1aef6e9f64efad9482ae&aid=6767&nid=125)  
+[多姿多彩的 cat 命令](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcodingpy.com%2Farticle%2Fa-new-colorful-cat%2F&aid=6797&nid=125)  
+[tcpdump：理论、自动抓包及业务架构树的生成](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA4Nzg5Nzc5OA%3D%3D%26mid%3D2651660526%26idx%3D1%26sn%3Dfca5b6ee36cf8f4b2baeb2434439e48e%23rd&aid=6800&nid=125)  

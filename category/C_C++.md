@@ -107,3 +107,5 @@
 [libel：C 实现的简单的事件驱动库](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fluohaha%2Flibel&aid=6593&nid=122)  
 [[译] 堆和栈的内存分配](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fwizardforcel%2Flcthw-zh%2Fblob%2Fmaster%2Fex17.md&aid=6569&nid=122)  
 [Checked C：更安全的 C 语言版本](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FMicrosoft%2Fcheckedc&aid=6666&nid=123)  
+[笨办法学 C 中文版](http://weekly.manong.io/bounce?url=https%3A%2F%2Fwizardforcel.gitbooks.io%2Flcthw%2Fcontent%2Fpreface.html&aid=6768&nid=125)  
+[C/C++ 语言学习资料汇总](http://weekly.manong.io/bounce?url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F21472075&aid=6770&nid=125)  

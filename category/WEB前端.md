@@ -274,3 +274,7 @@
 [100 个弹框设计小结](http://weekly.manong.io/bounce?url=https%3A%2F%2Fisux.tencent.com%2F100%25E4%25B8%25AA%25E5%25BC%25B9%25E6%25A1%2586%25E8%25AE%25BE%25E8%25AE%25A1%25E5%25B0%258F%25E7%25BB%2593.html&aid=6710&nid=124)  
 [渲染性能](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fsundway%2Fblog%2Fissues%2F2&aid=6727&nid=124)  
 [零基础的前端开发初学者应如何系统地学习？](http://weekly.manong.io/bounce?url=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F19834302%2Fanswer%2F13108148&aid=6729&nid=124)  
+[深度剖析 CSS 预处理器](http://weekly.manong.io/bounce?url=http%3A%2F%2Fdiv.io%2Ftopic%2F1768%2F&aid=6764&nid=125)  
+[如何 10 倍提高你的 Webpack 构建效率](http://weekly.manong.io/bounce?url=http%3A%2F%2Feternalsky.me%2Fru-he-10-bei-ti-gao-ni-de-webpack-gou-jian-xiao-lu%2F&aid=6771&nid=125)  
+[Web App 防坑手册](http://weekly.manong.io/bounce?url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000005864691%3Ff%3Dtt&aid=6765&nid=125)  
+[腾讯新闻 React 同构直出优化实践](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Flcxfs1991%2Fblog%2Fissues%2F10&aid=6798&nid=125)  

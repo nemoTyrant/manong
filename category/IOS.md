@@ -454,3 +454,6 @@
 [UITableView 小贴士](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fvedon%2FiOS-tech%2Fblob%2Fmaster%2FUITableViewOpt%2FUITableView_Opt.md&aid=6688&nid=124)  
 [实现易扩展的 Xcode 文本编辑插件](http://weekly.manong.io/bounce?url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F21396203&aid=6717&nid=124)  
 [PlaceholderView：在任何视图上添加默认视图（iOS）](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Frenmoqiqi%2FPlaceholderView%2Fblob%2Fmaster%2FREADME.md&aid=6733&nid=124)  
+[iOS 10 Music 架构解析](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIwMTYzMzcwOQ%3D%3D%26mid%3D2650948426%26idx%3D1%26sn%3D39660132831ca76f45c73c2c50ed47ed&aid=6754&nid=125)  
+[面向切面编程之 Aspects 源码解析及应用（iOS）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwereadteam.github.io%2F2016%2F06%2F30%2FAspects%2F&aid=6755&nid=125)  
+[ios-ipa-server：iOS IPA 分发工具](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fbumaociyuan%2Fios-ipa-server&aid=6808&nid=125)  

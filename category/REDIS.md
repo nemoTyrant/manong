@@ -68,3 +68,4 @@
 [Redis 3.2 GEO 功能支持](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.innomysql.com%2Farticle%2F25672.html&aid=6573&nid=122)  
 [Redis 之过期键删除策略](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.edagarli.com%2F2016%2F06%2F08%2FRedis%25E4%25B9%258B%25E8%25BF%2587%25E6%259C%259F%25E9%2594%25AE%25E5%2588%25A0%25E9%2599%25A4%25E7%25AD%2596%25E7%2595%25A5%2F&aid=6577&nid=122)  
 [Redis 异步化组件模型](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmy.oschina.net%2Fandylucc%2Fblog%2F693981&aid=6636&nid=123)  
+[Redis Cluster 分区实现原理](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmy.oschina.net%2Fandylucc%2Fblog%2F704440&aid=6780&nid=125)  

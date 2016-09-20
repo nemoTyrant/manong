@@ -304,3 +304,5 @@
 [GitKit.js：纯 JavaScript 实现的 Git](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FSamyPesse%2Fgitkit-js&aid=6736&nid=124)  
 [ScreenCat：JS 实现的屏幕共享和远程协作应用](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fmaxogden%2Fscreencat&aid=6738&nid=124)  
 [timeago.js：将 datetime 时间转化成类似于 “*** 时间前” 的 JS 库](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fhustcc%2Ftimeago.js%2Fblob%2Fmaster%2FREADME_zh.md&aid=6740&nid=124)  
+[JavaScript SDK (jssdk) 设计指南](http://weekly.manong.io/bounce?url=http%3A%2F%2Fjs8.in%2F2016%2F06%2F29%2Fjavascript%2520sdk%28jssdk%29%25E8%25AE%25BE%25E8%25AE%25A1%25E6%258C%2587%25E5%258D%2597%2F%3Ff%3Dtt&aid=6763&nid=125)  
+[anime.js：JavaScript 动画引擎](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fjuliangarnier%2Fanime&aid=6807&nid=125)  

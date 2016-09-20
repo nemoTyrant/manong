@@ -48,3 +48,6 @@
 [超详细 React Native 实现微信好友/朋友圈分享功能](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.lcode.org%2F%25e8%25b6%2585%25e8%25af%25a6%25e7%25bb%2586react-native%25e5%25ae%259e%25e7%258e%25b0%25e5%25be%25ae%25e4%25bf%25a1%25e5%25a5%25bd%25e5%258f%258b%25e6%259c%258b%25e5%258f%258b%25e5%259c%2588%25e5%2588%2586%25e4%25ba%25ab%25e5%258a%259f%25e8%2583%25bd-androidios%25e5%258f%258c%25e5%25b9%25b3%25e5%258f%25b0%2F&aid=6624&nid=123)  
 [React Native 开发 IDE 选型和配置](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2F8e9df5f85bca&aid=6638&nid=123)  
 [React Native 实践之携程 Moles 框架](http://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5MDI3MjA5MQ%3D%3D%26mid%3D2697265208%26idx%3D1%26sn%3D18b85e78f461c9a2e3b514b8c19e3c35&aid=6691&nid=124)  
+[React Native iOS 源码解析](http://weekly.manong.io/bounce?url=http%3A%2F%2Fawhisper.github.io%2F2016%2F06%2F24%2FReactNative%25E6%25B5%2581%25E7%25A8%258B%25E6%25BA%2590%25E7%25A0%2581%25E5%2588%2586%25E6%259E%2590%2F%3Ff%3Dtt&aid=6756&nid=125)  
+[React Native For Android 环境搭建及踩坑](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.imbeta.cn%2Freact-native-for-android-huan-jing-da-jian-ji-cai-keng.html&aid=6782&nid=125)  
+[[英] React Native 开发培训免费书](http://weekly.manong.io/bounce?url=https%3A%2F%2Funbug.gitbooks.io%2Freact-native-training%2Fcontent%2F&aid=6795&nid=125)  
