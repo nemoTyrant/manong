@@ -20,3 +20,4 @@
 [树莓派初始配置指南（2 代 B 型）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fconanwhf.gitcafe.io%2F2016%2F01%2F12%2Frpi-start%2F&aid=5040&nid=103)  
 [重新捡起你那吃灰的树莓派](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fjiajunhuang%2Fblog%2Fblob%2Fmaster%2Fraspberrypi.rst&aid=5867&nid=113)  
 [Arduino 之旅](http://weekly.manong.io/bounce?url=http%3A%2F%2Fjimmyleeking.github.io%2FYouAreWellcome%2Fhardware%2Farduino_funny%2F&aid=6491&nid=121)  
+[[译] 旅程中带着 iPad Pro 和 Raspberry Pi 备份照片](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fictar%2Fpythondocument%2Fblob%2Fmaster%2FHardware%2F%25E6%2597%2585%25E7%25A8%258B%25E4%25B8%25AD%25E5%25B8%25A6%25E7%259D%2580Ipad%2520Pro%25E5%2592%258CRaspberry%2520Pi%25E5%25A4%2587%25E4%25BB%25BD%25E7%2585%25A7%25E7%2589%2587.md&aid=6845&nid=126)  

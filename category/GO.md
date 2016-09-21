@@ -234,3 +234,6 @@
 [深入 Go 语言（六）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcolobu.com%2F2016%2F06%2F21%2Fdive-into-go-6%2F&aid=6690&nid=124)  
 [深入理解 Go 的 slice 和到底什么时候该用 slice](http://weekly.manong.io/bounce?url=http%3A%2F%2Fstudygolang.com%2Ftopics%2F1755&aid=6757&nid=125)  
 [如何监控 Golang 程序的垃圾回收](http://weekly.manong.io/bounce?url=https%3A%2F%2Fholys.im%2F2016%2F07%2F01%2Fmonitor-golang-gc%2F&aid=6758&nid=125)  
+[为 Go 语言 GC 正名](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.csdn.net%2Ferlib%2Farticle%2Fdetails%2F51850912&aid=6823&nid=126)  
+[BLog4go：Go 实现的高性能日志库](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FYoungPioneers%2Fblog4go%3Ff%3Dtt&aid=6868&nid=126)  
+[Go 语言中文网源码](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fstudygolang%2Fstudygolang&aid=6874&nid=126)  

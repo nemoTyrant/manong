@@ -457,3 +457,5 @@
 [iOS 10 Music 架构解析](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIwMTYzMzcwOQ%3D%3D%26mid%3D2650948426%26idx%3D1%26sn%3D39660132831ca76f45c73c2c50ed47ed&aid=6754&nid=125)  
 [面向切面编程之 Aspects 源码解析及应用（iOS）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwereadteam.github.io%2F2016%2F06%2F30%2FAspects%2F&aid=6755&nid=125)  
 [ios-ipa-server：iOS IPA 分发工具](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fbumaociyuan%2Fios-ipa-server&aid=6808&nid=125)  
+[使用 MVVM 减少控制器代码实战](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2Ff85363c82ea1&aid=6821&nid=126)  
+[移动开发中的视觉规范化实践](http://weekly.manong.io/bounce?url=http%3A%2F%2Fscorpiolin.github.io%2F2016%2F07%2F09%2FiOS-view-styles%2F&aid=6842&nid=126)  

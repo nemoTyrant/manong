@@ -237,3 +237,7 @@
 [Java 并发原理无废话指南](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIxMjAzMDA1MQ%3D%3D%26mid%3D2648945421%26idx%3D1%26sn%3D98b9c1b5fa004ec49d1f9f0484185c38%23rd&aid=6750&nid=125)  
 [[译] 构建高性能 Java 持久层的 14 个建议](http://weekly.manong.io/bounce?url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000005840435&aid=6751&nid=125)  
 [SeimiCrawler：敏捷、独立部署、支持分布式的 Java 爬虫框架](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fzhegexiaohuozi%2FSeimiCrawler&aid=6809&nid=125)  
+[Java 并发原理无废话指南（二）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIxMjAzMDA1MQ%3D%3D%26mid%3D2648945438%26idx%3D1%26sn%3D20deb07c871a3460b7d8d5fb2f304e05%23rd&aid=6817&nid=126)  
+[Java 后端工程师学习大纲](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.rowkey.me%2Fblog%2F2016%2F06%2F27%2Fjava-backend-study%2F&aid=6818&nid=126)  
+[Solr 的特性都在这儿了](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA5Njc0NTkwNA%3D%3D%26mid%3D402322145%26idx%3D1%26sn%3D9efbc3ad6ed008a0e45aa359f2192a26&aid=6837&nid=126)  
+[FindBugs 自定义规则入门](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftesterhome.com%2Ftopics%2F5359&aid=6848&nid=126)  

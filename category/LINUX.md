@@ -101,3 +101,6 @@
 [Linux 堆内存管理深入分析（下）](http://weekly.manong.io/bounce?url=https%3A%2F%2Fjaq.alibaba.com%2Fcommunity%2Fart%2Fshow%3Farticleid%3D334&aid=6434&nid=120)  
 [ZFS 那点事](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftimtang.me%2Fblog%2F2016%2F05%2F31%2Fsmartos-zfs-you-should-know&aid=6501&nid=121)  
 [Linux 的内存回收和交换](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIxNDMyODgyMA%3D%3D%26mid%3D2247483702%26idx%3D1%26sn%3D70bd51372d176dedcdf6465c36e5c7ae&aid=6696&nid=124)  
+[[译] Linux 性能调优指南](http://weekly.manong.io/bounce?url=https%3A%2F%2Fwww.gitbook.com%2Fbook%2Flihz1990%2Ftransoflptg%2Fdetails&aid=6838&nid=126)  
+[Linux Signal](http://weekly.manong.io/bounce?url=http%3A%2F%2Fkernel.meizu.com%2Flinux-signal.html&aid=6841&nid=126)  
+[Linux 下的五种 IO 模型](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.decaywood.me%2F2016%2F01%2F07%2Fweb-io-model%2F&aid=6844&nid=126)  

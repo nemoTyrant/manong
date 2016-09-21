@@ -250,3 +250,5 @@
 [tickets：Python 实现的命令行火车票查看器](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fprotream%2Ftickets&aid=6737&nid=124)  
 [Python 中 import 的机制与实现](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FLiuchang0812%2Fslides%2Fblob%2Fmaster%2Fpycon2015cn%2FREADME.md%3Ff%3Dtt&aid=6760&nid=125)  
 [如何学习 Python 爬虫](http://weekly.manong.io/bounce?url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F21479334&aid=6777&nid=125)  
+[Python 协程：从 yield/send 到 async/await](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.guoyb.com%2F2016%2F07%2F03%2Fpython-coroutine%2F&aid=6828&nid=126)  
+[有的 UE 画不好 PPT，好的测试却会用 Python 加薪](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwetest.qq.com%2Flab%2Fview%2F113.html%3Ffrom%3Dcontent_toutiao&aid=6850&nid=126)  

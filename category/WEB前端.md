@@ -278,3 +278,7 @@
 [如何 10 倍提高你的 Webpack 构建效率](http://weekly.manong.io/bounce?url=http%3A%2F%2Feternalsky.me%2Fru-he-10-bei-ti-gao-ni-de-webpack-gou-jian-xiao-lu%2F&aid=6771&nid=125)  
 [Web App 防坑手册](http://weekly.manong.io/bounce?url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000005864691%3Ff%3Dtt&aid=6765&nid=125)  
 [腾讯新闻 React 同构直出优化实践](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Flcxfs1991%2Fblog%2Fissues%2F10&aid=6798&nid=125)  
+[redx-vue：基于 Vue、Vuex、Vue-Router 实现的移动端 SPA 框架模版](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fredgang%2Fredx-vue%3Ff%3Dtt&aid=6872&nid=126)  
+[支付宝前端应用架构的发展和选择](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fsorrycc%2Fblog%2Fissues%2F6&aid=6833&nid=126)  
+[移动端重构实战系列：0 - 4 章](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI3MDE0MzAzMw%3D%3D%26mid%3D2652201845%26idx%3D1%26sn%3D68fec97d93bbb2838c6666f8baae9ba3&aid=6852&nid=126)  
+[神奇的 Shadow DOM](http://weekly.manong.io/bounce?url=https%3A%2F%2Faotu.io%2Fnotes%2F2016%2F06%2F24%2FShadow-DOM%2F&aid=6863&nid=126)  

@@ -41,3 +41,5 @@
 [ng2websocket：Angular2 Websocket 组件](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fvanishs%2Fng2websocket&aid=5180&nid=104)  
 [编写你的第一个 Angular2 Web 应用](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fkittencup%2Fangular2-ama-cn%2Fissues%2F24&aid=5400&nid=107)  
 [Angular 说：这个锅我不背](http://weekly.manong.io/bounce?url=http%3A%2F%2Fyalishizhude.github.io%2F2016%2F05%2F30%2F4angular%2F&aid=6408&nid=120)  
+[Angular 官方中文版](http://weekly.manong.io/bounce?url=https%3A%2F%2Fangular.cn%2Ftranslate%2Fcn%2Fhome.html&aid=6846&nid=126)  
+[尝试通过 AngularJS 模块按需加载搭建大型应用（上）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fyalishizhude.github.io%2F2016%2F07%2F07%2Fangular-large-1%2F&aid=6851&nid=126)  

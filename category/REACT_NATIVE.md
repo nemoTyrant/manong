@@ -51,3 +51,5 @@
 [React Native iOS 源码解析](http://weekly.manong.io/bounce?url=http%3A%2F%2Fawhisper.github.io%2F2016%2F06%2F24%2FReactNative%25E6%25B5%2581%25E7%25A8%258B%25E6%25BA%2590%25E7%25A0%2581%25E5%2588%2586%25E6%259E%2590%2F%3Ff%3Dtt&aid=6756&nid=125)  
 [React Native For Android 环境搭建及踩坑](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.imbeta.cn%2Freact-native-for-android-huan-jing-da-jian-ji-cai-keng.html&aid=6782&nid=125)  
 [[英] React Native 开发培训免费书](http://weekly.manong.io/bounce?url=https%3A%2F%2Funbug.gitbooks.io%2Freact-native-training%2Fcontent%2F&aid=6795&nid=125)  
+[React Native 高质量学习资料汇总](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAwMTYwNzE2Mg%3D%3D%26mid%3D2651036614%26idx%3D1%26sn%3D48a9885e13d896fa0b0b6344cda8e356&aid=6847&nid=126)  
+[聊聊我的处女作：reading](http://weekly.manong.io/bounce?url=http%3A%2F%2Frichardcao.me%2F2016%2F07%2F05%2FTalk-About-Reading%2F&aid=6862&nid=126)  

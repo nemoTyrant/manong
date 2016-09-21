@@ -102,3 +102,5 @@
 [自动化测试中如何查找界面元素](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftesterhome.com%2Ftopics%2F5054&aid=6498&nid=121)  
 [[译] 让 Node.js 应用接口稳如狗](http://weekly.manong.io/bounce?url=https%3A%2F%2Flog.zvz.im%2F2016%2F06%2F07%2FMake-your-Nodejs-API-robust%2F&aid=6582&nid=122)  
 [Hexo 主题开发指南](http://weekly.manong.io/bounce?url=http%3A%2F%2Fchensd.com%2F2016-06%2Fhexo-theme-guide.html&aid=6634&nid=123)  
+[[译] Node.js 架构概览](http://weekly.manong.io/bounce?url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000005892501&aid=6813&nid=126)  
+[Node.js Stream（基础篇）](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftech.meituan.com%2Fstream-basics.html&aid=6824&nid=126)  
