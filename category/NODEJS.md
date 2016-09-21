@@ -104,3 +104,6 @@
 [Hexo 主题开发指南](http://weekly.manong.io/bounce?url=http%3A%2F%2Fchensd.com%2F2016-06%2Fhexo-theme-guide.html&aid=6634&nid=123)  
 [[译] Node.js 架构概览](http://weekly.manong.io/bounce?url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000005892501&aid=6813&nid=126)  
 [Node.js Stream（基础篇）](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftech.meituan.com%2Fstream-basics.html&aid=6824&nid=126)  
+[Nodejs 原生支持的 ES6 特性](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.alloyteam.com%2F2016%2F07%2Fnodejs-native-support-of-the-es6-features%2F%3Ff%3Dtt&aid=6909&nid=127)  
+[教你用 Nodejs + Express + Vuejs 引爆朋友圈](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fwangxiao%2Fromantic&aid=6917&nid=127)  
+[跨入 Koa 2.0，从 Compose 开始](http://weekly.manong.io/bounce?url=https%3A%2F%2Fcnodejs.org%2Ftopic%2F5780e12e69d72f545483ca69&aid=6932&nid=127)  

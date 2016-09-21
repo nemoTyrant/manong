@@ -127,3 +127,4 @@
 [[译] 30 分钟 Git 命令入门到放弃](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.w3ctrain.com%2F2016%2F06%2F26%2Flearn-git-in-30-minutes%2F&aid=6703&nid=124)  
 [Git 分支管理最佳实践](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.ibm.com%2Fdeveloperworks%2Fcn%2Fjava%2Fj-lo-git-mange%2Findex.html&aid=6730&nid=124)  
 [Git 分治之道](http://weekly.manong.io/bounce?url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F21486693&aid=6856&nid=126)  
+[Git 存储格式与运用](http://weekly.manong.io/bounce?url=http%3A%2F%2Fforcemz.net%2Fgit%2F2016%2F07%2F10%2FGitStorage%2F&aid=6929&nid=127)  

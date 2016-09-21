@@ -109,3 +109,6 @@
 [Checked C：更安全的 C 语言版本](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FMicrosoft%2Fcheckedc&aid=6666&nid=123)  
 [笨办法学 C 中文版](http://weekly.manong.io/bounce?url=https%3A%2F%2Fwizardforcel.gitbooks.io%2Flcthw%2Fcontent%2Fpreface.html&aid=6768&nid=125)  
 [C/C++ 语言学习资料汇总](http://weekly.manong.io/bounce?url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F21472075&aid=6770&nid=125)  
+[C 模块化编程](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA3NzYzODg1OA%3D%3D%26mid%3D2648464085%26idx%3D1%26sn%3Df9c4350ea474737a9d296467ea7eaeb8&aid=6885&nid=127)  
+[STL 源码剖析：重点知识总结](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.cnblogs.com%2Fluoxn28%2Fp%2F5671988.html%3Ff%3Dtt&aid=6886&nid=127)  
+[C++ 实现银行排队服务模拟](http://weekly.manong.io/bounce?url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F21571038&aid=6887&nid=127)  

@@ -6,3 +6,4 @@
 [Unity 超级角色控制器（四）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fjjyy.guru%2Fsuper-character-controller-part4%2F&aid=5119&nid=104)  
 [Unity 下常见 Lua 解决方案性能比较](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fqiankanglai%2Funity_lua_benchmark&aid=5296&nid=106)  
 [腾讯是如何做 Unity 手游性能优化的](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwetest.qq.com%2Flab%2Fview%2F108.html%3Ffrom%3Dcontent_toutiao&aid=6791&nid=125)  
+[Pokémon Go 国内玩不了？腾讯 AR 专家教你自己做！](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwetest.qq.com%2Flab%2Fview%2F119.html%3Ffrom%3Dcontent_toutiao&aid=6914&nid=127)  

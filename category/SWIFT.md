@@ -153,3 +153,6 @@
 [迁移程序到 Swift 3.0](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2F198405c1c467&aid=6617&nid=123)  
 [Graphs：非常易用的轻量级图表绘制库（Swift）](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Frecruit-mtl%2FGraphs&aid=6735&nid=124)  
 [如何在 Swift 项目中使用 Runtime？](http://weekly.manong.io/bounce?url=http%3A%2F%2Ficetime17.github.io%2F2016%2F07%2F03%2F2016-07%2FiOS-%25E5%25A6%2582%25E4%25BD%2595%25E5%259C%25A8Swift%25E9%25A1%25B9%25E7%259B%25AE%25E4%25B8%25AD%25E4%25BD%25BF%25E7%2594%25A8runtime%2F&aid=6822&nid=126)  
+[[译] Swift 3 中的新特性](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.cocoachina.com%2Fswift%2F20160713%2F17028.html&aid=6891&nid=127)  
+[Facebook 发布 Swift SDK 并开源](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Ffacebook%2Ffacebook-sdk-swift&aid=6935&nid=127)  
+[FNPaperShredder：Swift 实现的超酷碎纸机动画](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FFnoz%2FFNPaperShredder&aid=6936&nid=127)  

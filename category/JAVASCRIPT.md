@@ -313,3 +313,4 @@
 [Vux v0.1.2 发布，基于 Vue 和 WeUI 的 UI 组件库](http://weekly.manong.io/bounce?url=http%3A%2F%2Fm.oschina.net%2Fnews%2F75028%2Fvux-v0-1-2&aid=6865&nid=126)  
 [FKP-REST：一套前后端分离、基于 JavaScript 的全栈实现](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fwebkixi%2FFKP-REST&aid=6867&nid=126)  
 [Mint UI：基于 Vue.js 的移动端组件库](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmint-ui.github.io%2F%23%21%2Fzh-cn&aid=6870&nid=126)  
+[你肯定不会这样使用 JavaScript: 0x1](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fdreamapplehappy%2Fhacking-with-javascript%2Fblob%2Fmaster%2Fmagic%2Fabout-bitwise-operators-1.md&aid=6897&nid=127)  

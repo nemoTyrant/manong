@@ -237,3 +237,4 @@
 [为 Go 语言 GC 正名](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.csdn.net%2Ferlib%2Farticle%2Fdetails%2F51850912&aid=6823&nid=126)  
 [BLog4go：Go 实现的高性能日志库](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FYoungPioneers%2Fblog4go%3Ff%3Dtt&aid=6868&nid=126)  
 [Go 语言中文网源码](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fstudygolang%2Fstudygolang&aid=6874&nid=126)  
+[Go 中实现手动内存分配的坑](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.zenlife.tk%2Fgo-allocator-trap.md&aid=6893&nid=127)  

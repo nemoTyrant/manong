@@ -104,3 +104,4 @@
 [[译] Linux 性能调优指南](http://weekly.manong.io/bounce?url=https%3A%2F%2Fwww.gitbook.com%2Fbook%2Flihz1990%2Ftransoflptg%2Fdetails&aid=6838&nid=126)  
 [Linux Signal](http://weekly.manong.io/bounce?url=http%3A%2F%2Fkernel.meizu.com%2Flinux-signal.html&aid=6841&nid=126)  
 [Linux 下的五种 IO 模型](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.decaywood.me%2F2016%2F01%2F07%2Fweb-io-model%2F&aid=6844&nid=126)  
+[Linux 的进程间通信：管道](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIxNDMyODgyMA%3D%3D%26mid%3D2247483713%26idx%3D1%26sn%3D708bd5e4e2625e0be71946cfb8bad768&aid=6898&nid=127)  

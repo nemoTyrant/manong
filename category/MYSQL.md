@@ -76,3 +76,4 @@
 [MySQL-Binlog：binlog 解析软件](http://weekly.manong.io/bounce?url=http%3A%2F%2Fgit.oschina.net%2Fqiangzigege%2FMySQL-Binlog&aid=6524&nid=121)  
 [MySQL 架构优化实战系列（二）：主从复制同步与查询性能调优](http://weekly.manong.io/bounce?url=http%3A%2F%2Fdbaplus.cn%2Fnews-11-492-1.html&aid=6713&nid=124)  
 [唯品会的订单分库分表实践总结以及关键步骤](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA5Nzc4OTA1Mw%3D%3D%26mid%3D512113930%26idx%3D1%26sn%3D72a157196ba0c949168dbfd25fc03d4b%23rd&aid=6803&nid=125)  
+[漫谈 MySQL 中的事务及其实现](http://weekly.manong.io/bounce?url=http%3A%2F%2Fdbaplus.cn%2Fnews-11-515-1.html&aid=6921&nid=127)  

@@ -459,3 +459,6 @@
 [ios-ipa-server：iOS IPA 分发工具](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fbumaociyuan%2Fios-ipa-server&aid=6808&nid=125)  
 [使用 MVVM 减少控制器代码实战](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2Ff85363c82ea1&aid=6821&nid=126)  
 [移动开发中的视觉规范化实践](http://weekly.manong.io/bounce?url=http%3A%2F%2Fscorpiolin.github.io%2F2016%2F07%2F09%2FiOS-view-styles%2F&aid=6842&nid=126)  
+[[译] iOS 性能优化：Instruments 工具的救命三招](http://weekly.manong.io/bounce?url=https%3A%2F%2Fblog.leancloud.cn%2F2835%2F&aid=6892&nid=127)  
+[500+ 开源 iOS 应用](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fdkhamsing%2Fopen-source-ios-apps%3Ff%3Dtt&aid=6933&nid=127)  
+[MVC 架构杂谈](http://weekly.manong.io/bounce?url=http%3A%2F%2Fsindrilin.com%2Fios-dev%2F2016%2F07%2F13%2FMVC%25E6%259E%25B6%25E6%259E%2584%25E6%259D%2582%25E8%25B0%2588&aid=6903&nid=127)  

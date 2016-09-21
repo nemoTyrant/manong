@@ -16,3 +16,4 @@
 [如何大幅度提高 Mac 开发效率](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2F2b072b206c90&aid=6403&nid=120)  
 [Thor：Mac 上快速打开或切换应用工具](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fgbammc%2FThor&aid=6525&nid=121)  
 [Alfred 杀手级插件：Google Search](http://weekly.manong.io/bounce?url=http%3A%2F%2Ffunhacks.net%2F2016%2F07%2F08%2Falfred_google_search%2F&aid=6855&nid=126)  
+[开发者 Mac 电脑里的十八般兵器](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.figotan.org%2F2016%2F07%2F12%2Fdev-macpro-arms%2F&aid=6925&nid=127)  
