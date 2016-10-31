@@ -254,3 +254,6 @@
 [有的 UE 画不好 PPT，好的测试却会用 Python 加薪](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwetest.qq.com%2Flab%2Fview%2F113.html%3Ffrom%3Dcontent_toutiao&aid=6850&nid=126)  
 [Python-QA：Python 问答集锦](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fdokelung%2FPython-QA&aid=6913&nid=127)  
 [[译] 一个危险的 Python 函数，不推荐使用](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcodingpy.com%2Farticle%2Fhasattr-a-dangerous-misnomer%2F&aid=6915&nid=127)  
+[Python 实现基于协程的异步爬虫](http://weekly.manong.io/bounce?url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F21644676%3Frefer%3Dshiyanlou&aid=6953&nid=128)  
+[漫谈 Python 生成器](http://weekly.manong.io/bounce?url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F21659182%3Frefer%3Dpythonpx&aid=6954&nid=128)  
+[[译] 值得关注的 10 个 Python 语言博客](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.cnblogs.com%2FBlaxon%2Fp%2F4648438.html&aid=6995&nid=128)  

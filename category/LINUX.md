@@ -105,3 +105,4 @@
 [Linux Signal](http://weekly.manong.io/bounce?url=http%3A%2F%2Fkernel.meizu.com%2Flinux-signal.html&aid=6841&nid=126)  
 [Linux 下的五种 IO 模型](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.decaywood.me%2F2016%2F01%2F07%2Fweb-io-model%2F&aid=6844&nid=126)  
 [Linux 的进程间通信：管道](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIxNDMyODgyMA%3D%3D%26mid%3D2247483713%26idx%3D1%26sn%3D708bd5e4e2625e0be71946cfb8bad768&aid=6898&nid=127)  
+[采用 Linux* Containers 的单根输入/输出虚拟化 (SR-IOV) (英特尔开发人员专区)](http://weekly.manong.io/bounce?url=https%3A%2F%2Fsoftware.intel.com%2Fzh-cn%2Farticles%2Fsingle-root-inputoutput-virtualization-sr-iov-with-linux-containers%3Futm_source%3DMaNong%26utm_medium%3DNewsletter%26utm_campaign%3DMC_CN_Q3&aid=6966&nid=128)  

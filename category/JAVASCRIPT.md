@@ -314,3 +314,8 @@
 [FKP-REST：一套前后端分离、基于 JavaScript 的全栈实现](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fwebkixi%2FFKP-REST&aid=6867&nid=126)  
 [Mint UI：基于 Vue.js 的移动端组件库](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmint-ui.github.io%2F%23%21%2Fzh-cn&aid=6870&nid=126)  
 [你肯定不会这样使用 JavaScript: 0x1](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fdreamapplehappy%2Fhacking-with-javascript%2Fblob%2Fmaster%2Fmagic%2Fabout-bitwise-operators-1.md&aid=6897&nid=127)  
+[[译] 2016 年 JavaScript 开发者需要了解的技能](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.zcfy.cc%2Farticle%2F619&aid=6957&nid=128)  
+[Vue + Webpack 使用规范](http://weekly.manong.io/bounce?url=https%3A%2F%2Fwww.talkingcoder.com%2Farticle%2F6309726065044556372&aid=6974&nid=128)  
+[[译] 使用 VueJS 2.0 开发一款 App](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FDDFE%2Fvue-blog%2Fissues%2F1&aid=6998&nid=128)  
+[前端 JSer 装逼手册](http://weekly.manong.io/bounce?url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000005987011%2F&aid=6999&nid=128)  
+[Eustia：用于生成 JavaScript 函数库的工具](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fliriliri%2Feustia%2Fblob%2Fmaster%2Fdoc%2FReadme_CH.md&aid=7002&nid=128)  

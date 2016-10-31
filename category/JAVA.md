@@ -244,3 +244,6 @@
 [RxJava 源码分析之基础框架](http://weekly.manong.io/bounce?url=http%3A%2F%2Fleoray.leanote.com%2Fpost%2FRxJava-basic&aid=6895&nid=127)  
 [神奇的 G1：Java 全新垃圾回收机制](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.broadview.com.cn%2F%23article%2Freadarticle%2FreadArticleAll.jsp%3Fpost_id%3D3f48d674-e73a-42a1-90cc-77ccdd35844c%26user_id%3D81840d00-63f7-11e4-8f0e-dd4ad96466d4&aid=6928&nid=127)  
 [GitHub 上那些值得一试的 Java 开源库](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2Fad40e6dd3789&aid=6934&nid=127)  
+[Java 中的纤程库：Quasar](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcolobu.com%2F2016%2F07%2F14%2FJava-Fiber-Quasar%2F&aid=6946&nid=128)  
+[推荐几个自己写的 Java 后端相关的范例项目](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwosyingjun.iteye.com%2Fblog%2F2312553&aid=6960&nid=128)  
+[[译] CognitiveJ：Java 图像分析库](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcoyee.com%2Farticle%2F10461-cognitivej-cognitive-image-analysis-for-java&aid=7003&nid=128)  

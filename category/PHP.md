@@ -133,3 +133,5 @@
 [PHP 中的哈希表](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.cnblogs.com%2Fh-hq%2Fp%2F5643141.html&aid=6827&nid=126)  
 [Yii2 干货集](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fforecho%2Fawesome-yii2%2Fblob%2Fmaster%2FREADME.md&aid=6854&nid=126)  
 [Swoole 源码学习记录](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FLinkedDestiny%2Fswoole-src-analysis&aid=6894&nid=127)  
+[Dora RPC：PHP 的分布式 RPC，支持微服务、服务发现](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fxcl3721%2FDora-RPC&aid=7001&nid=128)  
+[HTTPOXY 漏洞说明](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.laruence.com%2F2016%2F07%2F19%2F3101.html&aid=6989&nid=128)  

@@ -156,3 +156,4 @@
 [[译] Swift 3 中的新特性](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.cocoachina.com%2Fswift%2F20160713%2F17028.html&aid=6891&nid=127)  
 [Facebook 发布 Swift SDK 并开源](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Ffacebook%2Ffacebook-sdk-swift&aid=6935&nid=127)  
 [FNPaperShredder：Swift 实现的超酷碎纸机动画](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FFnoz%2FFNPaperShredder&aid=6936&nid=127)  
+[Swift 3.0 去掉 C 风格循环后怎么办？](http://weekly.manong.io/bounce?url=http%3A%2F%2Fswiftcafe.io%2F2016%2F07%2F18%2Fswift-loop&aid=6952&nid=128)  

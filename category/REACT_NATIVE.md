@@ -54,3 +54,5 @@
 [React Native 高质量学习资料汇总](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAwMTYwNzE2Mg%3D%3D%26mid%3D2651036614%26idx%3D1%26sn%3D48a9885e13d896fa0b0b6344cda8e356&aid=6847&nid=126)  
 [聊聊我的处女作：reading](http://weekly.manong.io/bounce?url=http%3A%2F%2Frichardcao.me%2F2016%2F07%2F05%2FTalk-About-Reading%2F&aid=6862&nid=126)  
 [React Native 源码笔记：你知道几条？](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.olinone.com%2F%3Fp%3D590&aid=6896&nid=127)  
+[React Native 开发小 Tips](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jackpu.com%2Freact-native-kai-fa-xiao-tips%2F&aid=6956&nid=128)  
+[Weex & React Native & JSPatch 对比](http://weekly.manong.io/bounce?url=http%3A%2F%2Fawhisper.github.io%2F2016%2F07%2F22%2FWeex-ReactNative-JSPatch%2F&aid=6970&nid=128)  

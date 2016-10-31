@@ -289,3 +289,5 @@
 [前端优化实践总结](http://weekly.manong.io/bounce?url=https%3A%2F%2Faotu.io%2Fnotes%2F2016%2F04%2F12%2Fjcloud-opt%2F&aid=6916&nid=127)  
 [移动前端重构实战系列：5 - 7 章](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI3MDE0MzAzMw%3D%3D%26mid%3D2652201870%26idx%3D1%26sn%3D93ad5093c75e2b9143c7915694f12b22&aid=6918&nid=127)  
 [前端如何优雅切图](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.w3ctrain.com%2F2016%2F07%2F13%2Fcut-image%2F&aid=6919&nid=127)  
+[[译] 22 个必备的 CSS 小技巧](http://weekly.manong.io/bounce?url=http%3A%2F%2Fjrainlau.github.io%2F2016%2F07%2F03%2F%25E3%2580%2590%25E8%25AF%2591%25E3%2580%259122%25E4%25B8%25AA%25E5%25BF%2585%25E5%25A4%2587%25E7%259A%2584CSS%25E5%25B0%258F%25E6%258A%2580%25E5%25B7%25A7%2F&aid=6958&nid=128)  
+[H5 前端性能测试快速入门](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftmq.qq.com%2F2016%2F07%2Fh5-xingneng-test%2F&aid=6959&nid=128)  
