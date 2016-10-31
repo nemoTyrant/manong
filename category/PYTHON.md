@@ -257,3 +257,5 @@
 [Python 实现基于协程的异步爬虫](http://weekly.manong.io/bounce?url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F21644676%3Frefer%3Dshiyanlou&aid=6953&nid=128)  
 [漫谈 Python 生成器](http://weekly.manong.io/bounce?url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F21659182%3Frefer%3Dpythonpx&aid=6954&nid=128)  
 [[译] 值得关注的 10 个 Python 语言博客](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.cnblogs.com%2FBlaxon%2Fp%2F4648438.html&aid=6995&nid=128)  
+[RQAlpha：Python 算法交易和回测引擎](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fricequant%2Frqalpha&aid=7070&nid=129)  
+[从零开始搭建论坛（一）](http://weekly.manong.io/bounce?url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000006095987&aid=7047&nid=129)  

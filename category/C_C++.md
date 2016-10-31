@@ -112,3 +112,4 @@
 [C 模块化编程](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA3NzYzODg1OA%3D%3D%26mid%3D2648464085%26idx%3D1%26sn%3Df9c4350ea474737a9d296467ea7eaeb8&aid=6885&nid=127)  
 [STL 源码剖析：重点知识总结](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.cnblogs.com%2Fluoxn28%2Fp%2F5671988.html%3Ff%3Dtt&aid=6886&nid=127)  
 [C++ 实现银行排队服务模拟](http://weekly.manong.io/bounce?url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F21571038&aid=6887&nid=127)  
+[基于 Boost 库的 C++ 学习笔记（一）：智能指针和内存池](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftaozj.org%2F2016%2F07%2F%25E5%259F%25BA%25E4%25BA%258EBoost%25E5%25BA%2593%25E7%259A%2584C%2B%2B%25E5%25AD%25A6%25E4%25B9%25A0%25E7%25AC%2594%25E8%25AE%25B0%25EF%25BC%2588%25E4%25B8%2580%25EF%25BC%2589%25EF%25BC%259A%25E6%2599%25BA%25E8%2583%25BD%25E6%258C%2587%25E9%2592%2588%25E5%2592%258C%25E5%2586%2585%25E5%25AD%2598%25E6%25B1%25A0%2F&aid=7017&nid=129)  

@@ -10,3 +10,4 @@
 [GameBox Cloud Core：基于 Lua 的游戏服务器框架](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fdualface%2Fgbc-core&aid=4619&nid=98)  
 [Lua 源码阅读](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Flichuang%2FLua-Source-Internal&aid=6396&nid=120)  
 [Awesome Lua](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FLewisJEllis%2Fawesome-lua&aid=6857&nid=126)  
+[Lua 表的内存分配](http://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAxODkyNTMwMQ%3D%3D%26mid%3D2247483795%26idx%3D1%26sn%3D1dbacce26b1e5de970aab954f39a7d36&aid=7027&nid=129)  

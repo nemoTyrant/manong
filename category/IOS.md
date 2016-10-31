@@ -464,3 +464,7 @@
 [MVC 架构杂谈](http://weekly.manong.io/bounce?url=http%3A%2F%2Fsindrilin.com%2Fios-dev%2F2016%2F07%2F13%2FMVC%25E6%259E%25B6%25E6%259E%2584%25E6%259D%2582%25E8%25B0%2588&aid=6903&nid=127)  
 [微信读书 iOS 性能优化](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA3NTYzODYzMg%3D%3D%26mid%3D2653577496%26idx%3D2%26sn%3D0744a914379dc21d52824bce980d04c3&aid=6950&nid=128)  
 [iOS 开发的 10 个奇袭](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2F0844ab94b5a3%3Ff%3Dtt&aid=6951&nid=128)  
+[iOS 开发的那些坑（贰）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2F92a5b57bfb76&aid=7021&nid=129)  
+[iOS 不同场景下的定时方法](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2Fd23b9fd84bcb&aid=7022&nid=129)  
+[我的高仿 bilibili 项目成长之路（OC）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2F09eebb030331&aid=7066&nid=129)  
+[PokemonStickerPack：开源的 iOS 10 Pokémon 表情包](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FJakeLin%2FPokemonStickerPack&aid=7071&nid=129)  

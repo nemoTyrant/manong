@@ -135,3 +135,5 @@
 [Swoole 源码学习记录](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FLinkedDestiny%2Fswoole-src-analysis&aid=6894&nid=127)  
 [Dora RPC：PHP 的分布式 RPC，支持微服务、服务发现](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fxcl3721%2FDora-RPC&aid=7001&nid=128)  
 [HTTPOXY 漏洞说明](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.laruence.com%2F2016%2F07%2F19%2F3101.html&aid=6989&nid=128)  
+[PHP 高级编程之消息队列](http://weekly.manong.io/bounce?url=http%3A%2F%2Fnetkiller.github.io%2Fjournal%2Fphp.mq.html&aid=7023&nid=129)  
+[Zan PHP Framework：基于 Swoole 的网络服务框架](http://weekly.manong.io/bounce?url=http%3A%2F%2Fgithub.com%2Fyouzan%2Fzan&aid=7073&nid=129)  

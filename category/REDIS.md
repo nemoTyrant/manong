@@ -72,3 +72,4 @@
 [Redis 指南](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwdxtub.com%2F2016%2F07%2F05%2Fredis-guide%2F&aid=6861&nid=126)  
 [Redis 内部数据结构详解（五）：quicklist](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA4NTg1MjM0Mg%3D%3D%26mid%3D2657261335%26idx%3D1%26sn%3D053d72a348be2e78040f3847f4092d92&aid=6961&nid=128)  
 [Redis 压缩列表原理与应用分析](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmy.oschina.net%2Fandylucc%2Fblog%2F715325&aid=6985&nid=128)  
+[近千节点的 Redis Cluster 高可用集群案例：优酷蓝鲸优化实战](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAwMDU1MTE1OQ%3D%3D%26mid%3D2653547585%26idx%3D1%26sn%3D9a664b16f656f757632cd4eb29f9a5dc&aid=7010&nid=129)  

@@ -319,3 +319,4 @@
 [[译] 使用 VueJS 2.0 开发一款 App](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FDDFE%2Fvue-blog%2Fissues%2F1&aid=6998&nid=128)  
 [前端 JSer 装逼手册](http://weekly.manong.io/bounce?url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000005987011%2F&aid=6999&nid=128)  
 [Eustia：用于生成 JavaScript 函数库的工具](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fliriliri%2Feustia%2Fblob%2Fmaster%2Fdoc%2FReadme_CH.md&aid=7002&nid=128)  
+[[译] 关于 Promise 你可能不知道的 6 件事](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fdwqs%2Fblog%2Fissues%2F1&aid=7040&nid=129)  

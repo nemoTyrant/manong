@@ -247,3 +247,6 @@
 [Java 中的纤程库：Quasar](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcolobu.com%2F2016%2F07%2F14%2FJava-Fiber-Quasar%2F&aid=6946&nid=128)  
 [推荐几个自己写的 Java 后端相关的范例项目](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwosyingjun.iteye.com%2Fblog%2F2312553&aid=6960&nid=128)  
 [[译] CognitiveJ：Java 图像分析库](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcoyee.com%2Farticle%2F10461-cognitivej-cognitive-image-analysis-for-java&aid=7003&nid=128)  
+[Java NIO 框架 Getty 设计与实现](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.xiaohansong.com%2F2016%2F07%2F30%2Fgetty%2F&aid=7018&nid=129)  
+[[译] 深入理解 React & Redux 原理套路](http://weekly.manong.io/bounce?url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000006112093&aid=7024&nid=129)  
+[理解 RxJava 的线程模型](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcolobu.com%2F2016%2F07%2F25%2Funderstanding-rxjava-thread-model%2F&aid=7026&nid=129)  

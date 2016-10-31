@@ -38,3 +38,5 @@
 [白帽子分享之代码审计的艺术系列](http://weekly.manong.io/bounce?url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F21371103&aid=6639&nid=123)  
 [自制蜜罐之前端部分](http://weekly.manong.io/bounce?url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F21534942&aid=6849&nid=126)  
 [安全类网站集锦](http://weekly.manong.io/bounce?url=https%3A%2F%2Fwww.figotan.org%2F2016%2F07%2F19%2Fsecurity-websites-list%2F&aid=6990&nid=128)  
+[乌云公开漏洞、知识库爬虫和搜索](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fhanc00l%2Fwooyun_public&aid=7042&nid=129)  
+[小米范系列渗透测试工具介绍](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.freebuf.com%2Fsectool%2F109949.html&aid=7048&nid=129)  
