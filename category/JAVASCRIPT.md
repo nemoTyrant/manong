@@ -320,3 +320,5 @@
 [前端 JSer 装逼手册](http://weekly.manong.io/bounce?url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000005987011%2F&aid=6999&nid=128)  
 [Eustia：用于生成 JavaScript 函数库的工具](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fliriliri%2Feustia%2Fblob%2Fmaster%2Fdoc%2FReadme_CH.md&aid=7002&nid=128)  
 [[译] 关于 Promise 你可能不知道的 6 件事](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fdwqs%2Fblog%2Fissues%2F1&aid=7040&nid=129)  
+[关于 React 的一些实践思考与总结](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcnt1992.xyz%2F2016%2F08%2F06%2Fsummary-of-react-base-on-practice%2F&aid=7121&nid=130)  
+[[译] 使用 D3.js 实现数据可视化](http://weekly.manong.io/bounce?url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F21897086&aid=7123&nid=130)  

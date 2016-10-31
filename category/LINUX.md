@@ -107,3 +107,4 @@
 [Linux 的进程间通信：管道](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIxNDMyODgyMA%3D%3D%26mid%3D2247483713%26idx%3D1%26sn%3D708bd5e4e2625e0be71946cfb8bad768&aid=6898&nid=127)  
 [采用 Linux* Containers 的单根输入/输出虚拟化 (SR-IOV) (英特尔开发人员专区)](http://weekly.manong.io/bounce?url=https%3A%2F%2Fsoftware.intel.com%2Fzh-cn%2Farticles%2Fsingle-root-inputoutput-virtualization-sr-iov-with-linux-containers%3Futm_source%3DMaNong%26utm_medium%3DNewsletter%26utm_campaign%3DMC_CN_Q3&aid=6966&nid=128)  
 [从 dstat 理解 Linux 性能监控体系](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcalvin1978.blogcn.com%2Farticles%2Fdstat.html&aid=7033&nid=129)  
+[Linux IO 模式及 select、poll、epoll 详解](http://weekly.manong.io/bounce?url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000003063859&aid=7115&nid=130)  

@@ -157,3 +157,5 @@
 [Facebook 发布 Swift SDK 并开源](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Ffacebook%2Ffacebook-sdk-swift&aid=6935&nid=127)  
 [FNPaperShredder：Swift 实现的超酷碎纸机动画](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FFnoz%2FFNPaperShredder&aid=6936&nid=127)  
 [Swift 3.0 去掉 C 风格循环后怎么办？](http://weekly.manong.io/bounce?url=http%3A%2F%2Fswiftcafe.io%2F2016%2F07%2F18%2Fswift-loop&aid=6952&nid=128)  
+[从 OC 到 Swift 的过渡之路](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.iosxxx.com%2Fblog%2F2016-08-07-%25E4%25BB%258EOC%25E5%2588%25B0Swift%25E7%259A%2584%25E8%25BF%2587%25E6%25B8%25A1%25E4%25B9%258B%25E8%25B7%25AF.html&aid=7102&nid=130)  
+[[译] 回顾 Swift 3，展望 Swift 4](http://weekly.manong.io/bounce?url=https%3A%2F%2Fkemchenj.github.io%2F2016%2F07%2F31%2FLooking%2520back%2520on%2520Swift%25203%2520and%2520ahead%2520to%2520Swift%25204%2F&aid=7103&nid=130)  

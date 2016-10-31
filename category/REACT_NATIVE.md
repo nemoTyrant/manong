@@ -56,3 +56,4 @@
 [React Native 源码笔记：你知道几条？](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.olinone.com%2F%3Fp%3D590&aid=6896&nid=127)  
 [React Native 开发小 Tips](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jackpu.com%2Freact-native-kai-fa-xiao-tips%2F&aid=6956&nid=128)  
 [Weex & React Native & JSPatch 对比](http://weekly.manong.io/bounce?url=http%3A%2F%2Fawhisper.github.io%2F2016%2F07%2F22%2FWeex-ReactNative-JSPatch%2F&aid=6970&nid=128)  
+[React Native 开源项目：嘎嘎商城客户端](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.lcode.org%2Freact-native-source-gagamall%2F&aid=7150&nid=130)  

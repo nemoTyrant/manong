@@ -137,3 +137,7 @@
 [HTTPOXY 漏洞说明](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.laruence.com%2F2016%2F07%2F19%2F3101.html&aid=6989&nid=128)  
 [PHP 高级编程之消息队列](http://weekly.manong.io/bounce?url=http%3A%2F%2Fnetkiller.github.io%2Fjournal%2Fphp.mq.html&aid=7023&nid=129)  
 [Zan PHP Framework：基于 Swoole 的网络服务框架](http://weekly.manong.io/bounce?url=http%3A%2F%2Fgithub.com%2Fyouzan%2Fzan&aid=7073&nid=129)  
+[[译] 糟糕的 PHP](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.zcfy.cc%2Farticle%2Fphp-sucks-889.html&aid=7105&nid=130)  
+[Swoole-2.0.1-Alpha 已发布，提供 PHP 原生协程支持](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwiki.swoole.com%2Fwiki%2Fpage%2Fp-coroutine.html&aid=7146&nid=130)  
+[zys：基于 Yaf 和 Swoole 的高性能服务框架](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fqieangel2013%2Fzys&aid=7151&nid=130)  
+[DonkeyID：PHP 扩展，64 位自增 ID 生成器](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fosgochina%2Fdonkeyid&aid=7153&nid=130)  

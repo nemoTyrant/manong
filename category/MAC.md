@@ -20,3 +20,4 @@
 [GeoPhotos：给照片添加位置信息的 App](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fmcxiaoke%2FGeoPhotos&aid=7000&nid=128)  
 [工具武装的前端开发工程师](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fjaywcjlove%2Fawesome-mac&aid=6987&nid=128)  
 [Mac 系统中的几个纯文本编辑器](http://weekly.manong.io/bounce?url=http%3A%2F%2Fswiftcafe.io%2F2016%2F07%2F22%2Feditor&aid=7062&nid=129)  
+[UI 工程师在 Mac 下的开发环境搭建](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fkayo5994%2FUI-Development-Environment-on-Mac&aid=7122&nid=130)  

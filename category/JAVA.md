@@ -250,3 +250,7 @@
 [Java NIO 框架 Getty 设计与实现](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.xiaohansong.com%2F2016%2F07%2F30%2Fgetty%2F&aid=7018&nid=129)  
 [[译] 深入理解 React & Redux 原理套路](http://weekly.manong.io/bounce?url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000006112093&aid=7024&nid=129)  
 [理解 RxJava 的线程模型](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcolobu.com%2F2016%2F07%2F25%2Funderstanding-rxjava-thread-model%2F&aid=7026&nid=129)  
+[[译] 你没见过的七个最好的 Java 答案](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.rowkey.me%2Fblog%2F2016%2F08%2F03%2Fso-java-7-answers%2F&aid=7099&nid=130)  
+[[译] 调度器 Scheduler（一）：实现自定义 Scheduler（RxJava）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.piasy.com%2FAdvancedRxJava%2F2016%2F08%2F05%2Fschedulers-1%2F&aid=7104&nid=130)  
+[Tomcat 的 Session 持久化策略](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI3MTEwODc5Ng%3D%3D%26mid%3D2650859204%26idx%3D1%26sn%3D5ca2f23c991309cc66e05a99a4cbb63d%23rd&aid=7117&nid=130)  
+[深入分析 ThreadLocal 内存泄漏问题](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.xiaohansong.com%2F2016%2F08%2F06%2FThreadLocal-memory-leak%2F&aid=7128&nid=130)  

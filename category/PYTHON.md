@@ -259,3 +259,7 @@
 [[译] 值得关注的 10 个 Python 语言博客](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.cnblogs.com%2FBlaxon%2Fp%2F4648438.html&aid=6995&nid=128)  
 [RQAlpha：Python 算法交易和回测引擎](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fricequant%2Frqalpha&aid=7070&nid=129)  
 [从零开始搭建论坛（一）](http://weekly.manong.io/bounce?url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000006095987&aid=7047&nid=129)  
+[[译] 一文教会你正确打包 Python 程序](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcodingpy.com%2Farticle%2Fhow-to-write-your-own-python-packages%2F&aid=7106&nid=130)  
+[Python 字符编码](http://weekly.manong.io/bounce?url=http%3A%2F%2Ffoofish.net%2Fblog%2F111%2Fpython-character-encode&aid=7107&nid=130)  
+[关注网络安全和Python](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F41855&aid=7090&nid=130)  
+[整理的一些 Python 学习资料](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2Fe9bb36a5d63f&aid=7134&nid=130)  
