@@ -525,3 +525,6 @@
 [AndroidSweetSheet：富有动感的选择器](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fzzz40500%2FAndroidSweetSheet&aid=7148&nid=130)  
 [RecyclerView 粘性标签库](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Foubowu%2FPinnedSectionItemDecoration%2Fblob%2Fmaster%2FREADME-CN.md&aid=7149&nid=130)  
 [MVP 架构系列：豆瓣电影 Top 250](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fkevinhqf%2FDouBanTop250%2Fblob%2Fmaster%2FREADME.md&aid=7133&nid=130)  
+[APK 瘦身看这一篇文章就够了](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Faknkxa&aid=7167&nid=131)  
+[小红书 Android 客户端演进之路](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F3eg6hn&aid=7168&nid=131)  
+[最简 MVP 框架](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Foijeib&aid=7216&nid=131)  

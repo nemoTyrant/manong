@@ -5,3 +5,4 @@
 [AOP 微型框架 CleanAOP 发布（C#）](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FJarvin-Guan%2FCleanAOP%2Fblob%2Fmaster%2FREADME.md&aid=4203&nid=94)  
 [C# 手动做一个负载均衡服务器](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.cnblogs.com%2Fnewsea%2Fp%2F4982466.html&aid=4405&nid=96)  
 [Windows Live Writer 开源并推出 Open Live Writer 分支](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FOpenLiveWriter%2FOpenLiveWriter&aid=4724&nid=99)  
+[[译] 8 个可以节省时间的 C# 开发相关工具](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fnm76ma&aid=7174&nid=131)  

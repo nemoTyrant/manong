@@ -263,3 +263,6 @@
 [Python 字符编码](http://weekly.manong.io/bounce?url=http%3A%2F%2Ffoofish.net%2Fblog%2F111%2Fpython-character-encode&aid=7107&nid=130)  
 [关注网络安全和Python](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F41855&aid=7090&nid=130)  
 [整理的一些 Python 学习资料](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2Fe9bb36a5d63f&aid=7134&nid=130)  
+[Python 之 asyncio](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Foqoukn&aid=7171&nid=131)  
+[[译] 十分钟快速入门 Pandas](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Faan7mh&aid=7172&nid=131)  
+[漫谈 Pyspider 网络爬虫的实践](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fay36k0&aid=7203&nid=131)  

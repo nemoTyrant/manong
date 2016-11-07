@@ -141,3 +141,4 @@
 [Swoole-2.0.1-Alpha 已发布，提供 PHP 原生协程支持](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwiki.swoole.com%2Fwiki%2Fpage%2Fp-coroutine.html&aid=7146&nid=130)  
 [zys：基于 Yaf 和 Swoole 的高性能服务框架](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fqieangel2013%2Fzys&aid=7151&nid=130)  
 [DonkeyID：PHP 扩展，64 位自增 ID 生成器](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fosgochina%2Fdonkeyid&aid=7153&nid=130)  
+[Laravel 扩展包 Top100](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F7cc0uf&aid=7209&nid=131)  

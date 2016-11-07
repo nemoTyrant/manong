@@ -24,3 +24,4 @@
 [egret 引擎初探](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Friskers%2Fblog%2Fissues%2F23&aid=6186&nid=117)  
 [HTML5 视频直播一站式扫盲](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA3NTYzODYzMg%3D%3D%26mid%3D2653577297%26idx%3D1%26sn%3Da292ff3b499168f4eb589e40b7aa6d13&aid=6762&nid=125)  
 [解耦：Hybrid H5 跨平台性思考](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA3NTYzODYzMg%3D%3D%26mid%3D2653577297%26idx%3D3%26sn%3D96c9ec407e937132595c29b0584cdd5c&aid=6829&nid=126)  
+[HTML5 手势检测原理和实现](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F5s2t7i&aid=7189&nid=131)  

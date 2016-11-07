@@ -63,3 +63,4 @@
 [wechat-starter：基于 Rails 的微信开发模板](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fgoofansu%2Fwechat-starter&aid=5261&nid=105)  
 [为什么 Ruby 程序员应该了解和掌握 Docker](http://weekly.manong.io/bounce?url=http%3A%2F%2Fdockone.io%2Farticle%2F1033&aid=5294&nid=106)  
 [Rails + ES6 + Angular2 前后端分离开发（一）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fzhuanlan.zhihu.com%2Fzuozuo%2F20650957&aid=5613&nid=110)  
+[[译] 25 行 Ruby 代码编写 Shell](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F6lg253&aid=7177&nid=131)  

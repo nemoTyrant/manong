@@ -74,3 +74,7 @@
 [Redis 压缩列表原理与应用分析](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmy.oschina.net%2Fandylucc%2Fblog%2F715325&aid=6985&nid=128)  
 [近千节点的 Redis Cluster 高可用集群案例：优酷蓝鲸优化实战](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAwMDU1MTE1OQ%3D%3D%26mid%3D2653547585%26idx%3D1%26sn%3D9a664b16f656f757632cd4eb29f9a5dc&aid=7010&nid=129)  
 [记一次 Redis 规模化运维讨论会](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA4Mzg2NzE5MA%3D%3D%26mid%3D2648672432%26idx%3D1%26sn%3D823050ae8b685650616153b4ca204e42&aid=7116&nid=130)  
+[redis](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F46756&aid=7182&nid=131)  
+[如何优雅地删除 Redis 大键](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F50yn2h&aid=7190&nid=131)  
+[如何编写一个简单的 Redis 客户端](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fd4xzit&aid=7194&nid=131)  
+[深入浅出 Redis Cluster 原理](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA3MzYwNjQ3NA%3D%3D%26mid%3D2651296996%26idx%3D2%26sn%3D5f4811d73e74e2a63b1cb0d3d532862a&aid=7211&nid=131)  

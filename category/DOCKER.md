@@ -87,3 +87,4 @@
 [Docker 化运维方式](http://weekly.manong.io/bounce?url=http%3A%2F%2Fjm.taobao.org%2F2016%2F06%2F08%2Fdocker-maintenance%2F&aid=6559&nid=122)  
 [Docker 快速入门指引](http://weekly.manong.io/bounce?url=https%3A%2F%2Fyuansir-web.com%2F2016%2F06%2F14%2Fdocker-kuai-su-ru-men-zhi-yin%2F&aid=6649&nid=123)  
 [基于 Docker 搭建多节点 Mesos / Marathon](http://weekly.manong.io/bounce?url=http%3A%2F%2Fkiwenlau.com%2F2016%2F07%2F10%2Fmesos-marathon-platform%2F&aid=6927&nid=127)  
+[后端的轮子（四）：容器](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5ODczNTkwMA%3D%3D%26mid%3D2650107158%26idx%3D1%26sn%3Dd98a7ca1782b715fbd9d525d65567ada%23rd&aid=7187&nid=131)  

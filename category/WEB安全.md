@@ -40,3 +40,4 @@
 [安全类网站集锦](http://weekly.manong.io/bounce?url=https%3A%2F%2Fwww.figotan.org%2F2016%2F07%2F19%2Fsecurity-websites-list%2F&aid=6990&nid=128)  
 [乌云公开漏洞、知识库爬虫和搜索](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fhanc00l%2Fwooyun_public&aid=7042&nid=129)  
 [小米范系列渗透测试工具介绍](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.freebuf.com%2Fsectool%2F109949.html&aid=7048&nid=129)  
+[那些年我们一起追逐过的安全工具](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fd7dme4&aid=7210&nid=131)  

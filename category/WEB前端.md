@@ -295,3 +295,8 @@
 [如何从海量用户中轻松定位 H5 视频播放器问题？](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftmq.qq.com%2F2016%2F08%2Fhow-to-easily-locate-h5-video-player-from-massive-user-problem%2F&aid=7111&nid=130)  
 [京东单品页前端开发那些不得不说的事儿](http://weekly.manong.io/bounce?url=https%3A%2F%2Fkeelii.github.io%2F2016%2F07%2F31%2Fsomething-have-to-say-with-JD-item%2F&aid=7112&nid=130)  
 [如何让你的网页打开速度降低到 1s 内](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2Fd857c3ff78d6&aid=7124&nid=130)  
+[谈 CSS 的设计模式](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fc1fhbp&aid=7179&nid=131)  
+[下一代模块打包工具 Rollup](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fk6q3mk&aid=7215&nid=131)  
+[H5 视频直播那些事](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA3NTYzODYzMg%3D%3D%26mid%3D2653577617%26idx%3D2%26sn%3D436b7abf81033151731bcb64aa633410&aid=7175&nid=131)  
+[移动端样式小技巧](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fbo9nwp&aid=7196&nid=131)  
+[腾讯 QMUI Web 前端框架](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fp4f3gd&aid=7224&nid=131)  

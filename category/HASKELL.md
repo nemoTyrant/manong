@@ -3,3 +3,4 @@
 [从 Java 和 JavaScript 来学习 Haskell 和 Groovy（引子） (@RayChase)](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.raychase.net%2F2920&aid=2127&nid=67)  
 [Haskell 趣学指南](http://weekly.manong.io/bounce?url=http%3A%2F%2Ffleurer-lee.com%2Flyah%2F&aid=2224&nid=69)  
 [Haskell in ES6: Part 1](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcasualjavascript.com%2Fjavascript%2Fes6%2Fhaskell%2Fnative%2Fimplementation%2F2015%2F11%2F12%2Fhaskell-in-es6-part-1.html&aid=4298&nid=95)  
+[用 Haskell 48 小时写你个 Scheme](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F8gi0h0&aid=7176&nid=131)  

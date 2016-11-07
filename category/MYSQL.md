@@ -79,3 +79,5 @@
 [漫谈 MySQL 中的事务及其实现](http://weekly.manong.io/bounce?url=http%3A%2F%2Fdbaplus.cn%2Fnews-11-515-1.html&aid=6921&nid=127)  
 [用 MHA 轻松实现 MySQL 高可用（一）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fdbaplus.cn%2Fnews-11-530-1.html&aid=6965&nid=128)  
 [MySQL 数据库中间件的高可用方案](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fflike%2Fkingshard%2Fblob%2Fmaster%2Fdoc%2FKingDoc%2Fhow_to_use_lvs.md&aid=7125&nid=130)  
+[中国移动 MySQL 数据库优化最佳实践](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI4NTA1MDEwNg%3D%3D%26mid%3D2650756339%26idx%3D1%26sn%3D3ddc6598c48088091a38f4d3ad021551&aid=7199&nid=131)  
+[[译] PG 还是 MySQL？](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fxql72a&aid=7208&nid=131)  

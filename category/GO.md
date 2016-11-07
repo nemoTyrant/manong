@@ -244,3 +244,5 @@
 [Golang 协程之殇](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.imisko.com%2F2017%2F08%2F02%2Fgolang-coroutine%2F&aid=7109&nid=130)  
 [一个 Go 实现的 V2EX 客户端](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fsix-ddc%2Fv2ex-go&aid=7145&nid=130)  
 [小试分答数据挖掘](http://weekly.manong.io/bounce?url=https%3A%2F%2Fmua.io%2Fblog%2Fpost%2Fochapman%2F%25E5%25B0%258F%25E8%25AF%2595%25E6%2595%25B0%25E6%258D%25AE%25E6%258C%2596%25E6%258E%2598&aid=7142&nid=130)  
+[Go 的临时对象池 sync.Pool](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fiorlm7&aid=7173&nid=131)  
+[Urlooker：Web 可用性监控工具（Go）](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fj34th5&aid=7223&nid=131)  
