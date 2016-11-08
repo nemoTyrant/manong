@@ -323,3 +323,7 @@
 [关于 React 的一些实践思考与总结](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcnt1992.xyz%2F2016%2F08%2F06%2Fsummary-of-react-base-on-practice%2F&aid=7121&nid=130)  
 [[译] 使用 D3.js 实现数据可视化](http://weekly.manong.io/bounce?url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F21897086&aid=7123&nid=130)  
 [JavaScript 在物联网中的应用](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F016lgk&aid=7178&nid=131)  
+[使用 React 重构百度新闻 webapp 前端](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Flyi6hk&aid=7254&nid=132)  
+[如何把 Sublime 变身为 JavaScript 编辑器](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fsxpujv&aid=7274&nid=132)  
+[Vux v0.1.3 发布](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fmge9of&aid=7291&nid=132)  
+[为什么 ReactJS 不适合复杂的前端项目？](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fpr0h72&aid=7278&nid=132)  

@@ -528,3 +528,8 @@
 [APK 瘦身看这一篇文章就够了](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Faknkxa&aid=7167&nid=131)  
 [小红书 Android 客户端演进之路](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F3eg6hn&aid=7168&nid=131)  
 [最简 MVP 框架](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Foijeib&aid=7216&nid=131)  
+[你所不知道的 Android Studio 调试技巧](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fl8r7oo&aid=7243&nid=132)  
+[猎豹 “快切 App” 中用到的 Android 开发技巧探索](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAxMTI4MTkwNQ%3D%3D%26mid%3D2650820890%26idx%3D1%26sn%3D112b88c31bffcdf22531878222ebea8d&aid=7244&nid=132)  
+[HighLightGuideView：用于 App 新功能高亮引导的库](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fpi8q45&aid=7292&nid=132)  
+[App 定位和地图的那些坑](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fk26ifd&aid=7276&nid=132)  
+[PolyFun：为你的图片生成 Low Poly 风格图片的 App](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F1wcwpi&aid=7293&nid=132)  

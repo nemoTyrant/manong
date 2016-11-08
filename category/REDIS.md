@@ -78,3 +78,4 @@
 [如何优雅地删除 Redis 大键](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F50yn2h&aid=7190&nid=131)  
 [如何编写一个简单的 Redis 客户端](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fd4xzit&aid=7194&nid=131)  
 [深入浅出 Redis Cluster 原理](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA3MzYwNjQ3NA%3D%3D%26mid%3D2651296996%26idx%3D2%26sn%3D5f4811d73e74e2a63b1cb0d3d532862a&aid=7211&nid=131)  
+[Redis 数据 “丢失” 问题](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F4jhdk1&aid=7283&nid=132)  

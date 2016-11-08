@@ -472,3 +472,8 @@
 [重识 Objective-C Runtime：看透 Type 与 Value](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fj1mko1&aid=7170&nid=131)  
 [LMVideoTest：iOS 采集音视频数据并通过 RTMP 上传到 nginx](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fex81ep&aid=7218&nid=131)  
 [JSPatchPlaygroundTool](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fyvkmlr&aid=7214&nid=131)  
+[iOS 开发几年了，你清楚 OC 中的这些东西么？](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fay6xnj&aid=7245&nid=132)  
+[iOS 人脸识别、自定义相机、图像扫描、系统自带二维码识别](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fhe9m6c&aid=7247&nid=132)  
+[Android&iOS工程师之路](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F4829&aid=7230&nid=132)  
+[iOS相关](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F183&aid=7233&nid=132)  
+[[译] 如何制作一个类似 Uber 的溅落式启动屏](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Ftbwrl0&aid=7285&nid=132)  

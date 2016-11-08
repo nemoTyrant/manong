@@ -110,3 +110,5 @@
 [Node.js Stream（实战篇）](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftech.meituan.com%2Fstream-in-action.html&aid=6955&nid=128)  
 [YARN 设计理念与基本架构](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2F8cc01775150d&aid=7052&nid=129)  
 [RestQL：现代化的 API 开发方式](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F6y2t3c&aid=7195&nid=131)  
+[为什么要用 Node.js](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F6n3aev&aid=7253&nid=132)  
+[为什么你需要一个 mock server](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Ft8u5xl&aid=7268&nid=132)  

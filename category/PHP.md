@@ -142,3 +142,6 @@
 [zys：基于 Yaf 和 Swoole 的高性能服务框架](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fqieangel2013%2Fzys&aid=7151&nid=130)  
 [DonkeyID：PHP 扩展，64 位自增 ID 生成器](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fosgochina%2Fdonkeyid&aid=7153&nid=130)  
 [Laravel 扩展包 Top100](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F7cc0uf&aid=7209&nid=131)  
+[Swoole](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F132007&aid=7229&nid=132)  
+[Laravel 5.3 预热：10 个你需要知道的变更](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fu2x8r4&aid=7280&nid=132)  
+[深入了解 xhprof 性能分析工具](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F830jww&aid=7273&nid=132)  

@@ -131,3 +131,4 @@
 [Jenkins GitLab 持续集成打包平台搭建](http://weekly.manong.io/bounce?url=http%3A%2F%2Fskyseraph.com%2F2016%2F07%2F18%2FTools%2FJenkins%2520Gitlab%25E6%258C%2581%25E7%25BB%25AD%25E9%259B%2586%25E6%2588%2590%25E6%2589%2593%25E5%258C%2585%25E5%25B9%25B3%25E5%258F%25B0%25E6%2590%25AD%25E5%25BB%25BA%2F&aid=6963&nid=128)  
 [基于 Git 的文件自动同步的思考和实现](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwuzhiwei.net%2Ffile_sync_git%2F&aid=6964&nid=128)  
 [Git 的奇技淫巧](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2F521xueweihan%2Fgit-tips&aid=7120&nid=130)  
+[Git Cheat Sheet 中文版](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F9w9tgk&aid=7265&nid=132)  

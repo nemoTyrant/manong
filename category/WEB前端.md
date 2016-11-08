@@ -300,3 +300,5 @@
 [H5 视频直播那些事](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA3NTYzODYzMg%3D%3D%26mid%3D2653577617%26idx%3D2%26sn%3D436b7abf81033151731bcb64aa633410&aid=7175&nid=131)  
 [移动端样式小技巧](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fbo9nwp&aid=7196&nid=131)  
 [腾讯 QMUI Web 前端框架](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fp4f3gd&aid=7224&nid=131)  
+[前端 IoC 理念入门](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Ftpkfcs&aid=7269&nid=132)  
+[前端开源项目持续集成三剑客](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F9la1qf&aid=7284&nid=132)  

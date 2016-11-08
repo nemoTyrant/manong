@@ -266,3 +266,6 @@
 [Python 之 asyncio](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Foqoukn&aid=7171&nid=131)  
 [[译] 十分钟快速入门 Pandas](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Faan7mh&aid=7172&nid=131)  
 [漫谈 Pyspider 网络爬虫的实践](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fay36k0&aid=7203&nid=131)  
+[[译] 一文学会 Python 多线程编程](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Frtutp9&aid=7248&nid=132)  
+[[译] 设计 Pythonic API](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fr3b1ku&aid=7249&nid=132)  
+[[译] 一个模板引擎是如何工作的？](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fj0x80p&aid=7271&nid=132)  

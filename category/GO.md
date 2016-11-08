@@ -246,3 +246,6 @@
 [小试分答数据挖掘](http://weekly.manong.io/bounce?url=https%3A%2F%2Fmua.io%2Fblog%2Fpost%2Fochapman%2F%25E5%25B0%258F%25E8%25AF%2595%25E6%2595%25B0%25E6%258D%25AE%25E6%258C%2596%25E6%258E%2598&aid=7142&nid=130)  
 [Go 的临时对象池 sync.Pool](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fiorlm7&aid=7173&nid=131)  
 [Urlooker：Web 可用性监控工具（Go）](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fj34th5&aid=7223&nid=131)  
+[[译] Go 1.7 中程序结构的解析](http://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5OTcxMzE0MQ%3D%3D%26mid%3D2653369746%26idx%3D1%26sn%3Dc190bd4c3591db7152ebac3a84a59f20&aid=7250&nid=132)  
+[用 Go 和 ZK 实现一个简单的分布式 server](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F9w06g5&aid=7251&nid=132)  
+[golang游戏开发](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F47783&aid=7228&nid=132)  

@@ -261,3 +261,8 @@
 [浅谈 Java 基本设计模式](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fjxmr46&aid=7206&nid=131)  
 [fast-framework：轻量级 Java Web 框架](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fv99lj8&aid=7222&nid=131)  
 [ThreadLocal 内存泄露的实例分析](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fkmg4k2&aid=7205&nid=131)  
+[[译] Java 8 最佳技巧](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Ffxr9kd&aid=7241&nid=132)  
+[Java 代码覆盖率工具 JaCoCo](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIxNzEyMzIzOA%3D%3D%26mid%3D2652314564%26idx%3D1%26sn%3Da93e6154c92acaef9204b8440e66a852%26scene%3D0%23rd&aid=7242&nid=132)  
+[理解 RxJava 线程模型](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fx4rj96&aid=7252&nid=132)  
+[Tomcat 线程池](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fojgn07&aid=7286&nid=132)  
+[记一次 ClassLoader 死锁](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F8v8ga0&aid=7266&nid=132)  
