@@ -269,3 +269,6 @@
 [[译] 一文学会 Python 多线程编程](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Frtutp9&aid=7248&nid=132)  
 [[译] 设计 Pythonic API](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fr3b1ku&aid=7249&nid=132)  
 [[译] 一个模板引擎是如何工作的？](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fj0x80p&aid=7271&nid=132)  
+[[译] Mock 在 Python 单元测试中的使用](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5NjQ4MjYwMQ%3D%3D%26mid%3D2664608040%26idx%3D1%26sn%3D4161fd8671c004b7083a9eceac55bdc0&aid=7316&nid=133)  
+[Python China](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F6988&aid=7324&nid=133)  
+[WebDriver 实用指南](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fbtktwe&aid=7353&nid=133)  

@@ -266,3 +266,8 @@
 [理解 RxJava 线程模型](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fx4rj96&aid=7252&nid=132)  
 [Tomcat 线程池](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fojgn07&aid=7286&nid=132)  
 [记一次 ClassLoader 死锁](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F8v8ga0&aid=7266&nid=132)  
+[Java 代码覆盖率工具 JaCoCo：实践篇](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIxNzEyMzIzOA%3D%3D%26mid%3D2652314603%26idx%3D1%26sn%3De84c651a58f2fa9252c67d26b6454f38&aid=7308&nid=133)  
+[安卓/Java技术成长之路](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F18240&aid=7319&nid=133)  
+[粗浅看 Tomcat 系统架构分析](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIyNjE4NjI2Nw%3D%3D%26mid%3D2652557256%26idx%3D1%26sn%3D0b19cd979b741b90770c26dec4934dd5&aid=7326&nid=133)  
+[MPush：基于 Netty 的实时开源消息推送系统](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fmdxexc&aid=7362&nid=133)  
+[JVM 的 Stop The World，安全点，黑暗的地底世界](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F4k5ujp&aid=7307&nid=133)  

@@ -249,3 +249,5 @@
 [[译] Go 1.7 中程序结构的解析](http://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5OTcxMzE0MQ%3D%3D%26mid%3D2653369746%26idx%3D1%26sn%3Dc190bd4c3591db7152ebac3a84a59f20&aid=7250&nid=132)  
 [用 Go 和 ZK 实现一个简单的分布式 server](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F9w06g5&aid=7251&nid=132)  
 [golang游戏开发](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F47783&aid=7228&nid=132)  
+[Golang 语言之 groupcache](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F28c8ze&aid=7314&nid=133)  
+[[译] Go 1.7 让二进制文件变得更小](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5OTcxMzE0MQ%3D%3D%26mid%3D2653369749%26idx%3D1%26sn%3De52cd2766404f27bf47cb95ef22c00f0&aid=7315&nid=133)  

@@ -29,3 +29,4 @@
 [聊聊高并发系统之限流特技（二）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIwODA4NjMwNA%3D%3D%26mid%3D2652897782%26idx%3D1%26sn%3Dcb46b23b2778f14ea3bcc419eb0392ce&aid=6606&nid=123)  
 [[译] NGINX 微服务参考架构简介](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jointforce.com%2Fjfperiodical%2Farticle%2F2502&aid=6880&nid=127)  
 [用 Caddy 替换 nginx 实现免费的全站自动 HTTPS](http://weekly.manong.io/bounce?url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F21744874&aid=7058&nid=129)  
+[谈谈 Nginx 的 HTTP/2 POST Bug](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fk6iahz&aid=7332&nid=133)  

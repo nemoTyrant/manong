@@ -477,3 +477,5 @@
 [Android&iOS工程师之路](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F4829&aid=7230&nid=132)  
 [iOS相关](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F183&aid=7233&nid=132)  
 [[译] 如何制作一个类似 Uber 的溅落式启动屏](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Ftbwrl0&aid=7285&nid=132)  
+[细数 iOS 上的那些安全防护](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fci6oaf&aid=7312&nid=133)  
+[模仿斗鱼的部分界面介绍（iOS）](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fbey1zp&aid=7339&nid=133)  

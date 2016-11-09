@@ -160,3 +160,4 @@
 [从 OC 到 Swift 的过渡之路](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.iosxxx.com%2Fblog%2F2016-08-07-%25E4%25BB%258EOC%25E5%2588%25B0Swift%25E7%259A%2584%25E8%25BF%2587%25E6%25B8%25A1%25E4%25B9%258B%25E8%25B7%25AF.html&aid=7102&nid=130)  
 [[译] 回顾 Swift 3，展望 Swift 4](http://weekly.manong.io/bounce?url=https%3A%2F%2Fkemchenj.github.io%2F2016%2F07%2F31%2FLooking%2520back%2520on%2520Swift%25203%2520and%2520ahead%2520to%2520Swift%25204%2F&aid=7103&nid=130)  
 [[译] 一些使用 Swift 的 iOS 教程](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F7p9o1q&aid=7246&nid=132)  
+[LearnSwift：一百天五十个 Swift 项目](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Futjfjh&aid=7311&nid=133)  

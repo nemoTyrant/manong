@@ -327,3 +327,6 @@
 [如何把 Sublime 变身为 JavaScript 编辑器](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fsxpujv&aid=7274&nid=132)  
 [Vux v0.1.3 发布](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fmge9of&aid=7291&nid=132)  
 [为什么 ReactJS 不适合复杂的前端项目？](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fpr0h72&aid=7278&nid=132)  
+[《JavaScript 闯关记》](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fu564m2&aid=7317&nid=133)  
+[总结 ES6 常用的新特性](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fr1f5s2&aid=7354&nid=133)  
+[React 入门与进阶](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Ful4cu4&aid=7359&nid=133)  
