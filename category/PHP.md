@@ -146,3 +146,4 @@
 [Laravel 5.3 预热：10 个你需要知道的变更](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fu2x8r4&aid=7280&nid=132)  
 [深入了解 xhprof 性能分析工具](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F830jww&aid=7273&nid=132)  
 [Laravel 5.3 正式发布及相关资源汇总整理](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F9f7er6&aid=7350&nid=133)  
+[PHP 实现的 Shields badge 服务](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fmn24ug&aid=7406&nid=134)  

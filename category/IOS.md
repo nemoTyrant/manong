@@ -479,3 +479,8 @@
 [[译] 如何制作一个类似 Uber 的溅落式启动屏](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Ftbwrl0&aid=7285&nid=132)  
 [细数 iOS 上的那些安全防护](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fci6oaf&aid=7312&nid=133)  
 [模仿斗鱼的部分界面介绍（iOS）](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fbey1zp&aid=7339&nid=133)  
+[iOS 核心动画高级技巧](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fccjxsp&aid=7378&nid=134)  
+[如何面试 iOS 工程师](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fowr06f&aid=7380&nid=134)  
+[iOS 动态更新 waxpatch](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F3mce71&aid=7381&nid=134)  
+[开源解析 iOS App：DoubanFM](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F5k5ysm&aid=7409&nid=134)  
+[那些年提交 App Store 审核踩过的坑](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fymxwtu&aid=7422&nid=134)  

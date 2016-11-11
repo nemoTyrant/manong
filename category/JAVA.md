@@ -271,3 +271,8 @@
 [粗浅看 Tomcat 系统架构分析](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIyNjE4NjI2Nw%3D%3D%26mid%3D2652557256%26idx%3D1%26sn%3D0b19cd979b741b90770c26dec4934dd5&aid=7326&nid=133)  
 [MPush：基于 Netty 的实时开源消息推送系统](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fmdxexc&aid=7362&nid=133)  
 [JVM 的 Stop The World，安全点，黑暗的地底世界](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F4k5ujp&aid=7307&nid=133)  
+[Java 代码覆盖率工具 JaCoCo：踩坑篇](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIxNzEyMzIzOA%3D%3D%26mid%3D2652314614%26idx%3D1%26sn%3Df27f11bac0e09a39ab7404c3dda65720&aid=7374&nid=134)  
+[浅谈 RxJava 与 2.0 的新特性](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F192ugv&aid=7399&nid=134)  
+[简单轻量级的 RPC 框架 HRPC](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fu7k8sw&aid=7424&nid=134)  
+[[译] 性能测试最佳实践之 JMeter](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fwtn3mr&aid=7412&nid=134)  
+[浅析几种线程安全模型](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fvvp428&aid=7413&nid=134)  

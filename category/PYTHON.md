@@ -272,3 +272,5 @@
 [[译] Mock 在 Python 单元测试中的使用](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5NjQ4MjYwMQ%3D%3D%26mid%3D2664608040%26idx%3D1%26sn%3D4161fd8671c004b7083a9eceac55bdc0&aid=7316&nid=133)  
 [Python China](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F6988&aid=7324&nid=133)  
 [WebDriver 实用指南](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fbtktwe&aid=7353&nid=133)  
+[Python 不能不知的模块](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fzrbbn4&aid=7382&nid=134)  
+[Python 性能调优](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fe066d0&aid=7383&nid=134)  

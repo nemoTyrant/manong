@@ -57,3 +57,5 @@
 [React Native 开发小 Tips](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jackpu.com%2Freact-native-kai-fa-xiao-tips%2F&aid=6956&nid=128)  
 [Weex & React Native & JSPatch 对比](http://weekly.manong.io/bounce?url=http%3A%2F%2Fawhisper.github.io%2F2016%2F07%2F22%2FWeex-ReactNative-JSPatch%2F&aid=6970&nid=128)  
 [React Native 开源项目：嘎嘎商城客户端](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.lcode.org%2Freact-native-source-gagamall%2F&aid=7150&nid=130)  
+[React Native Android 通信原理](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fb6mpuv&aid=7377&nid=134)  
+[DaidaiHelperNew：React Native 开发的贷贷助手客户端](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fmcn1hm&aid=7427&nid=134)  

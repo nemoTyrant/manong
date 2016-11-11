@@ -42,3 +42,5 @@
 [小米范系列渗透测试工具介绍](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.freebuf.com%2Fsectool%2F109949.html&aid=7048&nid=129)  
 [那些年我们一起追逐过的安全工具](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fd7dme4&aid=7210&nid=131)  
 [Cowrie 蜜罐部署教程](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F9n61ac&aid=7349&nid=133)  
+[[译] target=_blank 安全漏洞示例](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fcz6sfd&aid=7410&nid=134)  
+[刷库、撞库那些事儿](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fobmrot&aid=7411&nid=134)  

@@ -112,3 +112,4 @@
 [Linux 的进程间通信：信号量](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIxNDMyODgyMA%3D%3D%26mid%3D2247483722%26idx%3D1%26sn%3D01517fd45132c3eab9000aaf1642640a&aid=7327&nid=133)  
 [Linux 中的冷热页机制概述](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fd4cz9u&aid=7334&nid=133)  
 [grep、awk 和 sed 入门](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Feqbx31&aid=7356&nid=133)  
+[[译] 25 个关于 Linux 的惊人真相！](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Faw3w6r&aid=7388&nid=134)  

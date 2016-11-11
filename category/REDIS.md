@@ -79,3 +79,5 @@
 [如何编写一个简单的 Redis 客户端](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fd4xzit&aid=7194&nid=131)  
 [深入浅出 Redis Cluster 原理](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA3MzYwNjQ3NA%3D%3D%26mid%3D2651296996%26idx%3D2%26sn%3D5f4811d73e74e2a63b1cb0d3d532862a&aid=7211&nid=131)  
 [Redis 数据 “丢失” 问题](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F4jhdk1&aid=7283&nid=132)  
+[Redis 百亿级 Key 存储方案](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F0jdfhm&aid=7372&nid=134)  
+[Redis 内存淘汰机制](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fj9cg1p&aid=7393&nid=134)  

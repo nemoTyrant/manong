@@ -161,3 +161,6 @@
 [[译] 回顾 Swift 3，展望 Swift 4](http://weekly.manong.io/bounce?url=https%3A%2F%2Fkemchenj.github.io%2F2016%2F07%2F31%2FLooking%2520back%2520on%2520Swift%25203%2520and%2520ahead%2520to%2520Swift%25204%2F&aid=7103&nid=130)  
 [[译] 一些使用 Swift 的 iOS 教程](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F7p9o1q&aid=7246&nid=132)  
 [LearnSwift：一百天五十个 Swift 项目](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Futjfjh&aid=7311&nid=133)  
+[Swift 与 OC 真正去理解 Block 解决循环引用的技巧](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fuz4s7y&aid=7379&nid=134)  
+[Swift 语言指南](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F80734&aid=7435&nid=134)  
+[[译] 百里挑一：21 个优质 Swift 开源 App](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fl6c4eb&aid=7418&nid=134)  
