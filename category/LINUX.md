@@ -113,3 +113,4 @@
 [Linux 中的冷热页机制概述](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fd4cz9u&aid=7334&nid=133)  
 [grep、awk 和 sed 入门](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Feqbx31&aid=7356&nid=133)  
 [[译] 25 个关于 Linux 的惊人真相！](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Faw3w6r&aid=7388&nid=134)  
+[Linux中国](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F10795&aid=7502&nid=135)  

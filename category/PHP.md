@@ -147,3 +147,5 @@
 [深入了解 xhprof 性能分析工具](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F830jww&aid=7273&nid=132)  
 [Laravel 5.3 正式发布及相关资源汇总整理](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F9f7er6&aid=7350&nid=133)  
 [PHP 实现的 Shields badge 服务](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fmn24ug&aid=7406&nid=134)  
+[化繁为简，从零开始的 PHP 分布式框架设计](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fqmhz8f&aid=7451&nid=135)  
+[Lumen 5.3 正式发布](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Ferobtt&aid=7475&nid=135)  

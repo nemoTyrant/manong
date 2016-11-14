@@ -12,3 +12,4 @@
 [Motor 0.5 Beta: asyncio, async and await, simple aggregation](http://weekly.manong.io/bounce?url=https%3A%2F%2Femptysqua.re%2Fblog%2Fmotor-0-5-beta-asyncio-async-await%2F&aid=4337&nid=95)  
 [MongoDB 2015 回顾：全新里程碑式的 WiredTiger 存储引擎](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAwMDU1MTE1OQ%3D%3D%26mid%3D403609184%26idx%3D1%26sn%3D17fa5b7409cfeee4de24b83696d00776%26scene%3D0%23wechat_redirect&aid=5165&nid=104)  
 [MongoDB 中的日志系统](http://weekly.manong.io/bounce?url=https%3A%2F%2Fyq.aliyun.com%2Farticles%2F5528&aid=5229&nid=105)  
+[MongoDB 优化之倒排索引](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fnisl6v&aid=7462&nid=135)  

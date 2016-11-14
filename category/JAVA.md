@@ -276,3 +276,6 @@
 [简单轻量级的 RPC 框架 HRPC](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fu7k8sw&aid=7424&nid=134)  
 [[译] 性能测试最佳实践之 JMeter](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fwtn3mr&aid=7412&nid=134)  
 [浅析几种线程安全模型](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fvvp428&aid=7413&nid=134)  
+[Netty SSL 性能调优](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F6t08fo&aid=7441&nid=135)  
+[JVM GC 那些事（一）](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F7o9neo&aid=7442&nid=135)  
+[Tiger：声称最快的 Java 依赖注入框架](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fuiz2q3&aid=7491&nid=135)  

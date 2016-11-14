@@ -3,3 +3,4 @@
 [ELK 在广告系统监控中的应用及 Elasticsearch 简介](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftech.youmi.net%2F2016%2F02%2F137134732.html&aid=5838&nid=113)  
 [Elasticsearch 架构以及源码概览](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA4NjgwMDQ0OA%3D%3D%26mid%3D2652445487%26idx%3D1%26sn%3Dfb99fac1db2ad8120e98f00165323b2a&aid=6879&nid=127)  
 [保护好你的 Elasticsearch 全文检索库](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.tnidea.com%2Fprotect-your-elasticsearch.html&aid=7050&nid=129)  
+[ElasticSearch 优化系列一：集群节点规划](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fd3u2ad&aid=7482&nid=135)  

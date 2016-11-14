@@ -484,3 +484,5 @@
 [iOS 动态更新 waxpatch](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F3mce71&aid=7381&nid=134)  
 [开源解析 iOS App：DoubanFM](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F5k5ysm&aid=7409&nid=134)  
 [那些年提交 App Store 审核踩过的坑](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fymxwtu&aid=7422&nid=134)  
+[iOS 性能提升总结](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F4v5x4t&aid=7445&nid=135)  
+[深入理解 GCD](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F4ocawt&aid=7446&nid=135)  

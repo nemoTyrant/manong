@@ -336,3 +336,6 @@
 [利用 ESLint 检查代码质量](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fyrw8ox&aid=7416&nid=134)  
 [SeaJS 从入门到原理](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fo6ezkp&aid=7419&nid=134)  
 [还在每天跟 React 这些痛点战斗？看看 Domcom！](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fvkos3f&aid=7415&nid=134)  
+[dva 1.0：基于 React 和 Redux 的轻量级框架](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F4wg2bo&aid=7490&nid=135)  
+[react-rainie-router：移动端 React 路由](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fyynccc&aid=7494&nid=135)  
+[Web Components 是个什么样的东西](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fgdhryg&aid=7485&nid=135)  

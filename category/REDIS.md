@@ -81,3 +81,4 @@
 [Redis 数据 “丢失” 问题](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F4jhdk1&aid=7283&nid=132)  
 [Redis 百亿级 Key 存储方案](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F0jdfhm&aid=7372&nid=134)  
 [Redis 内存淘汰机制](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fj9cg1p&aid=7393&nid=134)  
+[缓存使用总结](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Flmhayx&aid=7466&nid=135)  

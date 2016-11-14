@@ -252,3 +252,5 @@
 [Golang 语言之 groupcache](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F28c8ze&aid=7314&nid=133)  
 [[译] Go 1.7 让二进制文件变得更小](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5OTcxMzE0MQ%3D%3D%26mid%3D2653369749%26idx%3D1%26sn%3De52cd2766404f27bf47cb95ef22c00f0&aid=7315&nid=133)  
 [单件模式 Golang 实现](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F9bnoz7&aid=7384&nid=134)  
+[具有故障模拟功能的 RPC 实现分析（Golang）](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fp5be96&aid=7449&nid=135)  
+[Go 微服务实践](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5OTcxMzE0MQ%3D%3D%26mid%3D2653369755%26idx%3D1%26sn%3D73e69c0e4b0d01f0b3f6530d6f07507f&aid=7450&nid=135)  

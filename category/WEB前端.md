@@ -304,3 +304,7 @@
 [前端开源项目持续集成三剑客](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F9la1qf&aid=7284&nid=132)  
 [使用纯 CSS 实现 500px 照片列表布局](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fz7484t&aid=7318&nid=133)  
 [前端数据模版引擎的总结](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F6dybp2&aid=7340&nid=133)  
+[[译] 20 个编写现代 CSS 代码的建议](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F62zbrq&aid=7454&nid=135)  
+[flex.css：移动端 flex 布局神器](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F5i7ojt&aid=7496&nid=135)  
+[可信前端之路：代码保护](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fqe95rh&aid=7470&nid=135)  
+[腾讯 QMUI Web 框架更新至 1.2.2](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F0dddmx&aid=7484&nid=135)  

@@ -10,7 +10,7 @@
 
 56期为14年最受欢迎列表，请直接浏览[原地址](http://weekly.manong.io/issues/56)
 
-现在已整理到第134期。
+现在已整理到第135期。
 
 由于现在条目过多，在同一页显示全部内容已不再合适，所以按分类写到了不同文件里。仍然想以全部内容方式查看的可以点击[all.md](category/all.md)浏览。
 
@@ -82,6 +82,7 @@
 [UNITY3D](category/UNITY3D.md)  
 [VARNISH](category/VARNISH.md)  
 [VIM](category/VIM.md)  
+[VR](category/VR.md)  
 [WEB前端](category/WEB前端.md)  
 [WEB安全](category/WEB安全.md)  
 [WOLFRAM](category/WOLFRAM.md)  
