@@ -276,3 +276,6 @@
 [Python 性能调优](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fe066d0&aid=7383&nid=134)  
 [教你阅读 Python 开源项目代码](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fxm0bqf&aid=7447&nid=135)  
 [Python 中的关键字 with 详解](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fiubvj9&aid=7448&nid=135)  
+[[译] Python，机器学习和语言之争](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fkseu05&aid=7523&nid=136)  
+[使用 dtrace 跟踪 Python 应用](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F5r3p63&aid=7524&nid=136)  
+[一分钟让你的程序支持队列和并发](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F583q7y&aid=7538&nid=136)  

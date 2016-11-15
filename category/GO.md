@@ -254,3 +254,5 @@
 [单件模式 Golang 实现](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F9bnoz7&aid=7384&nid=134)  
 [具有故障模拟功能的 RPC 实现分析（Golang）](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fp5be96&aid=7449&nid=135)  
 [Go 微服务实践](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5OTcxMzE0MQ%3D%3D%26mid%3D2653369755%26idx%3D1%26sn%3D73e69c0e4b0d01f0b3f6530d6f07507f&aid=7450&nid=135)  
+[一个 Go 程序系统线程暴涨的问题](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Ffvflvn&aid=7521&nid=136)  
+[Go 官方库 RPC 开发指南](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fzlt3lg&aid=7522&nid=136)  

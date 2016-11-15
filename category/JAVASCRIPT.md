@@ -339,3 +339,7 @@
 [dva 1.0：基于 React 和 Redux 的轻量级框架](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F4wg2bo&aid=7490&nid=135)  
 [react-rainie-router：移动端 React 路由](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fyynccc&aid=7494&nid=135)  
 [Web Components 是个什么样的东西](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fgdhryg&aid=7485&nid=135)  
+[JS 家的排序算法](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F89orh9&aid=7528&nid=136)  
+[React + Redux 渲染性能优化原理](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fmrs2jw&aid=7542&nid=136)  
+[用 cooking 搭建一个简单又优雅的 Vue 项目开发环境](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fq5bj7u&aid=7551&nid=136)  
+[从零开始学 ReactJS](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Faswg9u&aid=7562&nid=136)  

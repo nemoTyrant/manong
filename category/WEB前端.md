@@ -308,3 +308,8 @@
 [flex.css：移动端 flex 布局神器](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F5i7ojt&aid=7496&nid=135)  
 [可信前端之路：代码保护](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fqe95rh&aid=7470&nid=135)  
 [腾讯 QMUI Web 框架更新至 1.2.2](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F0dddmx&aid=7484&nid=135)  
+[能使用 HTML/CSS 解决的问题就不要使用 JS](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F60bq4o&aid=7525&nid=136)  
+[Webpack 从入门到上线](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Flbd7ug&aid=7533&nid=136)  
+[前沿开发团队的面试过程](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fenc3ot&aid=7548&nid=136)  
+[前端神器 Adobe Brackets 使用心得](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fiitu18&aid=7553&nid=136)  
+[教你设计一套 gulp & webpack 构建系统](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Frw0usu&aid=7561&nid=136)  

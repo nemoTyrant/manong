@@ -7,3 +7,4 @@
 [Flume + Kafka 收集 Docker 容器内分布式日志应用实践](http://weekly.manong.io/bounce?url=http%3A%2F%2Fneoremind.com%2F2016%2F05%2Fflumekafka%25E6%2594%25B6%25E9%259B%2586docker%25E5%25AE%25B9%25E5%2599%25A8%25E5%2586%2585%25E5%2588%2586%25E5%25B8%2583%25E5%25BC%258F%25E6%2597%25A5%25E5%25BF%2597%25E5%25BA%2594%25E7%2594%25A8%25E5%25AE%259E%25E8%25B7%25B5%2F&aid=6247&nid=118)  
 [Kafka 设计解析](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jasongj.com%2F2015%2F03%2F10%2FKafkaColumn1%2F&aid=6657&nid=123)  
 [Logkafka：Apache Kafka 的日志收集代理](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F0c54an&aid=7217&nid=131)  
+[[译] 从 MySQL 到 Kafka，如何管理每天实时发布的几十亿条消息？](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA5NzkxMzg1Nw%3D%3D%26mid%3D2653160745%26idx%3D1%26sn%3De9000520c7debe3a9ad55be7616130f8&aid=7509&nid=136)  

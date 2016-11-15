@@ -83,3 +83,4 @@
 [[译] PG 还是 MySQL？](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fxql72a&aid=7208&nid=131)  
 [大数据分页方案](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fsvz20l&aid=7258&nid=132)  
 [PhxSQL：高可用、强一致的 MySQL 集群](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI4NDMyNTU2Mw%3D%3D%26mid%3D2247483783%26idx%3D1%26sn%3Da2d6e589f1f591ded7703eb74aefccbe&aid=7429&nid=134)  
+[MySQL 8.0 发布，是时候与 MyISAM 说再见了](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5MjIxNDA4NA%3D%3D%26mid%3D2649737764%26idx%3D1%26sn%3D45572cc222df2627e9c714a8ed0cd142&aid=7532&nid=136)  

@@ -9,3 +9,4 @@
 [100 "must read" R-bloggers' posts for 2015](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.r-bloggers.com%2F100-must-read-r-bloggers-posts-for-2015%2F&aid=5093&nid=104)  
 [[译] 教你如何用 R 进行数据挖掘](http://weekly.manong.io/bounce?url=http%3A%2F%2Fshujuren.org%2Farticle%2F95.html&aid=6761&nid=125)  
 [零基础学习 R 语言数据分析](http://weekly.manong.io/bounce?url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F21801789&aid=7110&nid=130)  
+[SPSS 与 R 语言集成案例](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fj719od&aid=7529&nid=136)  

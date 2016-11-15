@@ -12,3 +12,4 @@
 [[PDF] Why Rust? (Jim Blandy)](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.oreilly.com%2Fprogramming%2Ffree%2Ffiles%2Fwhy-rust.pdf%3Fhmsr%3Dtoutiao.io%26utm_medium%3Dtoutiao.io%26utm_source%3Dtoutiao.io&aid=3675&nid=88)  
 [[译] 写给 Python 程序员看的 Rust 介绍](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.windrunner.info%2Frust%2Fpython-rust.html&aid=5681&nid=111)  
 [Rust 语言入门、关键技术与实战经验](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAwMDU1MTE1OQ%3D%3D%26mid%3D405037902%26idx%3D1%26sn%3D97d9af490eefc5d6158cb6b6a70f67e5&aid=5682&nid=111)  
+[[译] 比较 Rust 和 Java](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fwcilkm&aid=7515&nid=136)  

@@ -116,3 +116,6 @@
 [C/C++ 在 Java 项目、Android 和 Objective-C 三大平台下实现混合编程](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.taoweiji.cn%2F2016%2F08%2F02%2Fndk&aid=7098&nid=130)  
 [PhxRPC：微信开源的 C/C++ RPC 框架](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Flbit07&aid=7363&nid=133)  
 [C++17 写法上已经很接近 Python 了](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Ffy6v7g&aid=7306&nid=133)  
+[浏览 Paddle C++ 源码](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fn2hcd5&aid=7513&nid=136)  
+[你见过哪些令你瞠目结舌的 C/C++ 代码技巧？](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fb3stre&aid=7543&nid=136)  
+[从零开始的 JSON 库教程](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fktnzd7&aid=7534&nid=136)  

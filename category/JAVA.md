@@ -279,3 +279,8 @@
 [Netty SSL 性能调优](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F6t08fo&aid=7441&nid=135)  
 [JVM GC 那些事（一）](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F7o9neo&aid=7442&nid=135)  
 [Tiger：声称最快的 Java 依赖注入框架](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fuiz2q3&aid=7491&nid=135)  
+[[译] 防止 Java 内存泄露的安全措施](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Ff6wybz&aid=7514&nid=136)  
+[拆轮子系列：拆 RxJava](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAxMjM0OTA3Nw%3D%3D%26mid%3D2650203804%26idx%3D1%26sn%3Dc19117fbdf33ffabdb0fbc157af9a27a%23rd&aid=7526&nid=136)  
+[Tomcat那些事儿](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F53054&aid=7567&nid=136)  
+[Tomcat 怎样防止跨站请求伪造](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI3MTEwODc5Ng%3D%3D%26mid%3D2650859236%26idx%3D1%26sn%3D426730453a1a0496594cc6808e497a8f&aid=7545&nid=136)  
+[Btrace 入门到熟练小工完全指南](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fv0awo9&aid=7531&nid=136)  

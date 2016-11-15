@@ -486,3 +486,6 @@
 [那些年提交 App Store 审核踩过的坑](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fymxwtu&aid=7422&nid=134)  
 [iOS 性能提升总结](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F4v5x4t&aid=7445&nid=135)  
 [深入理解 GCD](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F4ocawt&aid=7446&nid=135)  
+[[译] iOS 汇编教程](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Favfems&aid=7518&nid=136)  
+[兼容 iOS 10 资料整理笔记](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F6h1wu0&aid=7519&nid=136)  
+[PYPhotoBrowser：高仿 QQ、微信效果的图片浏览器](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fa4l0xu&aid=7566&nid=136)  
