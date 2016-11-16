@@ -279,3 +279,5 @@
 [[译] Python，机器学习和语言之争](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fkseu05&aid=7523&nid=136)  
 [使用 dtrace 跟踪 Python 应用](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F5r3p63&aid=7524&nid=136)  
 [一分钟让你的程序支持队列和并发](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F583q7y&aid=7538&nid=136)  
+[[译] 不可不知的一点 Python 陷阱](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F8mt8nx&aid=7587&nid=137)  
+[我的 Python 订阅列表](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fcvvrkq&aid=7588&nid=137)  

@@ -489,3 +489,6 @@
 [[译] iOS 汇编教程](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Favfems&aid=7518&nid=136)  
 [兼容 iOS 10 资料整理笔记](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F6h1wu0&aid=7519&nid=136)  
 [PYPhotoBrowser：高仿 QQ、微信效果的图片浏览器](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fa4l0xu&aid=7566&nid=136)  
+[iOS 组件化方案](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fq6uh3u&aid=7584&nid=137)  
+[iOS 10 适配知识点总结](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fe7c8to&aid=7585&nid=137)  
+[iOS 审核总被拒？腾讯教你提升 iOS 审核通过率！](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fxpu8er&aid=7603&nid=137)  

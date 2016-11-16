@@ -284,3 +284,6 @@
 [Tomcat那些事儿](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F53054&aid=7567&nid=136)  
 [Tomcat 怎样防止跨站请求伪造](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI3MTEwODc5Ng%3D%3D%26mid%3D2650859236%26idx%3D1%26sn%3D426730453a1a0496594cc6808e497a8f&aid=7545&nid=136)  
 [Btrace 入门到熟练小工完全指南](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fv0awo9&aid=7531&nid=136)  
+[Java Hotspot G1 GC 的一些关键技术](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F8dltp2&aid=7581&nid=137)  
+[ELK 实现 Java 分布式系统日志分析架构](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Ftvm91o&aid=7615&nid=137)  
+[BTrace 原理浅析](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fqn7ro7&aid=7617&nid=137)  

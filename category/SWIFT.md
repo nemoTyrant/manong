@@ -164,3 +164,4 @@
 [Swift 与 OC 真正去理解 Block 解决循环引用的技巧](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fuz4s7y&aid=7379&nid=134)  
 [Swift 语言指南](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F80734&aid=7435&nid=134)  
 [[译] 百里挑一：21 个优质 Swift 开源 App](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fl6c4eb&aid=7418&nid=134)  
+[适配 Swift 3 的一点小经验和坑](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Faeezd9&aid=7586&nid=137)  

@@ -45,3 +45,4 @@
 [[译] target=_blank 安全漏洞示例](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fcz6sfd&aid=7410&nid=134)  
 [刷库、撞库那些事儿](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fobmrot&aid=7411&nid=134)  
 [最新最全的 KCon 2016 顶级黑客议题 PPT](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fx7f5my&aid=7463&nid=135)  
+[Burp Suite 实战指南](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fxbn0zw&aid=7601&nid=137)  

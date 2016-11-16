@@ -313,3 +313,5 @@
 [前沿开发团队的面试过程](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fenc3ot&aid=7548&nid=136)  
 [前端神器 Adobe Brackets 使用心得](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fiitu18&aid=7553&nid=136)  
 [教你设计一套 gulp & webpack 构建系统](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Frw0usu&aid=7561&nid=136)  
+[React Editor 应用编辑器（一）](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F0f6h7l&aid=7612&nid=137)  
+[WeUI 1.0 发布](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F19agxm&aid=7624&nid=137)  

@@ -151,3 +151,8 @@
 [Lumen 5.3 正式发布](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Ferobtt&aid=7475&nid=135)  
 [PHP 7.1 新特性一览](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fg61swb&aid=7527&nid=136)  
 [支持 Markdown 的 Moell Blog 开源了](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Ffendst&aid=7563&nid=136)  
+[tcpproxy：基于 Swoole 实现的 TCP 数据包转发工具](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fxy157j&aid=7628&nid=137)  
+[laravel-blog：由 Laravel 5.3 强力驱动的博客系统](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fqjftm9&aid=7631&nid=137)  
+[Medoo：轻量级 PHP 数据库框架](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F4mu5li&aid=7633&nid=137)  
+[请求的递归和死锁](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fbbvqhg&aid=7605&nid=137)  
+[利用 Gearman 实现系统错误报警功能](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fewf4r0&aid=7611&nid=137)  

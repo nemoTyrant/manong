@@ -561,3 +561,7 @@
 [关于截图你所要了解的一切](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fbz6kbu&aid=7558&nid=136)  
 [SmartisanTime：Android 仿锤子闹钟](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F0pk52s&aid=7564&nid=136)  
 [开源日志库 Logger 的剖析](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fln6d5h&aid=7540&nid=136)  
+[[译] Android 防止内存泄漏的八种方法（下）](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F58vlsk&aid=7582&nid=137)  
+[微信 Tinker 的一切都在这里，包括源码（一）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAwNDY1ODY2OQ%3D%3D%26mid%3D2649286384%26idx%3D1%26sn%3Df1aff31d6a567674759be476bcd12549&aid=7583&nid=137)  
+[详谈高大上的图片加载框架 Glide](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fdcrau0&aid=7621&nid=137)  
+[SuperPlayer：基于 IjkPlayer 的播放器](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fycpn90&aid=7627&nid=137)  

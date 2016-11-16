@@ -343,3 +343,6 @@
 [React + Redux 渲染性能优化原理](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fmrs2jw&aid=7542&nid=136)  
 [用 cooking 搭建一个简单又优雅的 Vue 项目开发环境](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fq5bj7u&aid=7551&nid=136)  
 [从零开始学 ReactJS](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Faswg9u&aid=7562&nid=136)  
+[[译] JavaScript 闭包的底层运行机制](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F9t7y4x&aid=7589&nid=137)  
+[[译] 也许你不必使用 Redux](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fi7h4lz&aid=7608&nid=137)  
+[deepstream：开源的实时服务器](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fclu82g&aid=7630&nid=137)  

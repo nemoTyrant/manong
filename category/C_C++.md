@@ -119,3 +119,7 @@
 [浏览 Paddle C++ 源码](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fn2hcd5&aid=7513&nid=136)  
 [你见过哪些令你瞠目结舌的 C/C++ 代码技巧？](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fb3stre&aid=7543&nid=136)  
 [从零开始的 JSON 库教程](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fktnzd7&aid=7534&nid=136)  
+[用一年时间如何能掌握 C++？](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Frqqr84&aid=7580&nid=137)  
+[Boost.Asio 开发的相关基础知识（一）：读读文档](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fuhuvf7&aid=7604&nid=137)  
+[自己动手写分布式 KV 存储引擎（一）：设计和实现网络框架](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F7acvgs&aid=7573&nid=137)  
+[xhttpcache：HTTP 高速数据缓存服务器](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fxjh9ra&aid=7629&nid=137)  
