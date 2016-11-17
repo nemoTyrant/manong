@@ -492,3 +492,6 @@
 [iOS 组件化方案](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fq6uh3u&aid=7584&nid=137)  
 [iOS 10 适配知识点总结](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fe7c8to&aid=7585&nid=137)  
 [iOS 审核总被拒？腾讯教你提升 iOS 审核通过率！](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fxpu8er&aid=7603&nid=137)  
+[把第三方 iOS 应用转成动态库](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2Fcxkrbh&aid=7652&nid=138)  
+[iOS 10 Safari 视频播放新政策](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2Fyfmy4k&aid=7653&nid=138)  
+[iOS 10 URL Scheme 列表](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2Ftd97gp&aid=7671&nid=138)  

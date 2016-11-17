@@ -43,3 +43,4 @@
 [Angular 说：这个锅我不背](http://weekly.manong.io/bounce?url=http%3A%2F%2Fyalishizhude.github.io%2F2016%2F05%2F30%2F4angular%2F&aid=6408&nid=120)  
 [Angular 官方中文版](http://weekly.manong.io/bounce?url=https%3A%2F%2Fangular.cn%2Ftranslate%2Fcn%2Fhome.html&aid=6846&nid=126)  
 [尝试通过 AngularJS 模块按需加载搭建大型应用（上）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fyalishizhude.github.io%2F2016%2F07%2F07%2Fangular-large-1%2F&aid=6851&nid=126)  
+[全面剖析 Angular 2 新特性](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2Fh2q6g2&aid=7683&nid=138)  

@@ -287,3 +287,4 @@
 [Java Hotspot G1 GC 的一些关键技术](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F8dltp2&aid=7581&nid=137)  
 [ELK 实现 Java 分布式系统日志分析架构](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Ftvm91o&aid=7615&nid=137)  
 [BTrace 原理浅析](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fqn7ro7&aid=7617&nid=137)  
+[漫谈 JVM](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2F9b8e7b&aid=7650&nid=138)  

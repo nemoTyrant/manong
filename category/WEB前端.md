@@ -315,3 +315,8 @@
 [教你设计一套 gulp & webpack 构建系统](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Frw0usu&aid=7561&nid=136)  
 [React Editor 应用编辑器（一）](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F0f6h7l&aid=7612&nid=137)  
 [WeUI 1.0 发布](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F19agxm&aid=7624&nid=137)  
+[[译] 理解 CSS 模块化](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2F8n8sqo&aid=7659&nid=138)  
+[前端面试常见问答](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2F6glrlt&aid=7667&nid=138)  
+[细说 webpack 之流程篇](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2F591rz7&aid=7675&nid=138)  
+[iView：基于 Vue 的高质量 UI 组件库](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2Fbauqo1&aid=7693&nid=138)  
+[Web 页面加载速度优化实战](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2Fyifasv&aid=7677&nid=138)  

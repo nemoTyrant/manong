@@ -346,3 +346,5 @@
 [[译] JavaScript 闭包的底层运行机制](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F9t7y4x&aid=7589&nid=137)  
 [[译] 也许你不必使用 Redux](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fi7h4lz&aid=7608&nid=137)  
 [deepstream：开源的实时服务器](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fclu82g&aid=7630&nid=137)  
+[[译] 在 2016 年学 JavaScript 是一种什么样的体验？](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2F0i95hb&aid=7658&nid=138)  
+[Vue 2.0 来了！](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2F9l2e2r&aid=7679&nid=138)  

@@ -281,3 +281,7 @@
 [一分钟让你的程序支持队列和并发](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F583q7y&aid=7538&nid=136)  
 [[译] 不可不知的一点 Python 陷阱](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F8mt8nx&aid=7587&nid=137)  
 [我的 Python 订阅列表](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fcvvrkq&aid=7588&nid=137)  
+[Python 进阶、求职必看的前辈经验分享](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2F8sfl72&aid=7660&nid=138)  
+[concurrent.futures 源码阅读笔记（Python）](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2F9sygwc&aid=7661&nid=138)  
+[Flask 最佳实践](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2Ffmdayd&aid=7669&nid=138)  
+[docopt：构造一个漂亮的命令行工具](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2Fgyv6jp&aid=7696&nid=138)  

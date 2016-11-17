@@ -256,3 +256,6 @@
 [Go 微服务实践](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5OTcxMzE0MQ%3D%3D%26mid%3D2653369755%26idx%3D1%26sn%3D73e69c0e4b0d01f0b3f6530d6f07507f&aid=7450&nid=135)  
 [一个 Go 程序系统线程暴涨的问题](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Ffvflvn&aid=7521&nid=136)  
 [Go 官方库 RPC 开发指南](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fzlt3lg&aid=7522&nid=136)  
+[[译] 关于 Go tools 的比较有用的 flags](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2Fqdkt6z&aid=7656&nid=138)  
+[Golang 的服务控制实践](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2Fpleq1y&aid=7657&nid=138)  
+[goTcpProxy：支持负载均衡、健康检查的 TcpProxy](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2Fvmcmrd&aid=7692&nid=138)  
