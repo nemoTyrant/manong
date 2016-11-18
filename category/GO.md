@@ -259,3 +259,6 @@
 [[译] 关于 Go tools 的比较有用的 flags](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2Fqdkt6z&aid=7656&nid=138)  
 [Golang 的服务控制实践](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2Fpleq1y&aid=7657&nid=138)  
 [goTcpProxy：支持负载均衡、健康检查的 TcpProxy](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2Fvmcmrd&aid=7692&nid=138)  
+[用 Golang 编写机器人](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fchyj6c&aid=7720&nid=139)  
+[[译] Go 文件操作大全](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fub944y&aid=7721&nid=139)  
+[Go 技术社区上线了](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F18pw7y&aid=7732&nid=139)  

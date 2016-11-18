@@ -285,3 +285,4 @@
 [concurrent.futures 源码阅读笔记（Python）](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2F9sygwc&aid=7661&nid=138)  
 [Flask 最佳实践](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2Ffmdayd&aid=7669&nid=138)  
 [docopt：构造一个漂亮的命令行工具](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2Fgyv6jp&aid=7696&nid=138)  
+[[译] Python 中的异步编程](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fd06nub&aid=7725&nid=139)  

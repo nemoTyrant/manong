@@ -61,3 +61,4 @@
 [DaidaiHelperNew：React Native 开发的贷贷助手客户端](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fmcn1hm&aid=7427&nid=134)  
 [写给 iOS 开发者的 React Native 学习路线](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fiqi60b&aid=7520&nid=136)  
 [使用 React Native 和 Redux 重构的知乎日报](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Frpo4bi&aid=7610&nid=137)  
+[项目接入使用 React Native](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fx44qmu&aid=7719&nid=139)  

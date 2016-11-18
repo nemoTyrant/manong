@@ -348,3 +348,6 @@
 [deepstream：开源的实时服务器](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fclu82g&aid=7630&nid=137)  
 [[译] 在 2016 年学 JavaScript 是一种什么样的体验？](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2F0i95hb&aid=7658&nid=138)  
 [Vue 2.0 来了！](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2F9l2e2r&aid=7679&nid=138)  
+[[译] JavaScript 模块化入门](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F44cgzq&aid=7724&nid=139)  
+[基于 React.js + redux + bootstrap 的 RubyChina 示例](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftlv9ji&aid=7748&nid=139)  
+[Tesseract.js：OCR 识别 JS 库](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftxaibr&aid=7759&nid=139)  

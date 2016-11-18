@@ -158,3 +158,5 @@
 [利用 Gearman 实现系统错误报警功能](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fewf4r0&aid=7611&nid=137)  
 [Swoole 的进程模型](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2F31qnf9&aid=7674&nid=138)  
 [zhttp：根据 zphp 改造专门用来做 http 服务的轻量级框架](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2Fui10y9&aid=7694&nid=138)  
+[Laravel 的核心概念](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fdknbmv&aid=7723&nid=139)  
+[Xblog：强大、响应式的博客系统](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fg9r2ls&aid=7762&nid=139)  

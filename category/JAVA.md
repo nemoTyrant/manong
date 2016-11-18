@@ -288,3 +288,8 @@
 [ELK 实现 Java 分布式系统日志分析架构](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Ftvm91o&aid=7615&nid=137)  
 [BTrace 原理浅析](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fqn7ro7&aid=7617&nid=137)  
 [漫谈 JVM](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2F9b8e7b&aid=7650&nid=138)  
+[用 Spring Boot 颠覆 Java 应用开发](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Flaxf1q&aid=7712&nid=139)  
+[纪念我曾经的 Java 姿势](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxc9hyk&aid=7713&nid=139)  
+[Java后端技术](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F63673&aid=7763&nid=139)  
+[JLiteSpider：轻量级的分布式 Java 爬虫框架](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2nh7g6&aid=7761&nid=139)  
+[RESTful API 利器 Swagger 介绍](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbd4lf6&aid=7736&nid=139)  

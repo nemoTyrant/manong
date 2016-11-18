@@ -320,3 +320,5 @@
 [细说 webpack 之流程篇](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2F591rz7&aid=7675&nid=138)  
 [iView：基于 Vue 的高质量 UI 组件库](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2Fbauqo1&aid=7693&nid=138)  
 [Web 页面加载速度优化实战](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2Fyifasv&aid=7677&nid=138)  
+[在重构脚手架中掌握 React / Redux / Webpack2 基本套路](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpq17kb&aid=7739&nid=139)  
+[大公司是怎么发布静态资源的](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Febqhqn&aid=7754&nid=139)  

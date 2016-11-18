@@ -495,3 +495,7 @@
 [把第三方 iOS 应用转成动态库](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2Fcxkrbh&aid=7652&nid=138)  
 [iOS 10 Safari 视频播放新政策](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2Fyfmy4k&aid=7653&nid=138)  
 [iOS 10 URL Scheme 列表](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2Ftd97gp&aid=7671&nid=138)  
+[从 Instagram 开源 IGListKit 聊聊 iOS 开发趋势](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fdw8n71&aid=7716&nid=139)  
+[iOS 组件化构思](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fiozglg&aid=7717&nid=139)  
+[5 年 iOS 经验做的基础工程送给你](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhmj47b&aid=7737&nid=139)  
+[重磅｜后 IDFA 时代，用 SimulateIDFA 追踪那个不具名的 TA](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA4MzE3MzczMA%3D%3D%26mid%3D2658683734%26idx%3D1%26sn%3D390782648e6b3cd7fc3c5324d6f46b5b%26chksm%3D8476635bb301ea4dd330262d95c5d31e4c5b7323cd6b5e4bcf724c57e5bd8af191628a671f18%26scene%3D4%23wechat_redirect&aid=7703&nid=139)  

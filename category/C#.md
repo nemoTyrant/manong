@@ -8,3 +8,4 @@
 [[译] 8 个可以节省时间的 C# 开发相关工具](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fnm76ma&aid=7174&nid=131)  
 [使用 C# 开发的千万级应用](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAwNTMxMzg1MA%3D%3D%26mid%3D2654067903%26idx%3D1%26sn%3Db7dbc68796950b27a69acea973b414bc&aid=7452&nid=135)  
 [C# 在腾讯的发展](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2F5raby8&aid=7655&nid=138)  
+[[译] C# 7.0 的新特性一览表](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fl2xnv9&aid=7722&nid=139)  

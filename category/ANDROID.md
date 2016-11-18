@@ -568,3 +568,5 @@
 [关于 Android 业务组件化的一些思考](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2Ff8w69j&aid=7651&nid=138)  
 [AndroidDeveloper](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F64109&aid=7697&nid=138)  
 [TasteNews：MVP 架构的新闻类应用](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2Fuwt82n&aid=7695&nid=138)  
+[Android 7.0 适配教程心得](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftu1ezk&aid=7714&nid=139)  
+[请不要滥用 SharedPreference](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwma89v&aid=7715&nid=139)  

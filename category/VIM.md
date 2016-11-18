@@ -24,3 +24,4 @@
 [撸一撸 Vim（五）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fzhongmingmao.me%2F2016%2F04%2F30%2Fcommand_line_mode.html&aid=6094&nid=116)  
 [vim/vi 命令整理](http://weekly.manong.io/bounce?url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F21278816&aid=6506&nid=121)  
 [使用更高效的 Vim 进行开发](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fzu2e2j&aid=7281&nid=132)  
+[给想学习 Vim 的超级小白的文章](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F48jhdt&aid=7740&nid=139)  

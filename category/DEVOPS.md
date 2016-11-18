@@ -8,3 +8,4 @@
 [[PDF] 2015 DevOps 现状调查报告](http://weekly.manong.io/bounce?url=http%3A%2F%2Fpan.baidu.com%2Fs%2F1miQtlws&aid=5699&nid=111)  
 [DevOps 实战：百度持续交付体系与最佳实践大解密](http://weekly.manong.io/bounce?url=http%3A%2F%2Fdbaplus.cn%2Fnews-21-471-1.html&aid=6651&nid=123)  
 [打造 DevOps 持续交付高速公路](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI4OTA1NzQ1OQ%3D%3D%26mid%3D2649621514%26idx%3D1%26sn%3De6b01c7a8029b5131db4c986949b5b2c&aid=6858&nid=126)  
+[[译] 在 2016 年做 DevOps 是一种什么样的体验？](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F22m5kg&aid=7730&nid=139)  
