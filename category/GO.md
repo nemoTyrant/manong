@@ -262,3 +262,5 @@
 [用 Golang 编写机器人](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fchyj6c&aid=7720&nid=139)  
 [[译] Go 文件操作大全](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fub944y&aid=7721&nid=139)  
 [Go 技术社区上线了](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F18pw7y&aid=7732&nid=139)  
+[深入 Go UDP 编程](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F5ey16k&aid=7783&nid=140)  
+[开发 Go 项目最简单的方式：一个基于 Docker 的 Go 工具](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAwMDk0MTMzNQ%3D%3D%26mid%3D2247484188%26idx%3D1%26sn%3D47c2c6984cc0d2d18ce4b24e1e83e15f&aid=7825&nid=140)  

@@ -160,3 +160,6 @@
 [zhttp：根据 zphp 改造专门用来做 http 服务的轻量级框架](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2Fui10y9&aid=7694&nid=138)  
 [Laravel 的核心概念](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fdknbmv&aid=7723&nid=139)  
 [Xblog：强大、响应式的博客系统](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fg9r2ls&aid=7762&nid=139)  
+[PHP 并发控制中的独占锁](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fco1jhk&aid=7785&nid=140)  
+[Laravel 5.3 中文文档翻译完成](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fedfuz5&aid=7813&nid=140)  
+[Swoole 入门教程](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsswpbb&aid=7814&nid=140)  

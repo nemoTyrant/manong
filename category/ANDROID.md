@@ -570,3 +570,7 @@
 [TasteNews：MVP 架构的新闻类应用](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2Fuwt82n&aid=7695&nid=138)  
 [Android 7.0 适配教程心得](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftu1ezk&aid=7714&nid=139)  
 [请不要滥用 SharedPreference](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwma89v&aid=7715&nid=139)  
+[Android 业务组件化开发实践](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvw71ue&aid=7780&nid=140)  
+[各种各样的 Android 截图方法](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fiiued7&aid=7781&nid=140)  
+[Gityuan的Android深度剖析](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F73076&aid=7832&nid=140)  
+[GitClub：不仅仅是 GitHub 客户端，而且是一个发现好的 GitHub 项目的 App](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2ky01r&aid=7827&nid=140)  

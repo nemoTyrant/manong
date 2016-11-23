@@ -351,3 +351,7 @@
 [[译] JavaScript 模块化入门](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F44cgzq&aid=7724&nid=139)  
 [基于 React.js + redux + bootstrap 的 RubyChina 示例](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftlv9ji&aid=7748&nid=139)  
 [Tesseract.js：OCR 识别 JS 库](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftxaibr&aid=7759&nid=139)  
+[JavaScript 世界万物诞生记](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgs30ir&aid=7786&nid=140)  
+[[译] 探秘 JavaScript 中的六个字符](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F5alv9d&aid=7787&nid=140)  
+[深入理解 React](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpcszgx&aid=7789&nid=140)  
+[Vue 2.0 的建议学习顺序](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbf5wc3&aid=7801&nid=140)  

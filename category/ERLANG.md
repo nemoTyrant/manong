@@ -15,3 +15,4 @@
 [[PDF] 面对软件错误构建可靠的分布式系统](http://weekly.manong.io/bounce?url=http%3A%2F%2Fopen.qiniudn.com%2F%255BJoe-Armstrong%255D%255BCN%255DMaking-reliable-distributed-systems-in-the-presence-of-software-errors.pdf&aid=5233&nid=105)  
 [Ecto - 一个 Elixir 的数据库 ORM 库](http://weekly.manong.io/bounce?url=https%3A%2F%2Fmedium.com%2F%40tingwang_de%2Fecto-fbcdb06eaf2c%23.ltzybu4lf&aid=5333&nid=106)  
 [[译] Erlang 之禅](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fkiv939&aid=7591&nid=137)  
+[[译] Erlang 之父学习 Elixir 语言的一周](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F33f7hu&aid=7790&nid=140)  

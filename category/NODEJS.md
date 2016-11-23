@@ -115,3 +115,4 @@
 [PM2 实用入门指南](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fourehi&aid=7401&nid=134)  
 [高质量 Node.js 微服务的编写和部署](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fnim9lr&aid=7453&nid=135)  
 [[译] Facebook 发布了新的 Node 模块管理器 Yarn](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F28epck&aid=7744&nid=139)  
+[K-Logging：实时把 Log 显示在其他网页的库](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fil3wqz&aid=7826&nid=140)  
