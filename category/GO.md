@@ -148,7 +148,6 @@
 [Gabs：用于解析、创建和编辑未知或动态 JSON 的 Golang 库 (Jeffail)](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FJeffail%2Fgabs%3Fhmsr%3Dtoutiao.io%26utm_medium%3Dtoutiao.io%26utm_source%3Dtoutiao.io&aid=3876&nid=90)  
 [Dog-comp：MiniJava 语言编译器的 Golang 实现 (qc1iu)](http://weekly.manong.io/bounce?url=http%3A%2F%2Fsegmentfault.com%2Fa%2F1190000003760722%3Fhmsr%3Dtoutiao.io%26utm_medium%3Dtoutiao.io%26utm_source%3Dtoutiao.io&aid=3891&nid=90)  
 [Go 语言 RPC 实例](http://weekly.manong.io/bounce?url=http%3A%2F%2Fxiequan.info%2Fgo%25E8%25AF%25AD%25E8%25A8%2580-rpcjson-rpc%25E7%259A%2584%25E5%25AE%259E%25E4%25BE%258B%2F&aid=3910&nid=91)  
-[Writing Go in Emacs](http://weekly.manong.io/bounce?url=http%3A%2F%2Fdominik.honnef.co%2Fposts%2F2013%2F03%2Fwriting_go_in_emacs%2F&aid=3932&nid=91)  
 [创建超小的 Golang Docker 镜像](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcolobu.com%2F2015%2F10%2F12%2Fcreate-minimal-golang-docker-images%2F&aid=3950&nid=91)  
 [GoFunctools：Go 的函数式开发工具包](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fcholeraehyq%2Fgofunctools&aid=3953&nid=91)  
 [Gopher 的 Hacker News](http://weekly.manong.io/bounce?url=http%3A%2F%2Fgolangnews.com%2F&aid=3925&nid=91)  
@@ -264,3 +263,5 @@
 [Go 技术社区上线了](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F18pw7y&aid=7732&nid=139)  
 [深入 Go UDP 编程](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F5ey16k&aid=7783&nid=140)  
 [开发 Go 项目最简单的方式：一个基于 Docker 的 Go 工具](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAwMDk0MTMzNQ%3D%3D%26mid%3D2247484188%26idx%3D1%26sn%3D47c2c6984cc0d2d18ce4b24e1e83e15f&aid=7825&nid=140)  
+[Go 入门学习教程](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fb8qcv3&aid=7846&nid=141)  
+[Introducing Go 2.0](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxqpt22&aid=7847&nid=141)  

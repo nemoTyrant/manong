@@ -10,7 +10,6 @@
 [Git 交互式教程](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftry.github.io%2F&aid=1026&nid=30)  
 [Git 教程（@廖雪峰）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.liaoxuefeng.com%2Fwiki%2F0013739516305929606dd18361248578c67b8067c8c017b000&aid=1252&nid=38)  
 [GitHub for Mac](http://weekly.manong.io/bounce?url=https%3A%2F%2Fmac.github.com%2F&aid=1259&nid=38)  
-[GitHub 的 CSS 实战 (Mark Otto)](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmarkdotto.com%2F2014%2F07%2F23%2Fgithubs-css%2F&aid=1281&nid=39)  
 [使用 Jekyll 和 GitHub Pages 搭建 Blog (Barry Clark)](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.smashingmagazine.com%2F2014%2F08%2F01%2Fbuild-blog-jekyll-github-pages%2F&aid=1342&nid=41)  
 [Git 美化图](http://weekly.manong.io/bounce?url=http%3A%2F%2Fjustinhileman.info%2Farticle%2Fgit-pretty%2F&aid=1433&nid=44)  
 [免费电子书《Pro Git》第二版发布 (Scott Chacon)](http://weekly.manong.io/bounce?url=http%3A%2F%2Fgit-scm.com%2Fbook%2Fen%2Fv2&aid=1564&nid=49)  
@@ -134,3 +133,4 @@
 [Git Cheat Sheet 中文版](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F9w9tgk&aid=7265&nid=132)  
 [Git 工作流的最佳实践总结](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F7h26k3&aid=7467&nid=135)  
 [Git 的核心概念](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2Fev3jrb&aid=7663&nid=138)  
+[Git WebHook：用于迅速搭建并使用 WebHook 进行自动化部署和运维系统](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fe3xh5l&aid=7893&nid=141)  

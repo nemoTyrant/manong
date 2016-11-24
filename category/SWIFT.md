@@ -167,3 +167,4 @@
 [适配 Swift 3 的一点小经验和坑](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Faeezd9&aid=7586&nid=137)  
 [从此刻开始拥抱 Swift 3.0](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2Fft2miy&aid=7654&nid=138)  
 [如何构造 Swift 框架（四）](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwzp6d0&aid=7718&nid=139)  
+[一个才适应 Swift 2.2 的开发者眼中的 Swift 3.0 和 iOS 10](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fckois2&aid=7841&nid=141)  

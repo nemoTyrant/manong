@@ -86,3 +86,4 @@
 [如何用 Redis 造一把分布式锁](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2F8vizan&aid=7676&nid=138)  
 [Redis 内部数据结构详解（六）：skiplist](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F1my871&aid=7755&nid=139)  
 [Redis LRU 实现策略](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F64roiz&aid=7823&nid=140)  
+[Memcached 与 Redis 实现的对比](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F5k1old&aid=7862&nid=141)  

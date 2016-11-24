@@ -30,4 +30,3 @@
 [多姿多彩的 cat 命令](http://weekly.manong.io/bounce?url=http%3A%2F%2Fcodingpy.com%2Farticle%2Fa-new-colorful-cat%2F&aid=6797&nid=125)  
 [tcpdump：理论、自动抓包及业务架构树的生成](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA4Nzg5Nzc5OA%3D%3D%26mid%3D2651660526%26idx%3D1%26sn%3Dfca5b6ee36cf8f4b2baeb2434439e48e%23rd&aid=6800&nid=125)  
 [趣说 Shell 脚本 pwd、source、$0 的连环坑](http://weekly.manong.io/bounce?url=http%3A%2F%2Fzackzheng.info%2F2016%2F07%2F24%2F2016-07-24-shell-keng%2F&aid=7055&nid=129)  
-[[译] 用 Emacs Shell 替代 zsh](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F47l7uz&aid=7486&nid=135)  

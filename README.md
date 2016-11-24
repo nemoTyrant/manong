@@ -10,7 +10,7 @@
 
 56期为14年最受欢迎列表，请直接浏览[原地址](http://weekly.manong.io/issues/56)
 
-现在已整理到第140期。
+现在已整理到第141期。
 
 由于现在条目过多，在同一页显示全部内容已不再合适，所以按分类写到了不同文件里。仍然想以全部内容方式查看的可以点击[all.md](category/all.md)浏览。
 
@@ -28,6 +28,7 @@
 [CLOJURE](category/CLOJURE.md)  
 [COCOS2D](category/COCOS2D.md)  
 [COUCHDB](category/COUCHDB.md)  
+[CSS](category/CSS.md)  
 [D](category/D.md)  
 [DAPPER](category/DAPPER.md)  
 [DEVOPS](category/DEVOPS.md)  
@@ -35,6 +36,7 @@
 [DOCKER](category/DOCKER.md)  
 [ELASTICSEARCH](category/ELASTICSEARCH.md)  
 [ELECTRON](category/ELECTRON.md)  
+[EMACS](category/EMACS.md)  
 [ERLANG](category/ERLANG.md)  
 [FIREFOX](category/FIREFOX.md)  
 [GIT](category/GIT.md)  
@@ -67,6 +69,7 @@
 [PYTHON](category/PYTHON.md)  
 [R](category/R.md)  
 [RASPBERRY PI](category/RASPBERRY_PI.md)  
+[REACT](category/REACT.md)  
 [REACT NATIVE](category/REACT_NATIVE.md)  
 [REDIS](category/REDIS.md)  
 [REGEX](category/REGEX.md)  
@@ -83,6 +86,7 @@
 [VARNISH](category/VARNISH.md)  
 [VIM](category/VIM.md)  
 [VR](category/VR.md)  
+[VUE](category/VUE.md)  
 [WEB前端](category/WEB前端.md)  
 [WEB安全](category/WEB安全.md)  
 [WOLFRAM](category/WOLFRAM.md)  
@@ -97,6 +101,7 @@
 [测试相关](category/测试相关.md)  
 [消息队列](category/消息队列.md)  
 [游戏相关](category/游戏相关.md)  
+[直播](category/直播.md)  
 [程序设计](category/程序设计.md)  
 [编程之外](category/编程之外.md)  
 [编程工具](category/编程工具.md)  

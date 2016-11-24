@@ -297,3 +297,4 @@
 [如何运用 JVM 知识提高编程水平](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fq7alid&aid=7779&nid=140)  
 [Java技术文章---泥瓦匠](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F2500&aid=7831&nid=140)  
 [为什么选择 Netty 作为基础通信组件？](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwm3hif&aid=7812&nid=140)  
+[关键业务系统的 JVM 参数推荐](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fficgdq&aid=7837&nid=141)  
