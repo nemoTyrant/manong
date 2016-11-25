@@ -48,3 +48,4 @@
 [Burp Suite 实战指南](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fxbn0zw&aid=7601&nid=137)  
 [HTTPS 协议降级攻击原理](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Frrw25d&aid=7741&nid=139)  
 [黑产业白皮书读后感](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fh5o2rc&aid=7879&nid=141)  
+[[译] 域名劫持事件发生后的应急响应策略](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvf9ej2&aid=7921&nid=142)  

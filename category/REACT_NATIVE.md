@@ -74,3 +74,5 @@
 [项目接入使用 React Native](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fx44qmu&aid=7719&nid=139)  
 [一个上架了的 React Native 项目实战总结](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffkq4pm&aid=7842&nid=141)  
 [React Native 开源项目：高仿 “ONE•一个”](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F4hlav5&aid=7888&nid=141)  
+[关于 React Native，您想知道的都在这里了](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvs6t7o&aid=7908&nid=142)  
+[React Native常见错误与示例](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F84686&aid=7951&nid=142)  

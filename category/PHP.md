@@ -167,3 +167,5 @@
 [PHP 混合 Go 协程并发](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvifo19&aid=7845&nid=141)  
 [PHP + Swoole 的闭包写法](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnxbiyz&aid=7878&nid=141)  
 [php-queue：PHP 开发的磁盘存储消息队列服务](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F4tr157&aid=7892&nid=141)  
+[认识 PHP 7 虚拟机](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fg3waow&aid=7903&nid=142)  
+[PHP 7 扩展开发之 hello word](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F5oyu80&aid=7904&nid=142)  

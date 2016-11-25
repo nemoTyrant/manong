@@ -288,3 +288,5 @@
 [[译] Python 中的异步编程](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fd06nub&aid=7725&nid=139)  
 [Python 代码热更新实现](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fedo9eh&aid=7784&nid=140)  
 [[译] 我是这样用 Django 和 D3 开发 911 数据看板的](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjyns3u&aid=7843&nid=141)  
+[Python 远程调试](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftwnxgm&aid=7906&nid=142)  
+[Socket 编程实战](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxwedqu&aid=7940&nid=142)  

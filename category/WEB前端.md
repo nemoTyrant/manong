@@ -251,3 +251,4 @@
 [实现前端资源增量式更新的一种思路](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkk2lib&aid=7865&nid=141)  
 [前端渲染加速之 Big Pipe](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbaw0qz&aid=7874&nid=141)  
 [Gracejs：全新的基于 koa2 的前后端分离框架](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhpgme7&aid=7890&nid=141)  
+[[译] 专治前端焦虑的学习方案](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fasl65q&aid=7938&nid=142)  

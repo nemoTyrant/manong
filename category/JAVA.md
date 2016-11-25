@@ -298,3 +298,7 @@
 [Java技术文章---泥瓦匠](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F2500&aid=7831&nid=140)  
 [为什么选择 Netty 作为基础通信组件？](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwm3hif&aid=7812&nid=140)  
 [关键业务系统的 JVM 参数推荐](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fficgdq&aid=7837&nid=141)  
+[Java 调优经验谈](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F8z4gpd&aid=7899&nid=142)  
+[打造 RxJava 生命周期管理框架 RxLife](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fggtiv6&aid=7900&nid=142)  
+[Java实战技术](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F22887&aid=7949&nid=142)  
+[spring-cloud-netflix-example：基于 Spring Cloud 的微服务实例](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fr2tazu&aid=7947&nid=142)  

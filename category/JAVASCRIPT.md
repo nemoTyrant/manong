@@ -285,3 +285,6 @@
 [[译] 探秘 JavaScript 中的六个字符](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F5alv9d&aid=7787&nid=140)  
 [拉勾网鼠标移入移出效果](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftos4ov&aid=7884&nid=141)  
 [H5 滑动插件 JRoll 发布 v2.3.2](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Flggp4r&aid=7887&nid=141)  
+[[译] 6 周学习计划，攻克 JavaScript 难关](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fatjaxx&aid=7909&nid=142)  
+[“标准” 的 JS 风格](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F436htk&aid=7910&nid=142)  
+[你不知道的回调、异步与生成器](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F3odu0q&aid=7936&nid=142)  

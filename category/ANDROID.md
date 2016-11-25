@@ -574,3 +574,6 @@
 [[译] 开发 Android Apps，我所努力学习到的三十多条宝贵经验](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fubycfp&aid=7838&nid=141)  
 [Android 内存优化第三弹](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbu0scs&aid=7839&nid=141)  
 [锤子 M1 的 BigBang 功能源码实现](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fw35jot&aid=7880&nid=141)  
+[为开发者准备的最佳 Android 函数库](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAwMTYwNzE2Mg%3D%3D%26mid%3D2651036668%26idx%3D1%26sn%3D8bbc7e836e31d66e6a4a7d26594bb254&aid=7901&nid=142)  
+[Android Tech优质](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F5484&aid=7948&nid=142)  
+[BihuDaily：高仿知乎日报](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Frhb1yp&aid=7945&nid=142)  

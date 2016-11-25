@@ -115,3 +115,4 @@
 [[译] 25 个关于 Linux 的惊人真相！](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Faw3w6r&aid=7388&nid=134)  
 [Linux中国](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F10795&aid=7502&nid=135)  
 [Kali Linux 秘籍](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2Fm9lzy2&aid=7668&nid=138)  
+[三十分钟学会 AWK](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fx7gjti&aid=7943&nid=142)  
