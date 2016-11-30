@@ -24,3 +24,4 @@
 [HTML5 手势检测原理和实现](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F5s2t7i&aid=7189&nid=131)  
 [基于 Spring Boot、AngularJS、CSS3、HTML5 的响应式文件浏览管理器](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fiaywaf&aid=7360&nid=133)  
 [flv.js：B 站出品的 HTML5 FLV 播放器](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F3o650i&aid=7891&nid=141)  
+[移动 H5 前端性能优化注意点](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuma8u3&aid=7974&nid=143)  

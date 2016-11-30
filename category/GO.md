@@ -266,3 +266,4 @@
 [Go 入门学习教程](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fb8qcv3&aid=7846&nid=141)  
 [Introducing Go 2.0](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxqpt22&aid=7847&nid=141)  
 [Go 语言的冷知识](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F1b9zhd&aid=7905&nid=142)  
+[Go 语言实战向导](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkzb3db&aid=7971&nid=143)  

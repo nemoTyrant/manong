@@ -87,3 +87,4 @@
 [Redis 内部数据结构详解（六）：skiplist](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F1my871&aid=7755&nid=139)  
 [Redis LRU 实现策略](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F64roiz&aid=7823&nid=140)  
 [Memcached 与 Redis 实现的对比](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F5k1old&aid=7862&nid=141)  
+[Redis 与搜索热词推荐](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Faon1tl&aid=7984&nid=143)  

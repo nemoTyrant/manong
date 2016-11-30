@@ -290,3 +290,4 @@
 [[译] 我是这样用 Django 和 D3 开发 911 数据看板的](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjyns3u&aid=7843&nid=141)  
 [Python 远程调试](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftwnxgm&aid=7906&nid=142)  
 [Socket 编程实战](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxwedqu&aid=7940&nid=142)  
+[Python：陌生的 metaclass](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2rj8w2&aid=7973&nid=143)  

@@ -47,3 +47,4 @@
 [从零开始学 ReactJS](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Faswg9u&aid=7562&nid=136)  
 [基于 React.js + redux + bootstrap 的 RubyChina 示例](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftlv9ji&aid=7748&nid=139)  
 [深入理解 React](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpcszgx&aid=7789&nid=140)  
+[React 学习资源汇总](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F9z58vb&aid=8000&nid=143)  

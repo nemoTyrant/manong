@@ -577,3 +577,8 @@
 [为开发者准备的最佳 Android 函数库](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAwMTYwNzE2Mg%3D%3D%26mid%3D2651036668%26idx%3D1%26sn%3D8bbc7e836e31d66e6a4a7d26594bb254&aid=7901&nid=142)  
 [Android Tech优质](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F5484&aid=7948&nid=142)  
 [BihuDaily：高仿知乎日报](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Frhb1yp&aid=7945&nid=142)  
+[深入理解 Android 之 View 的绘制流程](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ff9ebk8&aid=7966&nid=143)  
+[Android 原型设计跨平台单位换算技术参考](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcoindg&aid=7988&nid=143)  
+[BigImageViewer：Android 大图查看库](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvbbvmj&aid=8005&nid=143)  
+[模仿饿了么加载效果（Android）](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F7hkbkq&aid=8009&nid=143)  
+[热修复框架 HotFix 源码解析](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fdcc71x&aid=7967&nid=143)  

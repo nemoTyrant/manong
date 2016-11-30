@@ -91,3 +91,4 @@
 [Docker 入门概览](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F84w8ox&aid=7287&nid=132)  
 [用 Docker 快速配置前端开发环境](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2Fk47rzw&aid=7678&nid=138)  
 [Docker 与 Ceph 的分与合](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmwn2ye&aid=7935&nid=142)  
+[Docker 学习资源整理](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzguflq&aid=7999&nid=143)  

@@ -502,3 +502,4 @@
 [2016 年末闲谈 iOS 开发的未来](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F3etq2c&aid=7840&nid=141)  
 [你的商城缺筛选侧边栏吗？](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F26vfci&aid=7886&nid=141)  
 [iOS 性能调优](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F79nya7&aid=7902&nid=142)  
+[iOS 缩小项目 ipa 大小](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Favn8r1&aid=7968&nid=143)  

@@ -288,3 +288,4 @@
 [[译] 6 周学习计划，攻克 JavaScript 难关](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fatjaxx&aid=7909&nid=142)  
 [“标准” 的 JS 风格](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F436htk&aid=7910&nid=142)  
 [你不知道的回调、异步与生成器](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F3odu0q&aid=7936&nid=142)  
+[用 const 还是用 let？](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmixivq&aid=7989&nid=143)  
