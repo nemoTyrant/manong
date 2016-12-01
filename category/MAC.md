@@ -23,3 +23,4 @@
 [UI 工程师在 Mac 下的开发环境搭建](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fkayo5994%2FUI-Development-Environment-on-Mac&aid=7122&nid=130)  
 [mas：命令行下 Mac App Store 应用安装工具](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fdbxaln&aid=7626&nid=137)  
 [来开始用 Touch Bar 吧](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fu2nm86&aid=7969&nid=143)  
+[[译] 微软把 Visual Studio 带给了 Mac](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpsdpbo&aid=8058&nid=144)  

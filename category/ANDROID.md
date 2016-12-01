@@ -582,3 +582,6 @@
 [BigImageViewer：Android 大图查看库](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvbbvmj&aid=8005&nid=143)  
 [模仿饿了么加载效果（Android）](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F7hkbkq&aid=8009&nid=143)  
 [热修复框架 HotFix 源码解析](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fdcc71x&aid=7967&nid=143)  
+[如何构建 Android MVVM 应用框架](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgfvuhs&aid=8021&nid=144)  
+[Android SDK 开发（一）](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwpjh4y&aid=8022&nid=144)  
+[Android 内存泄漏：谨慎使用 getSystemService](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqwpgk7&aid=8023&nid=144)  

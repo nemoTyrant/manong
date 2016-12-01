@@ -21,3 +21,5 @@
 [iView：基于 Vue 的高质量 UI 组件库](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2Fbauqo1&aid=7693&nid=138)  
 [Vue 2.0 的建议学习顺序](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbf5wc3&aid=7801&nid=140)  
 [探秘 vue-rx 2.0](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fr3ar3h&aid=7991&nid=143)  
+[Vue 的理念问题](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fp25t8b&aid=8032&nid=144)  
+[到底 vuex 是什么？](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhl2102&aid=8053&nid=144)  

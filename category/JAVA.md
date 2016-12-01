@@ -303,3 +303,4 @@
 [Java实战技术](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F22887&aid=7949&nid=142)  
 [spring-cloud-netflix-example：基于 Spring Cloud 的微服务实例](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fr2tazu&aid=7947&nid=142)  
 [当 Java 遇到 Jade](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fh6n8nc&aid=7965&nid=143)  
+[Java Lambda 表达式笔记](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fre6iy0&aid=8020&nid=144)  

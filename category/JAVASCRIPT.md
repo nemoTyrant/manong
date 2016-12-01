@@ -289,3 +289,6 @@
 [“标准” 的 JS 风格](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F436htk&aid=7910&nid=142)  
 [你不知道的回调、异步与生成器](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F3odu0q&aid=7936&nid=142)  
 [用 const 还是用 let？](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmixivq&aid=7989&nid=143)  
+[JavaScript 全栈工程师培训教程](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F5ztqga&aid=8031&nid=144)  
+[this 的值到底是什么？](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Flnoikb&aid=8047&nid=144)  
+[[译] 合理地使用纯函数式编程](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fdia9rm&aid=8057&nid=144)  

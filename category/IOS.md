@@ -503,3 +503,6 @@
 [你的商城缺筛选侧边栏吗？](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F26vfci&aid=7886&nid=141)  
 [iOS 性能调优](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F79nya7&aid=7902&nid=142)  
 [iOS 缩小项目 ipa 大小](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Favn8r1&aid=7968&nid=143)  
+[应届生应聘 iOS 岗位的面试建议](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fft8zez&aid=8024&nid=144)  
+[iOS 直播弹幕效果](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxvrtco&aid=8025&nid=144)  
+[没有单元测试，何谈重构](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F9c7psr&aid=8059&nid=144)  

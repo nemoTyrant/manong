@@ -267,3 +267,5 @@
 [Introducing Go 2.0](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxqpt22&aid=7847&nid=141)  
 [Go 语言的冷知识](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F1b9zhd&aid=7905&nid=142)  
 [Go 语言实战向导](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkzb3db&aid=7971&nid=143)  
+[[译] Golang 语言中的函数类型](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fai5ca5&aid=8028&nid=144)  
+[Toruk：Go Web 开发脚手架](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkw8v42&aid=8065&nid=144)  
