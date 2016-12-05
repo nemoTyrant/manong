@@ -116,3 +116,5 @@
 [K-Logging：实时把 Log 显示在其他网页的库](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fil3wqz&aid=7826&nid=140)  
 [[译] 我在阅读 NodeJS 文档中读出的 19 个套路](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnid7fe&aid=7975&nid=143)  
 [[译] 10 个 NPM 使用技巧](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fl0jdjc&aid=8049&nid=144)  
+[[译] Node.js 垃圾回收](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F4nqm6g&aid=8095&nid=145)  
+[《一起学 Node.js》彻底重写完毕](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fm1mt04&aid=8110&nid=145)  

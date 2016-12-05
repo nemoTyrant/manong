@@ -8,3 +8,4 @@
 [Kafka 设计解析](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jasongj.com%2F2015%2F03%2F10%2FKafkaColumn1%2F&aid=6657&nid=123)  
 [Logkafka：Apache Kafka 的日志收集代理](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F0c54an&aid=7217&nid=131)  
 [[译] 从 MySQL 到 Kafka，如何管理每天实时发布的几十亿条消息？](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA5NzkxMzg1Nw%3D%3D%26mid%3D2653160745%26idx%3D1%26sn%3De9000520c7debe3a9ad55be7616130f8&aid=7509&nid=136)  
+[kafka 的高可用和一致性探究](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2jhqv9&aid=8100&nid=145)  

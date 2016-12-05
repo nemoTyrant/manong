@@ -173,3 +173,5 @@
 [[译] 又一个升级到 PHP 7 后性能提升 50% 的案例：Tumblr](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAwMDU1MTE1OQ%3D%3D%26mid%3D2653547882%26idx%3D1%26sn%3D12512269ddb4743c6c7978277643d28b&aid=8029&nid=144)  
 [PHP 7 扩展开发之传参与返回值](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F3gg5kk&aid=8030&nid=144)  
 [zapi：基于 Swoole + zphp 改造为专门用来开发接口的框架](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fthfoki&aid=8067&nid=144)  
+[The Clean Architecture in PHP 读书笔记（九）](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F6b2lsp&aid=8093&nid=145)  
+[syar：Swoole 实现的 Yar 服务](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fyb9tpu&aid=8127&nid=145)  

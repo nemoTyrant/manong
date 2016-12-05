@@ -269,3 +269,7 @@
 [Go 语言实战向导](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkzb3db&aid=7971&nid=143)  
 [[译] Golang 语言中的函数类型](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fai5ca5&aid=8028&nid=144)  
 [Toruk：Go Web 开发脚手架](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkw8v42&aid=8065&nid=144)  
+[[译] 如何避开 Go 中的各种陷阱](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftyv7kn&aid=8089&nid=145)  
+[Go 简明教程](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fypcbno&aid=8090&nid=145)  
+[使用 Golang 开发的微信 SDK](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fa0oo2k&aid=8123&nid=145)  
+[EasyProxy：简单易用的 tcp 代理](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhpv1z0&aid=8125&nid=145)  

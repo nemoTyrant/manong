@@ -293,3 +293,5 @@
 [Python：陌生的 metaclass](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2rj8w2&aid=7973&nid=143)  
 [听说你会 Python？](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F37y08i&aid=8026&nid=144)  
 [乱谈 Python 并发](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI2NzI2OTExNA%3D%3D%26mid%3D2247484013%26idx%3D1%26sn%3Dc4403efdb47bfb7f7d420859ad55debf&aid=8027&nid=144)  
+[Python 开发的高级技巧](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA3NDk1NjI0OQ%3D%3D%26mid%3D2247483770%26idx%3D1%26sn%3Da75a70d0d49f4378818fec89ea6631a0&aid=8091&nid=145)  
+[Python：会打扮的装饰器](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fb140nm&aid=8092&nid=145)  

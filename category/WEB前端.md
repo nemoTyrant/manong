@@ -255,3 +255,6 @@
 [Web 开发必备指南](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmi17e7&aid=7986&nid=143)  
 [Web 缓存核心技术点需知](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIyMDA1MzgyNw%3D%3D%26mid%3D2651968866%26idx%3D1%26sn%3D25554c31eac32e78664b962412f515de&aid=7987&nid=143)  
 [Web 全栈技术指南](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwc6427&aid=8034&nid=144)  
+[Web 前端从入门菜鸟到实践老司机所需要的资料与指南合集](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F25ossc&aid=8096&nid=145)  
+[了解真实的 REM 手机屏幕适配](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2hrw4b&aid=8101&nid=145)  
+[WebApp 问题整理](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F71rddl&aid=8111&nid=145)  

@@ -506,3 +506,6 @@
 [应届生应聘 iOS 岗位的面试建议](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fft8zez&aid=8024&nid=144)  
 [iOS 直播弹幕效果](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxvrtco&aid=8025&nid=144)  
 [没有单元测试，何谈重构](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F9c7psr&aid=8059&nid=144)  
+[和 Charles 同样强大的 iOS 免费抓包工具 mitmproxy](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fat0ghs&aid=8087&nid=145)  
+[Wireshark 抓包 iOS 入门教程](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI5MjEzNzA1MA%3D%3D%26mid%3D2650264247%26idx%3D1%26sn%3D2c8d91f15647a6fadd435f8d09b2e695&aid=8088&nid=145)  
+[BeeHive：用于 iOS 的 App 模块化编程的框架实现方案](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F6wirpu&aid=8128&nid=145)  

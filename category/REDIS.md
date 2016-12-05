@@ -90,3 +90,4 @@
 [Redis 与搜索热词推荐](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Faon1tl&aid=7984&nid=143)  
 [Redis 客户端常见异常分析](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxib8qg&aid=8039&nid=144)  
 [深入浅出 Redis client/server 交互流程](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%2FM_8JYKounmZWHPOXVJFNuQ&aid=8051&nid=144)  
+[Redis 无限全量复制问题分析与优化](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqtzsuw&aid=8099&nid=145)  

@@ -134,3 +134,5 @@
 [Git 工作流的最佳实践总结](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F7h26k3&aid=7467&nid=135)  
 [Git 的核心概念](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2Fev3jrb&aid=7663&nid=138)  
 [Git WebHook：用于迅速搭建并使用 WebHook 进行自动化部署和运维系统](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fe3xh5l&aid=7893&nid=141)  
+[[译] Git 的基本概念与入门](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fdqe32l&aid=8119&nid=145)  
+[Git 王者超神之路](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqozd8l&aid=8122&nid=145)  

@@ -292,3 +292,4 @@
 [JavaScript 全栈工程师培训教程](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F5ztqga&aid=8031&nid=144)  
 [this 的值到底是什么？](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Flnoikb&aid=8047&nid=144)  
 [[译] 合理地使用纯函数式编程](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fdia9rm&aid=8057&nid=144)  
+[[译] 一个治愈 JavaScript 疲劳的学习计划](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fg77yxu&aid=8094&nid=145)  

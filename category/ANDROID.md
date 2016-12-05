@@ -585,3 +585,4 @@
 [如何构建 Android MVVM 应用框架](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgfvuhs&aid=8021&nid=144)  
 [Android SDK 开发（一）](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwpjh4y&aid=8022&nid=144)  
 [Android 内存泄漏：谨慎使用 getSystemService](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqwpgk7&aid=8023&nid=144)  
+[Android 开发命令行完全攻略](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZQx6nJSLPdieRY7uf5i5Iw&aid=8086&nid=145)  
