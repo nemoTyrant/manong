@@ -258,3 +258,6 @@
 [Web 前端从入门菜鸟到实践老司机所需要的资料与指南合集](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F25ossc&aid=8096&nid=145)  
 [了解真实的 REM 手机屏幕适配](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2hrw4b&aid=8101&nid=145)  
 [WebApp 问题整理](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F71rddl&aid=8111&nid=145)  
+[[译] 十分钟入门 Less](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpn9za4&aid=8162&nid=146)  
+[[译] 2016 年前端开发者深度调研](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Faguqxb&aid=8164&nid=146)  
+[CodePen 上最新的 12 个热门前端项目](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fdl9seb&aid=8178&nid=146)  

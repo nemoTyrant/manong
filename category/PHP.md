@@ -175,3 +175,5 @@
 [zapi：基于 Swoole + zphp 改造为专门用来开发接口的框架](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fthfoki&aid=8067&nid=144)  
 [The Clean Architecture in PHP 读书笔记（九）](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F6b2lsp&aid=8093&nid=145)  
 [syar：Swoole 实现的 Yar 服务](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fyb9tpu&aid=8127&nid=145)  
+[PHP 技能精进计划 v1.0（基础篇）](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fm5smr3&aid=8141&nid=146)  
+[如何使用 PHP 构建一个高性能的弹幕后端服务](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fatxbdh&aid=8142&nid=146)  

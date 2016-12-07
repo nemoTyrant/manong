@@ -273,3 +273,5 @@
 [Go 简明教程](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fypcbno&aid=8090&nid=145)  
 [使用 Golang 开发的微信 SDK](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fa0oo2k&aid=8123&nid=145)  
 [EasyProxy：简单易用的 tcp 代理](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhpv1z0&aid=8125&nid=145)  
+[Git-WebHook：自动化部署工具，支持 GitHub / GitLab / Gogs / GitOsc](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F0xnhg4&aid=8184&nid=146)  
+[livego：Go 实现直播服务](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhw8vr1&aid=8185&nid=146)  

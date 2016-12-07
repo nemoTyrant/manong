@@ -306,3 +306,5 @@
 [Java Lambda 表达式笔记](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fre6iy0&aid=8020&nid=144)  
 [[译] 探索 Java 隐藏的开销](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ft80xa3&aid=8085&nid=145)  
 [MyBatis 完全使用指南](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Frgshwh&aid=8121&nid=145)  
+[关于 Java 中枚举 Enum 的深入剖析](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgyckbh&aid=8135&nid=146)  
+[netty 源码分析之揭开 reactor 线程的面纱（二）](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fq26eg2&aid=8136&nid=146)  

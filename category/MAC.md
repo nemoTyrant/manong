@@ -25,3 +25,4 @@
 [来开始用 Touch Bar 吧](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fu2nm86&aid=7969&nid=143)  
 [[译] 微软把 Visual Studio 带给了 Mac](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpsdpbo&aid=8058&nid=144)  
 [Mac 软件推荐续（!程序猿篇）](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fms0zvk&aid=8107&nid=145)  
+[Mac 软件推荐（续）：程序猿篇](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%2FGU0_V99JqEDGfi6LOLGX6Q&aid=8154&nid=146)  

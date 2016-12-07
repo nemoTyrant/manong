@@ -2,3 +2,4 @@
 [OmniSharp：跨平台 .NET 开发工具集](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fomnisharp&aid=6366&nid=119)  
 [.NET Core：面向未来的开源跨平台开发技术](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2Fbfe0b6afcc11&aid=6759&nid=125)  
 [拥抱 .NET Core，跨平台的轻量级 RPC：Rabbit.Rpc](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.cnblogs.com%2Fants%2Fp%2F5652132.html&aid=6866&nid=126)  
+[.NET 应用迁移到 .NET Core：调查案例](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%2FPqko9ofLIdCDDO_oh6PivA&aid=8146&nid=146)  

@@ -586,3 +586,5 @@
 [Android SDK 开发（一）](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwpjh4y&aid=8022&nid=144)  
 [Android 内存泄漏：谨慎使用 getSystemService](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqwpgk7&aid=8023&nid=144)  
 [Android 开发命令行完全攻略](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZQx6nJSLPdieRY7uf5i5Iw&aid=8086&nid=145)  
+[这就是 Dagger2！](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F5a3fp5&aid=8137&nid=146)  
+[客户端路由动态配置：可能是最简单的热更新方案](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Flnqzis&aid=8158&nid=146)  

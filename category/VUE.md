@@ -23,3 +23,4 @@
 [探秘 vue-rx 2.0](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fr3ar3h&aid=7991&nid=143)  
 [Vue 的理念问题](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fp25t8b&aid=8032&nid=144)  
 [到底 vuex 是什么？](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhl2102&aid=8053&nid=144)  
+[swoole-vue-webim：基于 Vue 和 Swoole 构建的 Web 聊天应用](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F88f1l1&aid=8186&nid=146)  

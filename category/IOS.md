@@ -509,3 +509,7 @@
 [和 Charles 同样强大的 iOS 免费抓包工具 mitmproxy](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fat0ghs&aid=8087&nid=145)  
 [Wireshark 抓包 iOS 入门教程](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI5MjEzNzA1MA%3D%3D%26mid%3D2650264247%26idx%3D1%26sn%3D2c8d91f15647a6fadd435f8d09b2e695&aid=8088&nid=145)  
 [BeeHive：用于 iOS 的 App 模块化编程的框架实现方案](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F6wirpu&aid=8128&nid=145)  
+[iOS 多线程到底不安全在哪里？](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffm13m0&aid=8138&nid=146)  
+[提高 iOS App 通知功能启用率的三个策略](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkalb4u&aid=8139&nid=146)  
+[pbxprojHelper：Xcode 工程文件助手](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqwamyp&aid=8182&nid=146)  
+[Sketch-iOS-Library：复制 iOS 样式库到 Sketch 以改善、加速设计流程](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fetnxmy&aid=8183&nid=146)  
