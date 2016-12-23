@@ -295,3 +295,5 @@
 [[译] 一个治愈 JavaScript 疲劳的学习计划](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fg77yxu&aid=8094&nid=145)  
 [JavaScript 字符串实用常操纪要](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftrgpsl&aid=8145&nid=146)  
 [JavaScript 易错知识点整理](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fln0aq8&aid=8210&nid=147)  
+[[译] 致 JavaScript 的一封信](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Flk9i38&aid=8277&nid=148)  
+[[译] TypeScript 2.1 新特性一览](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuqrfx1&aid=8296&nid=148)  

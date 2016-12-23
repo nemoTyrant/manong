@@ -75,3 +75,4 @@
 [flex.css：移动端 flex 布局神器](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F5i7ojt&aid=7496&nid=135)  
 [能使用 HTML/CSS 解决的问题就不要使用 JS](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F60bq4o&aid=7525&nid=136)  
 [[译] 理解 CSS 模块化](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fj%2F8n8sqo&aid=7659&nid=138)  
+[CSS 高级布局技巧](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fa2vklv&aid=8278&nid=148)  

@@ -264,3 +264,6 @@
 [2017 年前端生态窥探](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmttjll&aid=8230&nid=147)  
 [浅析渲染引擎与前端优化](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F3ji8a8&aid=8239&nid=147)  
 [logline：客户端级的前端日志记录工具](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqqjd8s&aid=8249&nid=147)  
+[对于《2016 年前端技术观察》的一些看法](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fonez6t&aid=8298&nid=148)  
+[REM 手机屏幕高清适配方案](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fimg534&aid=8308&nid=148)  
+[hyper：使用 Web 技术创建的 terminal 终端](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F3t0neu&aid=8318&nid=148)  

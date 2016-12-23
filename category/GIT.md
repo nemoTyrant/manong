@@ -137,3 +137,4 @@
 [[译] Git 的基本概念与入门](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fdqe32l&aid=8119&nid=145)  
 [Git 王者超神之路](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqozd8l&aid=8122&nid=145)  
 [如何合理利用 Git 进行团队协作（一）](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F8pvy7x&aid=8237&nid=147)  
+[SVN、Git 日常看我就够了](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F84rpdi&aid=8291&nid=148)  

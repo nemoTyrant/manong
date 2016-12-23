@@ -299,3 +299,7 @@
 [理解 Python 并发编程一篇就够了（线程篇）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%2FO3fBaGd2QvSGNreLpUz1AQ&aid=8144&nid=146)  
 [理解 Python 并发编程一篇就够了（进程篇）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%2FKm-HAY9Jbg5hbuTl5Xj8dw&aid=8205&nid=147)  
 [Python 量化策略的算法性能提升指南](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxc9y8d&aid=8206&nid=147)  
+[探究如何给 Python 程序做 hotfix](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsmxway&aid=8271&nid=148)  
+[理解 Python 并发编程一篇就够了（PoolExecutor 篇）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAVHBCE7w5KR1379Tue829g&aid=8272&nid=148)  
+[异步任务神器 Celery 简明笔记](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2xuq2c&aid=8294&nid=148)  
+[利用 websocket 实现聊天小应用](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F34xxog&aid=8295&nid=148)  

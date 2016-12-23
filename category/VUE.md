@@ -26,3 +26,4 @@
 [swoole-vue-webim：基于 Vue 和 Swoole 构建的 Web 聊天应用](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F88f1l1&aid=8186&nid=146)  
 [Vue 中你不知道但却很实用的黑科技](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F3ri55s&aid=8242&nid=147)  
 [vonic：基于 Vue.js 和 Ionic 的移动 UI 组件库](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fs2k3a9&aid=8252&nid=147)  
+[vue-cnode：基于 vue2 + vue-router + vuex + ES6 + less + flex.css 重写 vue 版 cnode 社区](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fl327n0&aid=8317&nid=148)  

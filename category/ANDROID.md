@@ -597,3 +597,7 @@
 [BeautifulRefreshLayout：众多优秀的 Android 下拉刷新库](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjpzknf&aid=8247&nid=147)  
 [TaoBaoUI：高仿淘宝界面](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F711nky&aid=8253&nid=147)  
 [WXhongbao：自动领取微信红包](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F8ekggk&aid=8251&nid=147)  
+[Android 系统中的进程管理：内存的回收](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuvcypx&aid=8267&nid=148)  
+[Android Fragment 的使用，一些你不可不知的注意事项](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F32ywgk&aid=8268&nid=148)  
+[快速仿写京东、天猫下拉刷新（Android）](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjpc0xo&aid=8314&nid=148)  
+[Arrow：轻量级的 Android DI 库](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fa9l8vr&aid=8316&nid=148)  

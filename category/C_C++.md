@@ -126,3 +126,5 @@
 [自己动手写分布式 KV 存储引擎（二）：网络框架中的定时器原理和实现](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjgeeg9&aid=7777&nid=140)  
 [Snake-AI：贪吃蛇游戏人工智能的开源项目](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fb2uqn2&aid=8004&nid=143)  
 [性能优化的那些传说和迷思](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fg4jg58&aid=8153&nid=146)  
+[协程库 coroutine 源代码解析](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F7kx7go&aid=8297&nid=148)  
+[Libevent 深入浅出](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fctekgd&aid=8300&nid=148)  

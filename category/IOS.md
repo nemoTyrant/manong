@@ -516,3 +516,6 @@
 [iOS 迁移到 HTTPS](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Frmi0gq&aid=8203&nid=147)  
 [2017 秋季校园招聘 iOS 开发岗位面试题集锦](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fdle5ax&aid=8204&nid=147)  
 [LLWeChat：实现 IM 基本功能，在细节、完成度、bugfree 上媲美任何主流 IM 应用（OC）](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvvwhro&aid=8254&nid=147)  
+[微信读书 iOS 质量保证及性能监控](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fg470mx&aid=8269&nid=148)  
+[iOS 逆向之分析微信导航栏实现](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fehbw2g&aid=8270&nid=148)  
+[苹果强制使用 HTTPS 传输后 App 开发者必须知道的事](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzgw0u6&aid=8304&nid=148)  

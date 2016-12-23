@@ -178,3 +178,7 @@
 [PHP 技能精进计划 v1.0（基础篇）](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fm5smr3&aid=8141&nid=146)  
 [如何使用 PHP 构建一个高性能的弹幕后端服务](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fatxbdh&aid=8142&nid=146)  
 [Swoole 2.0 协程的实现原理](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Freedo4&aid=8209&nid=147)  
+[PHP 完整实战 23 种设计模式](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fba1gvr&aid=8275&nid=148)  
+[现代 PHP 阅读笔记（一）](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffcp9zo&aid=8276&nid=148)  
+[Swoole 2.0 内置协程并发测试](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F3sl5ws&aid=8307&nid=148)  
+[《Laravel 入门教程》](http://weekly.manong.io/bounce?url=https%3A%2F%2Flaravel-china.org%2Flaravel-tutorial%2F5.1%2Fabout&aid=8262&nid=148)  
