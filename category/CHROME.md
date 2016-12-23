@@ -16,3 +16,4 @@
 [莆田系医院网站提醒](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fhustcc%2FPTHospital.chrome&aid=6197&nid=117)  
 [1Player：专属网易云音乐的 Chrome 扩展](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fzhiyul%2F1Player&aid=6447&nid=120)  
 [[译] 设计师和前端工程师必备的 15 款 Chrome 插件](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F20f1j3&aid=7602&nid=137)  
+[超完整的 Chrome 浏览器客户端调试大全](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhzn5nc&aid=8244&nid=147)  

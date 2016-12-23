@@ -308,3 +308,7 @@
 [MyBatis 完全使用指南](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Frgshwh&aid=8121&nid=145)  
 [关于 Java 中枚举 Enum 的深入剖析](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgyckbh&aid=8135&nid=146)  
 [netty 源码分析之揭开 reactor 线程的面纱（二）](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fq26eg2&aid=8136&nid=146)  
+[红黑树深入剖析及 Java 实现](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F4tfc1e&aid=8199&nid=147)  
+[有趣的译文《Java Pattern 那些小事》](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fk0p3a9&aid=8200&nid=147)  
+[[译] 比较 Go 和 Java 两种语言](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fq4wyit&aid=8208&nid=147)  
+[tiny-spring：精简版的 Spring 实现](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F6re4ev&aid=8250&nid=147)  

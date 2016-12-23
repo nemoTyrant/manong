@@ -275,3 +275,5 @@
 [EasyProxy：简单易用的 tcp 代理](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhpv1z0&aid=8125&nid=145)  
 [Git-WebHook：自动化部署工具，支持 GitHub / GitLab / Gogs / GitOsc](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F0xnhg4&aid=8184&nid=146)  
 [livego：Go 实现直播服务](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhw8vr1&aid=8185&nid=146)  
+[[译] Golang 实时垃圾回收理论和实践](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%2FIX0zO2MliP01ixtLtih6gQ&aid=8207&nid=147)  
+[Poseidon：360 出品的日志搜索平台（Golang）](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Frye04h&aid=8248&nid=147)  

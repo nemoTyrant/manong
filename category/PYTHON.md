@@ -297,3 +297,5 @@
 [Python：会打扮的装饰器](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fb140nm&aid=8092&nid=145)  
 [Python 最差实践](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F3x2q59&aid=8143&nid=146)  
 [理解 Python 并发编程一篇就够了（线程篇）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%2FO3fBaGd2QvSGNreLpUz1AQ&aid=8144&nid=146)  
+[理解 Python 并发编程一篇就够了（进程篇）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%2FKm-HAY9Jbg5hbuTl5Xj8dw&aid=8205&nid=147)  
+[Python 量化策略的算法性能提升指南](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxc9y8d&aid=8206&nid=147)  

@@ -513,3 +513,6 @@
 [提高 iOS App 通知功能启用率的三个策略](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkalb4u&aid=8139&nid=146)  
 [pbxprojHelper：Xcode 工程文件助手](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqwamyp&aid=8182&nid=146)  
 [Sketch-iOS-Library：复制 iOS 样式库到 Sketch 以改善、加速设计流程](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fetnxmy&aid=8183&nid=146)  
+[iOS 迁移到 HTTPS](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Frmi0gq&aid=8203&nid=147)  
+[2017 秋季校园招聘 iOS 开发岗位面试题集锦](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fdle5ax&aid=8204&nid=147)  
+[LLWeChat：实现 IM 基本功能，在细节、完成度、bugfree 上媲美任何主流 IM 应用（OC）](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvvwhro&aid=8254&nid=147)  

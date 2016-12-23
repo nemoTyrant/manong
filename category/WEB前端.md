@@ -261,3 +261,6 @@
 [[译] 十分钟入门 Less](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpn9za4&aid=8162&nid=146)  
 [[译] 2016 年前端开发者深度调研](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Faguqxb&aid=8164&nid=146)  
 [CodePen 上最新的 12 个热门前端项目](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fdl9seb&aid=8178&nid=146)  
+[2017 年前端生态窥探](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmttjll&aid=8230&nid=147)  
+[浅析渲染引擎与前端优化](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F3ji8a8&aid=8239&nid=147)  
+[logline：客户端级的前端日志记录工具](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqqjd8s&aid=8249&nid=147)  
