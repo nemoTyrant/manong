@@ -93,3 +93,5 @@
 [Redis 无限全量复制问题分析与优化](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqtzsuw&aid=8099&nid=145)  
 [Redis 4.0 新功能简介](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvdnfaw&aid=8220&nid=147)  
 [基于 Redis 构建数据服务](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIwNDU2MTI4NQ%3D%3D%26mid%3D2247483764%26idx%3D1%26sn%3Dd687afc0de8c218e49ea5ba13d83b923&aid=8228&nid=147)  
+[Redis slots 迁移丢 key 问题排查](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsx70gq&aid=8357&nid=149)  
+[Redis 实现原理之对象与编码](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F054u7u&aid=8366&nid=149)  

@@ -279,3 +279,6 @@
 [Poseidon：360 出品的日志搜索平台（Golang）](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Frye04h&aid=8248&nid=147)  
 [[译] 你可能还不知道的一些 Go 语言工具](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fywq562&aid=8273&nid=148)  
 [Golang 调度模式之通俗演义版](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Faj9yf9&aid=8274&nid=148)  
+[教你写一个 color 日志库（Golang）](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2889gp&aid=8341&nid=149)  
+[gofsm：有特色的有限状态机（Golang）](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fshplsm&aid=8370&nid=149)  
+[Solo CI：轻量级 Golang CI/CD 工具](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuplrsm&aid=8373&nid=149)  

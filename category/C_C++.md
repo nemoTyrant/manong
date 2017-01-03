@@ -128,3 +128,4 @@
 [性能优化的那些传说和迷思](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fg4jg58&aid=8153&nid=146)  
 [协程库 coroutine 源代码解析](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F7kx7go&aid=8297&nid=148)  
 [Libevent 深入浅出](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fctekgd&aid=8300&nid=148)  
+[使用 C++11 进行并发编程](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fom0chv&aid=8332&nid=149)  

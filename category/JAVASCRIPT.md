@@ -297,3 +297,4 @@
 [JavaScript 易错知识点整理](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fln0aq8&aid=8210&nid=147)  
 [[译] 致 JavaScript 的一封信](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Flk9i38&aid=8277&nid=148)  
 [[译] TypeScript 2.1 新特性一览](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuqrfx1&aid=8296&nid=148)  
+[怎么学 JavaScript？](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fh23kq7&aid=8342&nid=149)  

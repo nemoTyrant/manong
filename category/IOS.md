@@ -519,3 +519,6 @@
 [微信读书 iOS 质量保证及性能监控](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fg470mx&aid=8269&nid=148)  
 [iOS 逆向之分析微信导航栏实现](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fehbw2g&aid=8270&nid=148)  
 [苹果强制使用 HTTPS 传输后 App 开发者必须知道的事](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzgw0u6&aid=8304&nid=148)  
+[iOS 动态化的故事](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxv46ua&aid=8336&nid=149)  
+[iOS App 的加固保护原理](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%2FgthDSLw45GW3oVlsAOm-dQ&aid=8337&nid=149)  
+[iOS 码农的微信小程序开发总结](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcfupg4&aid=8338&nid=149)  

@@ -32,3 +32,4 @@
 [谈谈 Nginx 的 HTTP/2 POST Bug](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fk6iahz&aid=7332&nid=133)  
 [京东老司机：巧用 Nginx + Lua 解决数据托底大痛点](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fe8u7dl&aid=7619&nid=137)  
 [Nginx 配置简述](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fteqv7m&aid=8045&nid=144)  
+[OpenResty 最佳实践](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fij9gbl&aid=8368&nid=149)  

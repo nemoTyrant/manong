@@ -49,3 +49,4 @@
 [深入理解 React](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpcszgx&aid=7789&nid=140)  
 [React 学习资源汇总](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F9z58vb&aid=8000&nid=143)  
 [[译] RxJS + Redux + React = Amazing!（一）](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F63u0xq&aid=8229&nid=147)  
+[12 步 30 分钟，完成用户管理的 CURD 应用](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhcydhj&aid=8360&nid=149)  
