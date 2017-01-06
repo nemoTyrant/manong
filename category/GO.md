@@ -282,3 +282,6 @@
 [教你写一个 color 日志库（Golang）](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2889gp&aid=8341&nid=149)  
 [gofsm：有特色的有限状态机（Golang）](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fshplsm&aid=8370&nid=149)  
 [Solo CI：轻量级 Golang CI/CD 工具](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuplrsm&aid=8373&nid=149)  
+[一个简单的 Golang 实现的 HTTP Proxy](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2kor69&aid=8400&nid=150)  
+[Gin API Framework：专为 Go Gin 框架打造的 API Framework](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F03qa6l&aid=8431&nid=150)  
+[gowatch：Golang 热编译工具](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F58sb1b&aid=8432&nid=150)  

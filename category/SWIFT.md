@@ -171,3 +171,4 @@
 [老司机来告诉你最常用的 Swift 开源库](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIxMTY2MDc2NQ%3D%3D%26mid%3D2247483664%26idx%3D1%26sn%3D2ed2d72347fcf6621e2f7e6bc6e5e2f0&aid=7970&nid=143)  
 [zmusic：仿酷狗 UI 效果和换肤功能](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwaqaml&aid=8006&nid=143)  
 [Swift 高手进阶：10 个技巧](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F4ru5mh&aid=8140&nid=146)  
+[硅谷的 Swift 面试题](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fdnpwpx&aid=8395&nid=150)  

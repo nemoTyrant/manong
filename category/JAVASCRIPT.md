@@ -298,3 +298,6 @@
 [[译] 致 JavaScript 的一封信](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Flk9i38&aid=8277&nid=148)  
 [[译] TypeScript 2.1 新特性一览](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuqrfx1&aid=8296&nid=148)  
 [怎么学 JavaScript？](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fh23kq7&aid=8342&nid=149)  
+[[译] 2016 年 50 个最佳的轻量级 JavaScript 框架和库](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fb7vzdv&aid=8422&nid=150)  
+[wechat4u：微信机器人](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fv6wctb&aid=8433&nid=150)  
+[Web Worker 实践尝试](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fr4fam7&aid=8416&nid=150)  

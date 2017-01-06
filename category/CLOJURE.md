@@ -5,3 +5,4 @@
 [[英] 我是如何移植 Clojure 的 core.async 到 JavaScript 的 (MilhouseVanHouten)](http://weekly.manong.io/bounce?url=https%3A%2F%2Fmedium.com%2F%40oyanglulu%2Fi-just-fork-mori-and-add-core-async-to-it-3cea689e9259&aid=3545&nid=87)  
 [[译] Clojure 之美](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.oschina.net%2Ftranslate%2Fthe-beauty-of-clojure&aid=4260&nid=95)  
 [我的 Clojure 学习笔记](http://weekly.manong.io/bounce?url=https%3A%2F%2Fwww.gitbook.com%2Fbook%2Fsiddontang%2Flean-clojure%2Fdetails&aid=4761&nid=100)  
+[Clojure 开发那些事](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fx60kms&aid=8399&nid=150)  

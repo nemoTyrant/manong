@@ -118,3 +118,4 @@
 [[译] 10 个 NPM 使用技巧](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fl0jdjc&aid=8049&nid=144)  
 [[译] Node.js 垃圾回收](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F4nqm6g&aid=8095&nid=145)  
 [《一起学 Node.js》彻底重写完毕](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fm1mt04&aid=8110&nid=145)  
+[教你如何搭建一个超完美的服务端渲染开发环境](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fb63yfo&aid=8407&nid=150)  

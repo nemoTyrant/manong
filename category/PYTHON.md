@@ -306,3 +306,4 @@
 [Python 语法速览与机器学习开发环境搭建](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwkdp8h&aid=8339&nid=149)  
 [使用 Python 进行并发编程之 asyncio 篇（二）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%2FehmpcPhI-tHrH4loMVbldg&aid=8340&nid=149)  
 [Python 3.6 新特性官方文档中文版](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fyqhg0y&aid=8353&nid=149)  
+[Python 量子力学计算模拟以及数据可视化](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fq7s5Uw7kJTfXYikL5mCLkA&aid=8396&nid=150)  

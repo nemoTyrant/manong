@@ -522,3 +522,5 @@
 [iOS 动态化的故事](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxv46ua&aid=8336&nid=149)  
 [iOS App 的加固保护原理](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%2FgthDSLw45GW3oVlsAOm-dQ&aid=8337&nid=149)  
 [iOS 码农的微信小程序开发总结](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcfupg4&aid=8338&nid=149)  
+[iOS 消息转发机制与 BlocksKit](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F71r9zc&aid=8393&nid=150)  
+[OCS：史上最疯狂的 iOS 动态化方案](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%2FzctwM2Wf8c6_sxT_0yZvXg&aid=8394&nid=150)  

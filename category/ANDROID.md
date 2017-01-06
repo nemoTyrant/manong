@@ -607,3 +607,5 @@
 [锤子科技出品的 One Step 正式开源](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F3sardc&aid=8374&nid=149)  
 [WowSplash：让你的哇哇哇哇闪屏页](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F46pycd&aid=8375&nid=149)  
 [通过三次优化，我将 gif 加载优化了 16.9%](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fljlulz&aid=8358&nid=149)  
+[Android Things 全解析，中国 Android 开发者大有可为](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAwODY4OTk2Mg%3D%3D%26mid%3D2652040619%26idx%3D1%26sn%3D30aa2b9f34a6574f4d22ce30bd15665e&aid=8391&nid=150)  
+[比较完整的 Android Studio 快捷小技巧](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsvoyl0&aid=8392&nid=150)  

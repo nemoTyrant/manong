@@ -120,3 +120,4 @@
 [读薄《Linux 内核设计与实现》系列文章](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fyfs6mp&aid=8236&nid=147)  
 [三十分钟学会 SED](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Foa9jxa&aid=8287&nid=148)  
 [Akka 使用（一）：快速入门](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fj7l6ng&aid=8354&nid=149)  
+[文本处理利器 sed 与 awk 使用总结](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fax5jg0&aid=8406&nid=150)  

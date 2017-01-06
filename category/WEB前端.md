@@ -268,3 +268,5 @@
 [REM 手机屏幕高清适配方案](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fimg534&aid=8308&nid=148)  
 [hyper：使用 Web 技术创建的 terminal 终端](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F3t0neu&aid=8318&nid=148)  
 [前端疲劳](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F74z2ix&aid=8355&nid=149)  
+[[译] 值得前端开发者在 2017 学习的东西](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwllqcm&aid=8404&nid=150)  
+[[译] 深入研究 Virtual DOM](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgss2e7&aid=8423&nid=150)  

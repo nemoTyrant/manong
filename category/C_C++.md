@@ -129,3 +129,4 @@
 [协程库 coroutine 源代码解析](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F7kx7go&aid=8297&nid=148)  
 [Libevent 深入浅出](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fctekgd&aid=8300&nid=148)  
 [使用 C++11 进行并发编程](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fom0chv&aid=8332&nid=149)  
+[我为 server 省下了 4.5G 内存](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjvjsr1&aid=8425&nid=150)  

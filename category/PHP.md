@@ -182,3 +182,4 @@
 [现代 PHP 阅读笔记（一）](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffcp9zo&aid=8276&nid=148)  
 [Swoole 2.0 内置协程并发测试](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F3sl5ws&aid=8307&nid=148)  
 [《Laravel 入门教程》](http://weekly.manong.io/bounce?url=https%3A%2F%2Flaravel-china.org%2Flaravel-tutorial%2F5.1%2Fabout&aid=8262&nid=148)  
+[唯一 ID 生成原理与 PHP 实现](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%2FbagOgzdwLyZv_ITNVnYfoQ&aid=8397&nid=150)  

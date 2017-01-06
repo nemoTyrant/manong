@@ -319,3 +319,4 @@
 [Mybatis 源码解读：设计模式总结](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsvue4s&aid=8266&nid=148)  
 [Netty 笔记整理](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnow9or&aid=8309&nid=148)  
 [[译] 深入理解 Java 8 Lambda](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fs9i9iz&aid=8333&nid=149)  
+[JVM 源码分析之堆内存的初始化](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fip0uur&aid=8390&nid=150)  
