@@ -26,3 +26,4 @@
 [flv.js：B 站出品的 HTML5 FLV 播放器](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F3o650i&aid=7891&nid=141)  
 [移动 H5 前端性能优化注意点](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuma8u3&aid=7974&nid=143)  
 [如何打造一个高效适配的 H5](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fljluna&aid=8306&nid=148)  
+[视频 HTML5 Video 标签在微信里的坑和技巧](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftb049l&aid=8539&nid=152)  

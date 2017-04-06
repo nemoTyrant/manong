@@ -140,3 +140,6 @@
 [SVN、Git 日常看我就够了](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F84rpdi&aid=8291&nid=148)  
 [你必须收藏的 GitHub 技巧](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fe3i00i&aid=8367&nid=149)  
 [Git 中的 ~ 和 ^](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fw42onn&aid=8417&nid=150)  
+[Git 学习资料整理](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fe0z7t1&aid=8469&nid=151)  
+[关于两种 CI/CD 策略以及 git 分支模型的思考](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F0h09qz&aid=8470&nid=151)  
+[看完就会用的 Git 操作图解分析](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjdf8pv&aid=8533&nid=152)  

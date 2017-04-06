@@ -86,3 +86,6 @@
 [MySQL 8.0 发布，是时候与 MyISAM 说再见了](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5MjIxNDA4NA%3D%3D%26mid%3D2649737764%26idx%3D1%26sn%3D45572cc222df2627e9c714a8ed0cd142&aid=7532&nid=136)  
 [MySQL 高性能存储引擎：TokuDB 初探](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fucy4jn&aid=8289&nid=148)  
 [MySQL 大表优化方案](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fj06g0q&aid=8347&nid=149)  
+[MySQL 线程池内幕](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpmf2ue&aid=8476&nid=151)  
+[MySQL 闪回原理与实战](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcj17a6&aid=8487&nid=151)  
+[记录一次 MySQL 批量插入的优化](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2qlheb&aid=8548&nid=152)  

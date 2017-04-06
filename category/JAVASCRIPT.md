@@ -301,3 +301,6 @@
 [[译] 2016 年 50 个最佳的轻量级 JavaScript 框架和库](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fb7vzdv&aid=8422&nid=150)  
 [wechat4u：微信机器人](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fv6wctb&aid=8433&nid=150)  
 [Web Worker 实践尝试](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fr4fam7&aid=8416&nid=150)  
+[[译] 2017 值得一瞥的 JavaScript 相关技术趋势](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F3x1abx&aid=8465&nid=151)  
+[JavaScript 函数式编程导论](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2az5w0&aid=8522&nid=152)  
+[如何写出好的 JavaScript：浅谈 API 设计](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuehjjs&aid=8523&nid=152)  

@@ -50,3 +50,6 @@
 [黑产业白皮书读后感](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fh5o2rc&aid=7879&nid=141)  
 [[译] 域名劫持事件发生后的应急响应策略](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvf9ej2&aid=7921&nid=142)  
 [Syscan360 会议胸牌破解揭秘](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F54s00q&aid=8362&nid=149)  
+[RESTful 架构风格下的 4 大常见安全问题](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmrc2rz&aid=8486&nid=151)  
+[安全行业从业人员自研开源扫描器合集](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fai97c5&aid=8546&nid=152)  
+[我的通行你的证](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fufuomc&aid=8547&nid=152)  

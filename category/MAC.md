@@ -27,3 +27,5 @@
 [Mac 软件推荐续（!程序猿篇）](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fms0zvk&aid=8107&nid=145)  
 [Mac 软件推荐（续）：程序猿篇](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%2FGU0_V99JqEDGfi6LOLGX6Q&aid=8154&nid=146)  
 [一个 Java 程序员眼中的 Mac OS](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Faxx29j&aid=8243&nid=147)  
+[一些口碑甚好的 Mac Apps 使用感受](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F5zfjyj&aid=8541&nid=152)  
+[Mac 平台常用的一些工具、软件](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpj0equ&aid=8542&nid=152)  

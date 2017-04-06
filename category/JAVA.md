@@ -320,3 +320,7 @@
 [Netty 笔记整理](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnow9or&aid=8309&nid=148)  
 [[译] 深入理解 Java 8 Lambda](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fs9i9iz&aid=8333&nid=149)  
 [JVM 源码分析之堆内存的初始化](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fip0uur&aid=8390&nid=150)  
+[2016 年开发者头条十大 Java / Android 开发者必读好文](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA4Njk2NDAzMA%3D%3D%26mid%3D2660206929%26idx%3D1%26sn%3Da92829b42b410240695669cc057d1927&aid=8448&nid=151)  
+[Stack Overflow 上关于 Java Collections 的几个常见问题](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fi8k8cg&aid=8452&nid=151)  
+[一个 RxJava 解决复杂业务逻辑的案例](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F9vhjxe&aid=8481&nid=151)  
+[[译] 如果你在 2016 年写过 Java 代码，这些趋势你不应该错过](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Foxc42m&aid=8510&nid=152)  

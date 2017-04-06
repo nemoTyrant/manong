@@ -12,3 +12,4 @@
 [Awesome Lua](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FLewisJEllis%2Fawesome-lua&aid=6857&nid=126)  
 [Lua 表的内存分配](http://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAxODkyNTMwMQ%3D%3D%26mid%3D2247483795%26idx%3D1%26sn%3D1dbacce26b1e5de970aab954f39a7d36&aid=7027&nid=129)  
 [快学 Lua](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Focjtrw&aid=7386&nid=134)  
+[Lua 编写 Wireshark 插件实战（2015）](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhugaju&aid=8524&nid=152)  

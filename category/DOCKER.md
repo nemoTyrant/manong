@@ -94,3 +94,4 @@
 [Docker 学习资源整理](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzguflq&aid=7999&nid=143)  
 [唯品会基于 Kubernetes 的网络方案演进](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fw2r6nb&aid=8061&nid=144)  
 [Docker 调试技巧](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2vg72z&aid=8364&nid=149)  
+[Docker 快速搭建 shadowsocks 服务](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F08qhco&aid=8549&nid=152)  

@@ -96,3 +96,4 @@
 [Redis slots 迁移丢 key 问题排查](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsx70gq&aid=8357&nid=149)  
 [Redis 实现原理之对象与编码](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F054u7u&aid=8366&nid=149)  
 [Redis 存储海量小数据，如何优化内存使用](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F79e2ee&aid=8401&nid=150)  
+[[译] 使用 Redis 进行消息传递](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fszaont&aid=8483&nid=151)  

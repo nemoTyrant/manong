@@ -28,3 +28,6 @@
 [vonic：基于 Vue.js 和 Ionic 的移动 UI 组件库](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fs2k3a9&aid=8252&nid=147)  
 [vue-cnode：基于 vue2 + vue-router + vuex + ES6 + less + flex.css 重写 vue 版 cnode 社区](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fl327n0&aid=8317&nid=148)  
 [vue-amap：基于 Vue 2.0 和高德地图的地图组件](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjor6zu&aid=8429&nid=150)  
+[高仿饿了么 App 商家详情（vue2 + vue-router2 + es6 + webpack）](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fq61i9d&aid=8496&nid=151)  
+[VueCircleMenu：美炸天的 Vue 圆环菜单组件](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F7hvxe4&aid=8565&nid=152)  
+[Rubik UI：Material Design 风格的轻量 Vue.js 组件库](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpvke1u&aid=8567&nid=152)  

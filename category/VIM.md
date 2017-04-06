@@ -27,3 +27,4 @@
 [给想学习 Vim 的超级小白的文章](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F48jhdt&aid=7740&nid=139)  
 [space-vim：终极 vim 配置](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fef1gwx&aid=8181&nid=146)  
 [vim 启动速度优化的一些经验](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fteqdm3&aid=8361&nid=149)  
+[SpaceVim：高度可定制模块化 vim 配置](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F0m2e9s&aid=8501&nid=151)  

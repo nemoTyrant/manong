@@ -38,3 +38,4 @@
 [打开 Spark 的正确姿势](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI0NjIzNDkwOA%3D%3D%26mid%3D2247483886%26idx%3D1%26sn%3Dd77d8bdd006f0860d7817daa88e645c3&aid=7795&nid=140)  
 [Spark Streaming + Elasticsearch 构建 App 异常监控平台](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5NjQ5MTI5OA%3D%3D%26mid%3D2651745502%26idx%3D2%26sn%3D3e51f4f96e350e88229ed201a3a37d2b&aid=7927&nid=142)  
 [搭建 Spark 源码研读和代码调试的开发环境](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcbizj7&aid=8223&nid=147)  
+[Spark 中进行聚合时的特殊场景](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Feje0t7&aid=8478&nid=151)  

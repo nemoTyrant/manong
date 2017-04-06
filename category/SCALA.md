@@ -26,3 +26,4 @@
 [我为什么想并且要学习 Scala](http://weekly.manong.io/bounce?url=https%3A%2F%2Fcodingstyle.cn%2Ftopics%2F134&aid=5580&nid=110)  
 [响应式编程思想（Scala）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.jasonding.top%2F2016%2F05%2F15%2FScala%2F%25E3%2580%2590Scala%25E3%2580%2591%25E5%2593%258D%25E5%25BA%2594%25E5%25BC%258F%25E7%25BC%2596%25E7%25A8%258B%25E6%2580%259D%25E6%2583%25B3%2F&aid=6230&nid=118)  
 [Scala 入门](http://weekly.manong.io/bounce?url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000005649116&aid=6475&nid=121)  
+[多面编程语言 Scala](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fm2ztl3&aid=8464&nid=151)  
