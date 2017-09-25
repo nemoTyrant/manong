@@ -14,7 +14,7 @@
 
 由于现在条目过多，在同一页显示全部内容已不再合适，所以按分类写到了不同文件里。仍然想以全部内容方式查看的可以点击[all.md](category/all.md)浏览。
 
-##索引
+##索引  
 [.NET](category/NET.md)  
 [Android](category/ANDROID.md)  
 [Angular](category/ANGULAR.md)  
